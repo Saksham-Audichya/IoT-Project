@@ -1,0 +1,2621 @@
+Grid,CSG518-1,CSG518-2,CSG518-3,CSG518-4,CSG518-5,CSG518-6,CSG518-7,CSG518-8
+A1,-81 dBm,-92 dBm,-77 dBm,-92 dBm,-77 dBm,-85 dBm,-74 dBm,-95 dBm
+A1,-80 dBm,-87 dBm,-79 dBm,-94 dBm,-88 dBm,-83 dBm,-76 dBm,-92 dBm
+A1,-81 dBm,-92 dBm,-77 dBm,-93 dBm,-78 dBm,-84 dBm,-76 dBm,-94 dBm
+A1,-79 dBm,-92 dBm,-80 dBm,-94 dBm,-77 dBm,-83 dBm,-74 dBm,-93 dBm
+A1,-80 dBm,-91 dBm,-79 dBm,-93 dBm,-79 dBm,-83 dBm,-76 dBm,-96 dBm
+A1,-80 dBm,-94 dBm,-77 dBm,-95 dBm,-79 dBm,-85 dBm,-77 dBm,-93 dBm
+A1,-78 dBm,-91 dBm,-80 dBm,-92 dBm,-79 dBm,-84 dBm,-79 dBm,-93 dBm
+A1,-79 dBm,-93 dBm,-74 dBm,-93 dBm,-81 dBm,-82 dBm,-73 dBm,-92 dBm
+A1,-77 dBm,-90 dBm,-74 dBm,-96 dBm,-74 dBm,-85 dBm,-76 dBm,-95 dBm
+A1,-79 dBm,-93 dBm,-72 dBm,-93 dBm,-77 dBm,-83 dBm,-79 dBm,-94 dBm
+A1,-78 dBm,-91 dBm,-72 dBm,-92 dBm,-75 dBm,-84 dBm,-80 dBm,-93 dBm
+A1,-79 dBm,-92 dBm,-74 dBm,-95 dBm,-75 dBm,-85 dBm,-77 dBm,-94 dBm
+A1,-77 dBm,-92 dBm,-74 dBm,0,-75 dBm,-84 dBm,-79 dBm,-92 dBm
+A1,-78 dBm,-91 dBm,-78 dBm,0,-77 dBm,-85 dBm,-77 dBm,-92 dBm
+A1,-80 dBm,-90 dBm,-76 dBm,0,-78 dBm,-82 dBm,-77 dBm,-96 dBm
+A1,-81 dBm,-96 dBm,-86 dBm,0,-82 dBm,-83 dBm,-78 dBm,0
+A1,-81 dBm,-86 dBm,-81 dBm,0,-73 dBm,-84 dBm,-74 dBm,0
+A1,-81 dBm,-89 dBm,-90 dBm,0,-71 dBm,-88 dBm,-71 dBm,0
+A1,-82 dBm,-88 dBm,-78 dBm,0,-76 dBm,-88 dBm,-72 dBm,0
+A1,-83 dBm,-90 dBm,-74 dBm,0,-75 dBm,-82 dBm,-72 dBm,0
+A1,-83 dBm,-90 dBm,-76 dBm,0,-77 dBm,-86 dBm,-70 dBm,0
+A1,-81 dBm,-96 dBm,-76 dBm,0,-76 dBm,-80 dBm,-71 dBm,0
+A1,-82 dBm,-92 dBm,-74 dBm,0,-79 dBm,-86 dBm,-75 dBm,0
+A1,-80 dBm,-91 dBm,-70 dBm,0,-75 dBm,-81 dBm,-75 dBm,0
+A1,-81 dBm,-91 dBm,-72 dBm,0,-76 dBm,-85 dBm,-76 dBm,0
+A1,-76 dBm,-94 dBm,-73 dBm,0,-77 dBm,-89 dBm,-78 dBm,0
+A1,-72 dBm,-94 dBm,-70 dBm,0,-84 dBm,-83 dBm,-85 dBm,0
+A1,-77 dBm,-92 dBm,-75 dBm,0,-79 dBm,-84 dBm,-82 dBm,0
+A1,-82 dBm,-91 dBm,-76 dBm,0,-77 dBm,-79 dBm,-86 dBm,0
+A1,-81 dBm,-95 dBm,-78 dBm,0,-74 dBm,-85 dBm,-82 dBm,0
+A1,-81 dBm,-92 dBm,-72 dBm,0,-74 dBm,-83 dBm,-75 dBm,0
+A1,-81 dBm,0,-74 dBm,0,-75 dBm,-81 dBm,-76 dBm,0
+A1,-80 dBm,0,-74 dBm,0,-73 dBm,-81 dBm,-76 dBm,0
+A1,-87 dBm,0,-76 dBm,0,-77 dBm,-83 dBm,-81 dBm,0
+A1,-80 dBm,0,-76 dBm,0,-76 dBm,-85 dBm,-81 dBm,0
+,,,,,,,,
+A2,-79 dBm,-86 dBm,-70 dBm,-89 dBm,-77 dBm,-78 dBm,-69 dBm,-88 dBm
+A2,-79 dBm,-83 dBm,-72 dBm,-91 dBm,-77 dBm,-78 dBm,-70 dBm,-87 dBm
+A2,-79 dBm,-91 dBm,-71 dBm,-88 dBm,-78 dBm,-79 dBm,-69 dBm,-88 dBm
+A2,-79 dBm,-87 dBm,-72 dBm,-90 dBm,-77 dBm,-79 dBm,-70 dBm,-89 dBm
+A2,-80 dBm,-87 dBm,-71 dBm,-91 dBm,-84 dBm,-79 dBm,-71 dBm,-89 dBm
+A2,-79 dBm,-83 dBm,-70 dBm,-92 dBm,-79 dBm,-79 dBm,-68 dBm,-87 dBm
+A2,-76 dBm,-87 dBm,-76 dBm,-91 dBm,-78 dBm,-79 dBm,-71 dBm,-88 dBm
+A2,-81 dBm,-86 dBm,-74 dBm,-95 dBm,-77 dBm,-76 dBm,-69 dBm,-87 dBm
+A2,-82 dBm,-85 dBm,-74 dBm,-93 dBm,-77 dBm,-79 dBm,-70 dBm,-89 dBm
+A2,-79 dBm,-89 dBm,-72 dBm,-90 dBm,-81 dBm,-79 dBm,-68 dBm,-89 dBm
+A2,-78 dBm,-87 dBm,-69 dBm,-90 dBm,-83 dBm,-78 dBm,-68 dBm,-88 dBm
+A2,-77 dBm,-88 dBm,-72 dBm,-91 dBm,-81 dBm,-82 dBm,-69 dBm,-88 dBm
+A2,-78 dBm,-86 dBm,-73 dBm,-88 dBm,-82 dBm,-77 dBm,-69 dBm,-88 dBm
+A2,-78 dBm,-86 dBm,-72 dBm,-91 dBm,-81 dBm,-78 dBm,-71 dBm,-87 dBm
+A2,-80 dBm,-88 dBm,-71 dBm,-91 dBm,-81 dBm,-78 dBm,-68 dBm,-88 dBm
+A2,-80 dBm,-90 dBm,-74 dBm,-90 dBm,-82 dBm,-76 dBm,-71 dBm,-87 dBm
+A2,-81 dBm,-87 dBm,-74 dBm,-91 dBm,-83 dBm,-76 dBm,-72 dBm,-89 dBm
+A2,-80 dBm,-88 dBm,-74 dBm,-91 dBm,-84 dBm,-79 dBm,-71 dBm,-89 dBm
+A2,-78 dBm,-93 dBm,-72 dBm,-89 dBm,-77 dBm,-79 dBm,-69 dBm,-86 dBm
+A2,-77 dBm,-87 dBm,-70 dBm,-92 dBm,-75 dBm,-80 dBm,-68 dBm,-87 dBm
+A2,-80 dBm,-88 dBm,-70 dBm,-91 dBm,-78 dBm,-83 dBm,-68 dBm,-88 dBm
+A2,-79 dBm,-91 dBm,-71 dBm,-92 dBm,-76 dBm,-81 dBm,-69 dBm,-86 dBm
+A2,-79 dBm,-86 dBm,-70 dBm,-93 dBm,-73 dBm,-78 dBm,-70 dBm,-88 dBm
+A2,-77 dBm,-90 dBm,-72 dBm,-90 dBm,-78 dBm,-81 dBm,-70 dBm,-90 dBm
+A2,-80 dBm,-89 dBm,-70 dBm,-90 dBm,-76 dBm,-81 dBm,-67 dBm,-87 dBm
+A2,-77 dBm,-88 dBm,-68 dBm,-90 dBm,-76 dBm,-81 dBm,-68 dBm,-89 dBm
+A2,-78 dBm,-89 dBm,-72 dBm,-91 dBm,-79 dBm,-81 dBm,-69 dBm,-89 dBm
+A2,-79 dBm,-90 dBm,-71 dBm,-91 dBm,-78 dBm,-81 dBm,-68 dBm,-88 dBm
+A2,-80 dBm,-88 dBm,-74 dBm,-91 dBm,-85 dBm,-87 dBm,-67 dBm,-90 dBm
+A2,-80 dBm,-89 dBm,-72 dBm,-90 dBm,-79 dBm,-77 dBm,-69 dBm,-90 dBm
+,,,,,,,,
+A3,-75 dBm,-86 dBm,-65 dBm,-90 dBm,-74 dBm,-87 dBm,-72 dBm,-91 dBm
+A3,-76 dBm,-83 dBm,-65 dBm,-89 dBm,-71 dBm,-87 dBm,-71 dBm,-94 dBm
+A3,-74 dBm,-83 dBm,-66 dBm,-87 dBm,-73 dBm,-91 dBm,-72 dBm,-94 dBm
+A3,-77 dBm,-86 dBm,-65 dBm,-89 dBm,-72 dBm,-91 dBm,-71 dBm,-94 dBm
+A3,-76 dBm,-88 dBm,-67 dBm,-88 dBm,-73 dBm,-91 dBm,-73 dBm,-93 dBm
+A3,-77 dBm,-94 dBm,-65 dBm,-90 dBm,-72 dBm,-90 dBm,-73 dBm,-95 dBm
+A3,-76 dBm,-86 dBm,-65 dBm,-88 dBm,-70 dBm,-91 dBm,-73 dBm,-92 dBm
+A3,-76 dBm,-86 dBm,-65 dBm,-87 dBm,-69 dBm,-88 dBm,-73 dBm,0
+A3,-75 dBm,-85 dBm,-64 dBm,-88 dBm,-72 dBm,-91 dBm,-74 dBm,0
+A3,-74 dBm,-86 dBm,-64 dBm,-88 dBm,-72 dBm,-89 dBm,-72 dBm,0
+A3,-83 dBm,-82 dBm,-69 dBm,-86 dBm,-72 dBm,-90 dBm,-72 dBm,0
+A3,-73 dBm,-83 dBm,-66 dBm,-88 dBm,-70 dBm,-88 dBm,-72 dBm,0
+A3,-75 dBm,-86 dBm,-65 dBm,-84 dBm,-72 dBm,-92 dBm,-72 dBm,0
+A3,-76 dBm,-85 dBm,-65 dBm,-87 dBm,-72 dBm,-91 dBm,-74 dBm,0
+A3,-74 dBm,-84 dBm,-65 dBm,-88 dBm,-72 dBm,-90 dBm,-72 dBm,0
+A3,-77 dBm,-86 dBm,-65 dBm,-87 dBm,-72 dBm,-92 dBm,-72 dBm,0
+A3,-76 dBm,-86 dBm,-65 dBm,-87 dBm,-73 dBm,-90 dBm,-73 dBm,0
+A3,-76 dBm,-84 dBm,-64 dBm,-90 dBm,-72 dBm,-91 dBm,-72 dBm,0
+A3,-75 dBm,-86 dBm,-65 dBm,-88 dBm,-71 dBm,-91 dBm,-73 dBm,0
+A3,-76 dBm,-84 dBm,-65 dBm,-88 dBm,-71 dBm,-88 dBm,-73 dBm,0
+A3,-75 dBm,-88 dBm,-65 dBm,-90 dBm,-69 dBm,-89 dBm,-72 dBm,0
+A3,-76 dBm,-83 dBm,-65 dBm,-87 dBm,-70 dBm,-88 dBm,-72 dBm,0
+A3,-76 dBm,-83 dBm,-66 dBm,-86 dBm,-73 dBm,-89 dBm,-73 dBm,0
+A3,-77 dBm,-84 dBm,-64 dBm,-88 dBm,-71 dBm,-91 dBm,-72 dBm,0
+A3,-76 dBm,-83 dBm,-65 dBm,-87 dBm,-73 dBm,-91 dBm,-71 dBm,0
+A3,-70 dBm,-84 dBm,-67 dBm,-87 dBm,-75 dBm,-95 dBm,-75 dBm,0
+A3,-77 dBm,-83 dBm,-65 dBm,-87 dBm,-72 dBm,-83 dBm,-75 dBm,0
+A3,-78 dBm,-81 dBm,-65 dBm,-91 dBm,-74 dBm,-89 dBm,-75 dBm,0
+A3,-81 dBm,-81 dBm,-64 dBm,-88 dBm,-76 dBm,-87 dBm,-69 dBm,0
+A3,-77 dBm,-90 dBm,-68 dBm,-93 dBm,-86 dBm,-89 dBm,-72 dBm,0
+A3,-74 dBm,-87 dBm,-70 dBm,-91 dBm,-76 dBm,-86 dBm,-70 dBm,0
+A3,-74 dBm,-86 dBm,-72 dBm,-90 dBm,-73 dBm,-90 dBm,-74 dBm,0
+,,,,,,,,
+A4,-75 dBm,-86 dBm,-61 dBm,-95 dBm,-66 dBm,-69 dBm,-65 dBm,-95 dBm
+A4,-72 dBm,-82 dBm,-62 dBm,-89 dBm,-64 dBm,-70 dBm,-69 dBm,-90 dBm
+A4,-72 dBm,-84 dBm,-60 dBm,-90 dBm,-65 dBm,-74 dBm,-69 dBm,-92 dBm
+A4,-70 dBm,-86 dBm,-69 dBm,-86 dBm,-70 dBm,-79 dBm,-67 dBm,-91 dBm
+A4,-69 dBm,-78 dBm,-66 dBm,-85 dBm,-66 dBm,-77 dBm,-75 dBm,-90 dBm
+A4,-71 dBm,-81 dBm,-67 dBm,-85 dBm,-68 dBm,-75 dBm,-74 dBm,-91 dBm
+A4,-73 dBm,-89 dBm,-69 dBm,-85 dBm,-66 dBm,-74 dBm,-72 dBm,-89 dBm
+A4,-71 dBm,-81 dBm,-61 dBm,-95 dBm,-67 dBm,-76 dBm,-64 dBm,-87 dBm
+A4,-69 dBm,-90 dBm,-63 dBm,-91 dBm,-63 dBm,-80 dBm,-66 dBm,-91 dBm
+A4,-79 dBm,-86 dBm,-60 dBm,-82 dBm,-70 dBm,-84 dBm,-68 dBm,-86 dBm
+A4,-81 dBm,-81 dBm,-71 dBm,-87 dBm,-76 dBm,-72 dBm,-75 dBm,-90 dBm
+A4,-72 dBm,-84 dBm,-73 dBm,-83 dBm,-70 dBm,-88 dBm,-76 dBm,-93 dBm
+A4,-72 dBm,-86 dBm,-73 dBm,-88 dBm,-69 dBm,-81 dBm,-74 dBm,-91 dBm
+A4,-71 dBm,-86 dBm,-73 dBm,-87 dBm,-69 dBm,-81 dBm,-70 dBm,-92 dBm
+A4,-71 dBm,-84 dBm,-73 dBm,-85 dBm,-70 dBm,-82 dBm,-73 dBm,-93 dBm
+A4,-69 dBm,-82 dBm,-71 dBm,-86 dBm,-66 dBm,-83 dBm,-70 dBm,-92 dBm
+A4,-70 dBm,-82 dBm,-75 dBm,-87 dBm,-70 dBm,-78 dBm,-72 dBm,-90 dBm
+A4,-74 dBm,-86 dBm,-72 dBm,-86 dBm,-65 dBm,-81 dBm,-72 dBm,-97 dBm
+A4,-71 dBm,-84 dBm,-72 dBm,-86 dBm,-66 dBm,-81 dBm,-71 dBm,-92 dBm
+A4,-74 dBm,-87 dBm,-72 dBm,-85 dBm,-75 dBm,-84 dBm,-71 dBm,-93 dBm
+A4,-73 dBm,-86 dBm,-73 dBm,-86 dBm,-80 dBm,-83 dBm,-68 dBm,-93 dBm
+A4,-73 dBm,-80 dBm,-72 dBm,-86 dBm,-78 dBm,-81 dBm,-68 dBm,-95 dBm
+A4,-73 dBm,-83 dBm,-76 dBm,-86 dBm,-78 dBm,-81 dBm,-69 dBm,-95 dBm
+A4,-75 dBm,-88 dBm,-74 dBm,-85 dBm,-79 dBm,-82 dBm,-68 dBm,-95 dBm
+A4,-71 dBm,-88 dBm,-72 dBm,-84 dBm,-73 dBm,-83 dBm,-69 dBm,-92 dBm
+A4,-73 dBm,-83 dBm,-77 dBm,-85 dBm,-82 dBm,-82 dBm,-72 dBm,-91 dBm
+A4,-75 dBm,-87 dBm,-76 dBm,-84 dBm,-84 dBm,-80 dBm,-70 dBm,-94 dBm
+A4,-77 dBm,-88 dBm,-73 dBm,-82 dBm,-80 dBm,-79 dBm,-73 dBm,-93 dBm
+A4,-76 dBm,-85 dBm,-77 dBm,-84 dBm,-74 dBm,-80 dBm,-73 dBm,-90 dBm
+A4,-74 dBm,-84 dBm,-72 dBm,-85 dBm,-74 dBm,-78 dBm,-77 dBm,-95 dBm
+A4,-73 dBm,-85 dBm,-69 dBm,-85 dBm,-76 dBm,-82 dBm,-80 dBm,-94 dBm
+A4,-75 dBm,-84 dBm,-69 dBm,-84 dBm,-74 dBm,-83 dBm,-72 dBm,0
+,,,,,,,,
+A6,-65 dBm,-72 dBm,-61 dBm,-83 dBm,-71 dBm,-79 dBm,-71 dBm,-84 dBm
+A6,-68 dBm,-74 dBm,-63 dBm,-86 dBm,-78 dBm,-80 dBm,-77 dBm,-83 dBm
+A6,-65 dBm,-72 dBm,-62 dBm,-83 dBm,-72 dBm,-83 dBm,-78 dBm,-81 dBm
+A6,-66 dBm,-74 dBm,-62 dBm,-82 dBm,-79 dBm,-78 dBm,-74 dBm,-78 dBm
+A6,-69 dBm,-75 dBm,-63 dBm,-83 dBm,-77 dBm,-77 dBm,-74 dBm,-82 dBm
+A6,-68 dBm,-74 dBm,-62 dBm,-83 dBm,-79 dBm,-78 dBm,-75 dBm,-83 dBm
+A6,-69 dBm,-71 dBm,-63 dBm,-83 dBm,-71 dBm,-83 dBm,-79 dBm,-84 dBm
+A6,-70 dBm,-77 dBm,-71 dBm,-85 dBm,-72 dBm,-81 dBm,-75 dBm,-84 dBm
+A6,-69 dBm,-76 dBm,-65 dBm,-85 dBm,-71 dBm,-83 dBm,-77 dBm,-84 dBm
+A6,-70 dBm,-72 dBm,-60 dBm,-89 dBm,-73 dBm,-81 dBm,-75 dBm,-84 dBm
+A6,-66 dBm,-73 dBm,-65 dBm,-89 dBm,-76 dBm,-82 dBm,-78 dBm,-81 dBm
+A6,-74 dBm,-74 dBm,-67 dBm,-86 dBm,-66 dBm,-81 dBm,-81 dBm,-86 dBm
+A6,-69 dBm,-73 dBm,-64 dBm,-83 dBm,-70 dBm,-82 dBm,-75 dBm,-85 dBm
+A6,-67 dBm,-72 dBm,-62 dBm,-85 dBm,-79 dBm,-80 dBm,-73 dBm,-82 dBm
+A6,-64 dBm,-72 dBm,-63 dBm,-85 dBm,-70 dBm,-82 dBm,-71 dBm,-83 dBm
+A6,-68 dBm,-72 dBm,-62 dBm,-85 dBm,-75 dBm,-79 dBm,-74 dBm,-83 dBm
+A6,-67 dBm,-70 dBm,-62 dBm,-84 dBm,-74 dBm,-78 dBm,-77 dBm,-83 dBm
+A6,-68 dBm,-71 dBm,-62 dBm,-83 dBm,-77 dBm,-80 dBm,-75 dBm,-84 dBm
+A6,-68 dBm,-73 dBm,-63 dBm,-82 dBm,-75 dBm,-80 dBm,-74 dBm,-79 dBm
+A6,-70 dBm,-73 dBm,-62 dBm,-84 dBm,-73 dBm,-82 dBm,-75 dBm,-85 dBm
+A6,-67 dBm,-72 dBm,-63 dBm,-85 dBm,-75 dBm,-82 dBm,-75 dBm,-83 dBm
+A6,-67 dBm,-71 dBm,-61 dBm,-83 dBm,-76 dBm,-80 dBm,-82 dBm,-82 dBm
+A6,-69 dBm,-74 dBm,-68 dBm,-83 dBm,-71 dBm,-82 dBm,-76 dBm,-84 dBm
+A6,-75 dBm,-73 dBm,-63 dBm,-86 dBm,-74 dBm,-80 dBm,-72 dBm,-82 dBm
+A6,-70 dBm,-79 dBm,-62 dBm,-86 dBm,-76 dBm,-82 dBm,-73 dBm,-81 dBm
+A6,-70 dBm,-76 dBm,-60 dBm,-85 dBm,-72 dBm,-82 dBm,-76 dBm,-83 dBm
+A6,-69 dBm,-73 dBm,-65 dBm,-87 dBm,-75 dBm,-87 dBm,-77 dBm,-82 dBm
+A6,-66 dBm,-71 dBm,-63 dBm,-88 dBm,-76 dBm,-81 dBm,-72 dBm,-81 dBm
+A6,-66 dBm,-73 dBm,-62 dBm,-84 dBm,-75 dBm,-80 dBm,-74 dBm,-80 dBm
+A6,-67 dBm,-75 dBm,-60 dBm,-85 dBm,-77 dBm,-76 dBm,-72 dBm,-81 dBm
+A6,-67 dBm,-71 dBm,-63 dBm,-83 dBm,-73 dBm,-83 dBm,-81 dBm,-86 dBm
+A6,-69 dBm,-73 dBm,-61 dBm,-82 dBm,-75 dBm,0,-72 dBm,-87 dBm
+,,,,,,,,
+A7,-75 dBm,-67 dBm,-67 dBm,-85 dBm,-72 dBm,-81 dBm,-72 dBm,-79 dBm
+A7,-75 dBm,-71 dBm,-65 dBm,-86 dBm,-73 dBm,-81 dBm,-76 dBm,-80 dBm
+A7,-76 dBm,-70 dBm,-68 dBm,-85 dBm,-75 dBm,-80 dBm,-78 dBm,-78 dBm
+A7,-73 dBm,-68 dBm,-66 dBm,-88 dBm,-73 dBm,-82 dBm,-77 dBm,-79 dBm
+A7,-75 dBm,-67 dBm,-64 dBm,-86 dBm,-75 dBm,-80 dBm,-69 dBm,-81 dBm
+A7,-70 dBm,-70 dBm,-57 dBm,-90 dBm,-87 dBm,-81 dBm,-63 dBm,-86 dBm
+A7,-74 dBm,-71 dBm,-57 dBm,-88 dBm,-79 dBm,-82 dBm,-66 dBm,-87 dBm
+A7,-74 dBm,-74 dBm,-58 dBm,-89 dBm,-78 dBm,-81 dBm,-65 dBm,-87 dBm
+A7,-75 dBm,-73 dBm,-60 dBm,-88 dBm,-78 dBm,-83 dBm,-66 dBm,-87 dBm
+A7,-71 dBm,-76 dBm,-63 dBm,-90 dBm,-75 dBm,-79 dBm,-66 dBm,-86 dBm
+A7,-72 dBm,-69 dBm,-62 dBm,-97 dBm,-76 dBm,-81 dBm,-65 dBm,-86 dBm
+A7,-75 dBm,-70 dBm,-61 dBm,-89 dBm,-83 dBm,-77 dBm,-66 dBm,-85 dBm
+A7,-73 dBm,-71 dBm,-64 dBm,-90 dBm,-82 dBm,-83 dBm,-66 dBm,-87 dBm
+A7,-73 dBm,-72 dBm,-60 dBm,-91 dBm,-79 dBm,-82 dBm,-66 dBm,-85 dBm
+A7,-72 dBm,-72 dBm,-62 dBm,-88 dBm,-78 dBm,-84 dBm,-68 dBm,-85 dBm
+A7,-72 dBm,-71 dBm,-60 dBm,-91 dBm,-76 dBm,-79 dBm,-65 dBm,-87 dBm
+A7,-74 dBm,-79 dBm,-59 dBm,-89 dBm,-74 dBm,-82 dBm,-66 dBm,-85 dBm
+A7,-73 dBm,-80 dBm,-61 dBm,-88 dBm,-77 dBm,-81 dBm,-69 dBm,-87 dBm
+A7,-70 dBm,-82 dBm,-59 dBm,-89 dBm,-74 dBm,-83 dBm,-68 dBm,-85 dBm
+A7,-72 dBm,-80 dBm,-59 dBm,-95 dBm,-77 dBm,-82 dBm,-67 dBm,-92 dBm
+A7,-73 dBm,-80 dBm,-60 dBm,-90 dBm,-74 dBm,-81 dBm,-67 dBm,-85 dBm
+A7,-72 dBm,-80 dBm,-63 dBm,-91 dBm,-77 dBm,-81 dBm,-66 dBm,-89 dBm
+A7,-73 dBm,-79 dBm,-61 dBm,-89 dBm,-86 dBm,-82 dBm,-70 dBm,-85 dBm
+A7,-73 dBm,-68 dBm,-69 dBm,-91 dBm,-79 dBm,-81 dBm,-68 dBm,-87 dBm
+A7,-75 dBm,-72 dBm,-68 dBm,-90 dBm,-78 dBm,-85 dBm,-66 dBm,-87 dBm
+A7,-74 dBm,-73 dBm,-65 dBm,-92 dBm,-77 dBm,-82 dBm,-66 dBm,-87 dBm
+A7,-71 dBm,-76 dBm,-60 dBm,-89 dBm,-79 dBm,-83 dBm,-69 dBm,-85 dBm
+A7,-73 dBm,-73 dBm,-58 dBm,-92 dBm,-79 dBm,-81 dBm,-67 dBm,-86 dBm
+A7,-75 dBm,-71 dBm,-60 dBm,-94 dBm,-78 dBm,-80 dBm,-67 dBm,-86 dBm
+A7,-72 dBm,-71 dBm,-61 dBm,-86 dBm,-76 dBm,-80 dBm,-68 dBm,-86 dBm
+A7,-73 dBm,-75 dBm,-61 dBm,0,-73 dBm,-80 dBm,-66 dBm,-85 dBm
+,,,,,,,,
+A8,-76 dBm,-60 dBm,-69 dBm,-92 dBm,-73 dBm,-95 dBm,-68 dBm,-90 dBm
+A8,-74 dBm,-60 dBm,-65 dBm,-92 dBm,-77 dBm,-92 dBm,-67 dBm,-90 dBm
+A8,-76 dBm,-60 dBm,-66 dBm,-93 dBm,-77 dBm,-92 dBm,-67 dBm,-92 dBm
+A8,-72 dBm,-58 dBm,-64 dBm,-93 dBm,-74 dBm,-90 dBm,-68 dBm,-90 dBm
+A8,-75 dBm,-60 dBm,-65 dBm,-95 dBm,-75 dBm,-90 dBm,-68 dBm,-91 dBm
+A8,-74 dBm,-59 dBm,-65 dBm,-92 dBm,-76 dBm,-91 dBm,-70 dBm,-91 dBm
+A8,-74 dBm,-61 dBm,-66 dBm,-92 dBm,-76 dBm,-92 dBm,-69 dBm,-91 dBm
+A8,-73 dBm,-59 dBm,-65 dBm,-92 dBm,-76 dBm,-91 dBm,-69 dBm,-88 dBm
+A8,-75 dBm,-61 dBm,-67 dBm,-89 dBm,-75 dBm,-86 dBm,-69 dBm,-93 dBm
+A8,-74 dBm,-60 dBm,-66 dBm,-95 dBm,-77 dBm,-89 dBm,-68 dBm,-91 dBm
+A8,-74 dBm,-60 dBm,-65 dBm,-92 dBm,-73 dBm,-90 dBm,-70 dBm,-92 dBm
+A8,-75 dBm,-59 dBm,-66 dBm,-93 dBm,-75 dBm,-91 dBm,-69 dBm,-90 dBm
+A8,-75 dBm,-58 dBm,-66 dBm,-92 dBm,-75 dBm,-90 dBm,-70 dBm,-89 dBm
+A8,-74 dBm,-60 dBm,-64 dBm,-91 dBm,-74 dBm,-92 dBm,-69 dBm,-92 dBm
+A8,-73 dBm,-58 dBm,-66 dBm,-91 dBm,-75 dBm,-91 dBm,-68 dBm,-91 dBm
+A8,-75 dBm,-60 dBm,-66 dBm,-93 dBm,-75 dBm,-92 dBm,-69 dBm,-90 dBm
+A8,-74 dBm,-60 dBm,-65 dBm,-93 dBm,-77 dBm,-91 dBm,-70 dBm,-90 dBm
+A8,-73 dBm,-56 dBm,-65 dBm,-92 dBm,-78 dBm,-92 dBm,-70 dBm,-91 dBm
+A8,-75 dBm,-59 dBm,-66 dBm,-90 dBm,-76 dBm,-91 dBm,-69 dBm,-92 dBm
+A8,-75 dBm,-59 dBm,-65 dBm,-91 dBm,-77 dBm,-91 dBm,-70 dBm,-89 dBm
+A8,-75 dBm,-58 dBm,-65 dBm,-93 dBm,-76 dBm,-89 dBm,-70 dBm,-90 dBm
+A8,-75 dBm,-59 dBm,-64 dBm,-93 dBm,-75 dBm,-90 dBm,-69 dBm,-91 dBm
+A8,-74 dBm,-59 dBm,-65 dBm,-93 dBm,-75 dBm,-88 dBm,-67 dBm,-91 dBm
+A8,-74 dBm,-60 dBm,-60 dBm,-94 dBm,-74 dBm,-88 dBm,-67 dBm,-92 dBm
+A8,-75 dBm,-60 dBm,-66 dBm,-89 dBm,-75 dBm,-88 dBm,-75 dBm,-92 dBm
+A8,-74 dBm,-59 dBm,-66 dBm,-92 dBm,-74 dBm,-90 dBm,-67 dBm,-92 dBm
+A8,-75 dBm,-59 dBm,-65 dBm,-92 dBm,-75 dBm,-87 dBm,-69 dBm,-92 dBm
+A8,-74 dBm,-61 dBm,-65 dBm,-89 dBm,-76 dBm,-90 dBm,-71 dBm,-92 dBm
+A8,-75 dBm,-60 dBm,-66 dBm,-93 dBm,-75 dBm,-93 dBm,-68 dBm,-89 dBm
+A8,-75 dBm,-60 dBm,-65 dBm,-94 dBm,-77 dBm,-91 dBm,-69 dBm,-91 dBm
+A8,-74 dBm,-60 dBm,-62 dBm,-90 dBm,-77 dBm,-91 dBm,-69 dBm,-91 dBm
+A8,-76 dBm,-59 dBm,-64 dBm,-94 dBm,-75 dBm,0,-69 dBm,-91 dBm
+A8,-77 dBm,-59 dBm,-69 dBm,0,-76 dBm,0,-68 dBm,-89 dBm
+,,,,,,,,
+A9,-71 dBm,-72 dBm,-84 dBm,-94 dBm,-78 dBm,-88 dBm,-77 dBm,-93 dBm
+A9,-74 dBm,-86 dBm,-78 dBm,-94 dBm,-75 dBm,-90 dBm,-77 dBm,-91 dBm
+A9,-73 dBm,-73 dBm,-78 dBm,-94 dBm,-77 dBm,-87 dBm,-82 dBm,-91 dBm
+A9,-70 dBm,-76 dBm,-77 dBm,-94 dBm,-80 dBm,-89 dBm,-79 dBm,-94 dBm
+A9,-75 dBm,-71 dBm,-77 dBm,-94 dBm,-81 dBm,-90 dBm,-86 dBm,-92 dBm
+A9,-78 dBm,-69 dBm,-80 dBm,-93 dBm,-79 dBm,-89 dBm,-86 dBm,-90 dBm
+A9,-74 dBm,-78 dBm,-76 dBm,-94 dBm,-79 dBm,-93 dBm,-81 dBm,-96 dBm
+A9,-83 dBm,-74 dBm,-78 dBm,-93 dBm,-77 dBm,-92 dBm,-75 dBm,-92 dBm
+A9,-70 dBm,-76 dBm,-76 dBm,-94 dBm,-76 dBm,-91 dBm,-79 dBm,-92 dBm
+A9,-69 dBm,-73 dBm,-86 dBm,-93 dBm,-79 dBm,-93 dBm,-80 dBm,-92 dBm
+A9,-74 dBm,-75 dBm,-80 dBm,-94 dBm,-75 dBm,-90 dBm,-85 dBm,-94 dBm
+A9,-73 dBm,-76 dBm,-73 dBm,-94 dBm,-78 dBm,-87 dBm,-82 dBm,-93 dBm
+A9,-73 dBm,-74 dBm,-77 dBm,-94 dBm,-77 dBm,-90 dBm,-78 dBm,-91 dBm
+A9,-73 dBm,-76 dBm,-78 dBm,-91 dBm,-77 dBm,-88 dBm,-82 dBm,-93 dBm
+A9,-74 dBm,-75 dBm,-79 dBm,-94 dBm,-78 dBm,-88 dBm,-84 dBm,-93 dBm
+A9,-74 dBm,-76 dBm,-78 dBm,-92 dBm,-78 dBm,-92 dBm,-82 dBm,-92 dBm
+A9,-70 dBm,-77 dBm,-78 dBm,-92 dBm,-77 dBm,-93 dBm,-84 dBm,-93 dBm
+A9,-72 dBm,-74 dBm,-80 dBm,-92 dBm,-78 dBm,-89 dBm,-85 dBm,-92 dBm
+A9,-72 dBm,-77 dBm,-79 dBm,-95 dBm,-75 dBm,-91 dBm,-84 dBm,-92 dBm
+A9,-74 dBm,-75 dBm,-80 dBm,-93 dBm,-78 dBm,-90 dBm,-83 dBm,-93 dBm
+A9,-73 dBm,-74 dBm,-81 dBm,-96 dBm,-78 dBm,-91 dBm,-86 dBm,-93 dBm
+A9,-74 dBm,-74 dBm,-80 dBm,-94 dBm,-79 dBm,-90 dBm,-82 dBm,-93 dBm
+A9,-74 dBm,-75 dBm,-79 dBm,-94 dBm,-79 dBm,-90 dBm,-85 dBm,-93 dBm
+A9,-73 dBm,-76 dBm,-79 dBm,0,-78 dBm,-91 dBm,-83 dBm,-92 dBm
+A9,-72 dBm,-75 dBm,-80 dBm,0,-78 dBm,-94 dBm,-82 dBm,-91 dBm
+A9,-73 dBm,-76 dBm,-79 dBm,0,-78 dBm,-90 dBm,-84 dBm,-93 dBm
+A9,-74 dBm,-75 dBm,-78 dBm,0,-77 dBm,-90 dBm,-83 dBm,-92 dBm
+A9,-74 dBm,-75 dBm,-78 dBm,0,-79 dBm,-93 dBm,-83 dBm,-93 dBm
+A9,-71 dBm,-75 dBm,-79 dBm,0,-79 dBm,-88 dBm,-83 dBm,-94 dBm
+A9,-74 dBm,-75 dBm,-80 dBm,0,-78 dBm,-90 dBm,-84 dBm,-94 dBm
+A9,-74 dBm,-74 dBm,-79 dBm,0,-79 dBm,0,-83 dBm,-92 dBm
+A9,-73 dBm,-76 dBm,-80 dBm,0,-80 dBm,0,-83 dBm,0
+,,,,,,,,
+B1,-86 dBm,-86 dBm,-72 dBm,-94 dBm,-73 dBm,-78 dBm,-81 dBm,-90 dBm
+B1,-79 dBm,-86 dBm,-68 dBm,-93 dBm,-71 dBm,-83 dBm,-76 dBm,-92 dBm
+B1,-80 dBm,-88 dBm,-70 dBm,-90 dBm,-72 dBm,-76 dBm,-78 dBm,-89 dBm
+B1,-77 dBm,-86 dBm,-69 dBm,-94 dBm,-71 dBm,-83 dBm,-81 dBm,-93 dBm
+B1,-76 dBm,-89 dBm,-72 dBm,-91 dBm,-70 dBm,-81 dBm,-85 dBm,-92 dBm
+B1,-80 dBm,-88 dBm,-68 dBm,-90 dBm,-70 dBm,-82 dBm,-82 dBm,-91 dBm
+B1,-76 dBm,-88 dBm,-72 dBm,-93 dBm,-71 dBm,-81 dBm,-83 dBm,-93 dBm
+B1,-78 dBm,-86 dBm,-66 dBm,-93 dBm,-70 dBm,-79 dBm,-85 dBm,-93 dBm
+B1,-77 dBm,-84 dBm,-69 dBm,-91 dBm,-70 dBm,-79 dBm,-77 dBm,-91 dBm
+B1,-81 dBm,-88 dBm,-70 dBm,-93 dBm,-69 dBm,-78 dBm,-78 dBm,-93 dBm
+B1,-79 dBm,-87 dBm,-73 dBm,-94 dBm,-69 dBm,-80 dBm,-78 dBm,-94 dBm
+B1,-82 dBm,-86 dBm,-68 dBm,-94 dBm,-68 dBm,-76 dBm,-77 dBm,-92 dBm
+B1,-82 dBm,-86 dBm,-68 dBm,-90 dBm,-73 dBm,-74 dBm,-83 dBm,-91 dBm
+B1,-80 dBm,-89 dBm,-67 dBm,-91 dBm,-70 dBm,-81 dBm,-71 dBm,-94 dBm
+B1,-78 dBm,-86 dBm,-68 dBm,-90 dBm,-71 dBm,-75 dBm,-76 dBm,-92 dBm
+B1,-78 dBm,-85 dBm,-70 dBm,-92 dBm,-69 dBm,-76 dBm,-77 dBm,-93 dBm
+B1,-77 dBm,-88 dBm,-65 dBm,-91 dBm,-71 dBm,-80 dBm,-77 dBm,-89 dBm
+B1,-83 dBm,-91 dBm,-67 dBm,-92 dBm,-69 dBm,-76 dBm,-75 dBm,-90 dBm
+B1,-84 dBm,-93 dBm,-69 dBm,-94 dBm,-70 dBm,-75 dBm,-82 dBm,-89 dBm
+B1,-82 dBm,-93 dBm,-69 dBm,-93 dBm,-70 dBm,-75 dBm,-81 dBm,-89 dBm
+B1,-80 dBm,-86 dBm,-69 dBm,-93 dBm,-68 dBm,-79 dBm,-84 dBm,-92 dBm
+B1,-82 dBm,-88 dBm,-67 dBm,-92 dBm,-70 dBm,-79 dBm,-82 dBm,-91 dBm
+B1,-81 dBm,-86 dBm,-69 dBm,-93 dBm,-70 dBm,-80 dBm,-80 dBm,-91 dBm
+B1,-81 dBm,-85 dBm,-68 dBm,-92 dBm,-68 dBm,-79 dBm,-75 dBm,-91 dBm
+B1,-82 dBm,-87 dBm,-69 dBm,-95 dBm,-65 dBm,-78 dBm,-85 dBm,-91 dBm
+B1,-84 dBm,-88 dBm,-66 dBm,-93 dBm,-70 dBm,-79 dBm,-77 dBm,-92 dBm
+B1,-80 dBm,-86 dBm,-68 dBm,-95 dBm,-71 dBm,-76 dBm,-78 dBm,-92 dBm
+B1,-81 dBm,-85 dBm,-67 dBm,-94 dBm,-71 dBm,-76 dBm,-73 dBm,-93 dBm
+B1,-77 dBm,-87 dBm,-68 dBm,-92 dBm,-70 dBm,-76 dBm,-75 dBm,-95 dBm
+B1,-81 dBm,-84 dBm,-69 dBm,-93 dBm,-70 dBm,-77 dBm,-72 dBm,-92 dBm
+B1,-81 dBm,-91 dBm,-69 dBm,-91 dBm,-69 dBm,-76 dBm,-76 dBm,-92 dBm
+B1,-86 dBm,-90 dBm,-69 dBm,0,-70 dBm,-79 dBm,-87 dBm,0
+,,,,,,,,
+B2,-79 dBm,-83 dBm,-76 dBm,-93 dBm,-67 dBm,-79 dBm,-75 dBm,0
+B2,-79 dBm,-83 dBm,-77 dBm,-94 dBm,-69 dBm,-79 dBm,-79 dBm,0
+B2,-79 dBm,-84 dBm,-76 dBm,-91 dBm,-69 dBm,-79 dBm,-80 dBm,0
+B2,-79 dBm,-85 dBm,-85 dBm,-95 dBm,-70 dBm,-78 dBm,-75 dBm,0
+B2,-77 dBm,-86 dBm,-81 dBm,-93 dBm,-68 dBm,-79 dBm,-77 dBm,0
+B2,-76 dBm,-86 dBm,-80 dBm,-93 dBm,-71 dBm,-80 dBm,-77 dBm,0
+B2,-75 dBm,-84 dBm,-81 dBm,-93 dBm,-70 dBm,-80 dBm,-80 dBm,0
+B2,-77 dBm,-83 dBm,-81 dBm,-91 dBm,-69 dBm,-79 dBm,-78 dBm,0
+B2,-76 dBm,-86 dBm,-79 dBm,-92 dBm,-69 dBm,-80 dBm,-79 dBm,0
+B2,-78 dBm,-84 dBm,-78 dBm,-93 dBm,-68 dBm,-79 dBm,-78 dBm,0
+B2,-78 dBm,-83 dBm,-80 dBm,-91 dBm,-69 dBm,-80 dBm,-78 dBm,0
+B2,-77 dBm,-83 dBm,-81 dBm,-94 dBm,-68 dBm,-80 dBm,-77 dBm,0
+B2,-78 dBm,-83 dBm,-79 dBm,-91 dBm,-68 dBm,-79 dBm,-79 dBm,0
+B2,-78 dBm,-81 dBm,-78 dBm,-95 dBm,-69 dBm,-79 dBm,-79 dBm,0
+B2,-75 dBm,-85 dBm,-75 dBm,-92 dBm,-68 dBm,-79 dBm,-77 dBm,0
+B2,-79 dBm,-83 dBm,-77 dBm,-94 dBm,-69 dBm,-79 dBm,-78 dBm,0
+B2,-78 dBm,-83 dBm,-77 dBm,-94 dBm,-68 dBm,-79 dBm,-76 dBm,0
+B2,-78 dBm,-86 dBm,-78 dBm,-94 dBm,-68 dBm,-79 dBm,-75 dBm,0
+B2,-78 dBm,-84 dBm,-76 dBm,-93 dBm,-69 dBm,-79 dBm,-76 dBm,0
+B2,-75 dBm,-84 dBm,-75 dBm,-93 dBm,-70 dBm,-79 dBm,-77 dBm,0
+B2,-75 dBm,-86 dBm,-80 dBm,-92 dBm,-68 dBm,-80 dBm,-73 dBm,0
+B2,-80 dBm,-87 dBm,-77 dBm,-92 dBm,-71 dBm,-81 dBm,-74 dBm,0
+B2,-77 dBm,-85 dBm,-75 dBm,-90 dBm,-68 dBm,-78 dBm,-76 dBm,0
+B2,-76 dBm,-85 dBm,-75 dBm,-91 dBm,-68 dBm,-80 dBm,-77 dBm,0
+B2,-77 dBm,-85 dBm,-76 dBm,-91 dBm,-71 dBm,-77 dBm,-75 dBm,0
+B2,-76 dBm,-85 dBm,-75 dBm,-93 dBm,-69 dBm,-77 dBm,-78 dBm,0
+B2,-77 dBm,-83 dBm,-77 dBm,-92 dBm,-67 dBm,-78 dBm,-76 dBm,0
+B2,-73 dBm,-82 dBm,-77 dBm,-90 dBm,-68 dBm,-76 dBm,-78 dBm,0
+B2,-78 dBm,-84 dBm,-76 dBm,-92 dBm,-69 dBm,-76 dBm,-79 dBm,0
+B2,-77 dBm,-83 dBm,-78 dBm,-92 dBm,-69 dBm,-75 dBm,-78 dBm,0
+B2,-76 dBm,-84 dBm,-78 dBm,-92 dBm,-69 dBm,-77 dBm,-78 dBm,0
+,,,,,,,,
+B3,-74 dBm,-81 dBm,-62 dBm,-95 dBm,-69 dBm,-77 dBm,-71 dBm,-95 dBm
+B3,-74 dBm,-82 dBm,-63 dBm,-92 dBm,-70 dBm,-78 dBm,-69 dBm,-95 dBm
+B3,-75 dBm,-81 dBm,-63 dBm,0,-71 dBm,-77 dBm,-68 dBm,-94 dBm
+B3,-76 dBm,-82 dBm,-63 dBm,0,-69 dBm,-78 dBm,-70 dBm,-93 dBm
+B3,-75 dBm,-81 dBm,-63 dBm,0,-70 dBm,-76 dBm,-69 dBm,-95 dBm
+B3,-75 dBm,-81 dBm,-64 dBm,0,-73 dBm,-78 dBm,-69 dBm,-93 dBm
+B3,-75 dBm,-81 dBm,-64 dBm,0,-71 dBm,-77 dBm,-72 dBm,-95 dBm
+B3,-77 dBm,-83 dBm,-63 dBm,0,-70 dBm,-77 dBm,-71 dBm,-93 dBm
+B3,-74 dBm,-81 dBm,-65 dBm,0,-65 dBm,-76 dBm,-69 dBm,-95 dBm
+B3,-77 dBm,-81 dBm,-63 dBm,0,-71 dBm,-77 dBm,-72 dBm,-91 dBm
+B3,-74 dBm,-89 dBm,-62 dBm,0,-71 dBm,-77 dBm,-69 dBm,-97 dBm
+B3,-77 dBm,-82 dBm,-62 dBm,0,-70 dBm,-76 dBm,-67 dBm,-97 dBm
+B3,-76 dBm,-82 dBm,-62 dBm,0,-68 dBm,-77 dBm,-70 dBm,-92 dBm
+B3,-74 dBm,-80 dBm,-63 dBm,0,-70 dBm,-78 dBm,-70 dBm,-91 dBm
+B3,-76 dBm,-80 dBm,-64 dBm,0,-69 dBm,-77 dBm,-69 dBm,-96 dBm
+B3,-75 dBm,-81 dBm,-65 dBm,0,-70 dBm,-77 dBm,-70 dBm,-95 dBm
+B3,-75 dBm,-80 dBm,-64 dBm,0,-68 dBm,-79 dBm,-72 dBm,-94 dBm
+B3,-75 dBm,-81 dBm,-63 dBm,0,-70 dBm,-77 dBm,-68 dBm,0
+B3,-77 dBm,-80 dBm,-64 dBm,0,-68 dBm,-77 dBm,-69 dBm,0
+B3,-73 dBm,-80 dBm,-65 dBm,0,-67 dBm,-78 dBm,-72 dBm,0
+B3,-75 dBm,-83 dBm,-66 dBm,0,-70 dBm,-76 dBm,-72 dBm,0
+B3,-73 dBm,-80 dBm,-65 dBm,0,-70 dBm,-76 dBm,-71 dBm,0
+B3,-73 dBm,-82 dBm,-64 dBm,0,-71 dBm,-76 dBm,-72 dBm,0
+B3,-77 dBm,-80 dBm,-65 dBm,0,-68 dBm,-78 dBm,-70 dBm,0
+B3,-75 dBm,-81 dBm,-63 dBm,0,-70 dBm,-77 dBm,-71 dBm,0
+B3,-77 dBm,-81 dBm,-66 dBm,0,-71 dBm,-77 dBm,-72 dBm,0
+B3,-76 dBm,-82 dBm,-63 dBm,0,-70 dBm,-75 dBm,-69 dBm,0
+B3,-76 dBm,-84 dBm,-64 dBm,0,-67 dBm,-76 dBm,-68 dBm,0
+B3,-72 dBm,-91 dBm,-64 dBm,0,-69 dBm,-75 dBm,-70 dBm,0
+B3,-77 dBm,-93 dBm,-65 dBm,0,-74 dBm,-74 dBm,-68 dBm,0
+B3,-79 dBm,-77 dBm,-70 dBm,0,-72 dBm,-76 dBm,-72 dBm,0
+B3,-76 dBm,-82 dBm,-62 dBm,0,-72 dBm,-76 dBm,-69 dBm,0
+B3,-77 dBm,-82 dBm,-64 dBm,0,-72 dBm,-75 dBm,-70 dBm,0
+,,,,,,,,
+B4,-72 dBm,-75 dBm,-80 dBm,-91 dBm,-67 dBm,-75 dBm,-59 dBm,-92 dBm
+B4,-73 dBm,-77 dBm,-70 dBm,-89 dBm,-68 dBm,-77 dBm,-58 dBm,-91 dBm
+B4,-73 dBm,-77 dBm,-67 dBm,-92 dBm,-68 dBm,-78 dBm,-59 dBm,-91 dBm
+B4,-77 dBm,-82 dBm,-70 dBm,-93 dBm,-68 dBm,-76 dBm,-59 dBm,-90 dBm
+B4,-73 dBm,-77 dBm,-72 dBm,-93 dBm,-69 dBm,-77 dBm,-59 dBm,-90 dBm
+B4,-74 dBm,-78 dBm,-71 dBm,-92 dBm,-67 dBm,-81 dBm,-59 dBm,-90 dBm
+B4,-72 dBm,-77 dBm,-72 dBm,-94 dBm,-68 dBm,-77 dBm,-58 dBm,-88 dBm
+B4,-73 dBm,-77 dBm,-71 dBm,-90 dBm,-68 dBm,-76 dBm,-58 dBm,-90 dBm
+B4,-71 dBm,-77 dBm,-72 dBm,-92 dBm,-67 dBm,-77 dBm,-58 dBm,-92 dBm
+B4,-74 dBm,-78 dBm,-68 dBm,-90 dBm,-68 dBm,-77 dBm,-59 dBm,-90 dBm
+B4,-74 dBm,-76 dBm,-69 dBm,-91 dBm,-67 dBm,-77 dBm,-61 dBm,-91 dBm
+B4,-74 dBm,-77 dBm,-72 dBm,-92 dBm,-68 dBm,-76 dBm,-57 dBm,-91 dBm
+B4,-73 dBm,-78 dBm,-71 dBm,-89 dBm,-68 dBm,-77 dBm,-60 dBm,-89 dBm
+B4,-72 dBm,-78 dBm,-72 dBm,-89 dBm,-67 dBm,-76 dBm,-58 dBm,-90 dBm
+B4,-72 dBm,-78 dBm,-74 dBm,-91 dBm,-69 dBm,-77 dBm,-58 dBm,-89 dBm
+B4,-73 dBm,-78 dBm,-71 dBm,-91 dBm,-66 dBm,-77 dBm,-58 dBm,-90 dBm
+B4,-73 dBm,-78 dBm,-75 dBm,-93 dBm,-68 dBm,-78 dBm,-57 dBm,-89 dBm
+B4,-73 dBm,-79 dBm,-72 dBm,-93 dBm,-68 dBm,-77 dBm,-57 dBm,-90 dBm
+B4,-71 dBm,-74 dBm,-71 dBm,-94 dBm,-69 dBm,-78 dBm,-58 dBm,-91 dBm
+B4,-74 dBm,-77 dBm,-71 dBm,-93 dBm,-69 dBm,-78 dBm,-59 dBm,-92 dBm
+B4,-71 dBm,-78 dBm,-74 dBm,-93 dBm,-68 dBm,-78 dBm,-58 dBm,-91 dBm
+B4,-72 dBm,-78 dBm,-71 dBm,-92 dBm,-68 dBm,-79 dBm,-58 dBm,-91 dBm
+B4,-71 dBm,-78 dBm,-71 dBm,-93 dBm,-67 dBm,-78 dBm,-58 dBm,-89 dBm
+B4,-73 dBm,-78 dBm,-73 dBm,-90 dBm,-66 dBm,-78 dBm,-58 dBm,-92 dBm
+B4,-73 dBm,-74 dBm,-72 dBm,-92 dBm,-68 dBm,-77 dBm,-58 dBm,-93 dBm
+B4,-74 dBm,-78 dBm,-72 dBm,-91 dBm,-69 dBm,-77 dBm,-58 dBm,-91 dBm
+B4,-74 dBm,-78 dBm,-71 dBm,-92 dBm,-69 dBm,-77 dBm,-58 dBm,-90 dBm
+B4,-73 dBm,-78 dBm,-71 dBm,-93 dBm,-66 dBm,-75 dBm,-58 dBm,-89 dBm
+B4,-74 dBm,-78 dBm,-71 dBm,-89 dBm,-72 dBm,-77 dBm,-58 dBm,-90 dBm
+B4,-73 dBm,-79 dBm,-72 dBm,-92 dBm,-70 dBm,-77 dBm,-59 dBm,-90 dBm
+B4,-72 dBm,-76 dBm,-71 dBm,-94 dBm,-72 dBm,-77 dBm,-58 dBm,-91 dBm
+,,,,,,,,
+B5,-74 dBm,-82 dBm,-68 dBm,-81 dBm,-65 dBm,-83 dBm,-65 dBm,-93 dBm
+B5,-74 dBm,-78 dBm,-70 dBm,-82 dBm,-64 dBm,-82 dBm,-64 dBm,-92 dBm
+B5,-71 dBm,-78 dBm,-69 dBm,-81 dBm,-64 dBm,-81 dBm,-64 dBm,-95 dBm
+B5,-72 dBm,-79 dBm,-69 dBm,-84 dBm,-63 dBm,-80 dBm,-64 dBm,-91 dBm
+B5,-71 dBm,-77 dBm,-68 dBm,-81 dBm,-63 dBm,-82 dBm,-65 dBm,-91 dBm
+B5,-71 dBm,-80 dBm,-68 dBm,-83 dBm,-64 dBm,-83 dBm,-65 dBm,-91 dBm
+B5,-72 dBm,-78 dBm,-66 dBm,-81 dBm,-63 dBm,-82 dBm,-65 dBm,-92 dBm
+B5,-73 dBm,-78 dBm,-69 dBm,-83 dBm,-64 dBm,-82 dBm,-64 dBm,-91 dBm
+B5,-72 dBm,-79 dBm,-69 dBm,-84 dBm,-64 dBm,-82 dBm,-65 dBm,-96 dBm
+B5,-71 dBm,-78 dBm,-68 dBm,-83 dBm,-65 dBm,-81 dBm,-65 dBm,-93 dBm
+B5,-72 dBm,-80 dBm,-69 dBm,-84 dBm,-65 dBm,-80 dBm,-64 dBm,-92 dBm
+B5,-73 dBm,-81 dBm,-69 dBm,-83 dBm,-64 dBm,-82 dBm,-65 dBm,-93 dBm
+B5,-70 dBm,-80 dBm,-69 dBm,-83 dBm,-65 dBm,-79 dBm,-64 dBm,-93 dBm
+B5,-73 dBm,-77 dBm,-69 dBm,-83 dBm,-65 dBm,-81 dBm,-63 dBm,-93 dBm
+B5,-71 dBm,-80 dBm,-69 dBm,-81 dBm,-65 dBm,-84 dBm,-65 dBm,-95 dBm
+B5,-71 dBm,-78 dBm,-71 dBm,-82 dBm,-63 dBm,-82 dBm,-64 dBm,-93 dBm
+B5,-71 dBm,-79 dBm,-68 dBm,-82 dBm,-60 dBm,-80 dBm,-66 dBm,-92 dBm
+B5,-71 dBm,-84 dBm,-64 dBm,-82 dBm,-65 dBm,-79 dBm,-65 dBm,-92 dBm
+B5,-72 dBm,-77 dBm,-70 dBm,-82 dBm,-64 dBm,-82 dBm,-64 dBm,-93 dBm
+B5,-72 dBm,-79 dBm,-70 dBm,-82 dBm,-63 dBm,-81 dBm,-65 dBm,-92 dBm
+B5,-71 dBm,-83 dBm,-68 dBm,-83 dBm,-64 dBm,-78 dBm,-63 dBm,-94 dBm
+B5,-73 dBm,-77 dBm,-69 dBm,-83 dBm,-64 dBm,-80 dBm,-64 dBm,-91 dBm
+B5,-70 dBm,-81 dBm,-63 dBm,-83 dBm,-64 dBm,-82 dBm,-63 dBm,-93 dBm
+B5,-72 dBm,-81 dBm,-68 dBm,-86 dBm,-65 dBm,-80 dBm,-65 dBm,-90 dBm
+B5,-72 dBm,-78 dBm,-70 dBm,-82 dBm,-64 dBm,-82 dBm,-66 dBm,-92 dBm
+B5,-74 dBm,-79 dBm,-68 dBm,-82 dBm,-65 dBm,-80 dBm,-65 dBm,-91 dBm
+B5,-73 dBm,-78 dBm,-70 dBm,-83 dBm,-64 dBm,-81 dBm,-65 dBm,-92 dBm
+B5,-71 dBm,-77 dBm,-70 dBm,-82 dBm,-64 dBm,-84 dBm,-65 dBm,-89 dBm
+B5,-71 dBm,-81 dBm,-68 dBm,-81 dBm,-63 dBm,-81 dBm,-65 dBm,-94 dBm
+B5,-72 dBm,-80 dBm,-68 dBm,-82 dBm,-65 dBm,-82 dBm,-65 dBm,-91 dBm
+B5,-71 dBm,-81 dBm,-70 dBm,-82 dBm,-64 dBm,-84 dBm,-63 dBm,-94 dBm
+,,,,,,,,
+B6,-78 dBm,-71 dBm,-55 dBm,-85 dBm,-66 dBm,-84 dBm,-60 dBm,-90 dBm
+B6,-69 dBm,-70 dBm,-55 dBm,-84 dBm,-64 dBm,-82 dBm,-61 dBm,-92 dBm
+B6,-65 dBm,-73 dBm,-57 dBm,-83 dBm,-66 dBm,-86 dBm,-58 dBm,-86 dBm
+B6,-66 dBm,-73 dBm,-55 dBm,-84 dBm,-66 dBm,-85 dBm,-58 dBm,-90 dBm
+B6,-68 dBm,-76 dBm,-58 dBm,-84 dBm,-65 dBm,-88 dBm,-58 dBm,-89 dBm
+B6,-68 dBm,-74 dBm,-58 dBm,-85 dBm,-67 dBm,-86 dBm,-62 dBm,-88 dBm
+B6,-67 dBm,-76 dBm,-57 dBm,-82 dBm,-64 dBm,-82 dBm,-59 dBm,-88 dBm
+B6,-66 dBm,-75 dBm,-58 dBm,-85 dBm,-71 dBm,-83 dBm,-59 dBm,-88 dBm
+B6,-67 dBm,-78 dBm,-58 dBm,-85 dBm,-65 dBm,-83 dBm,-57 dBm,-89 dBm
+B6,-68 dBm,-75 dBm,-58 dBm,-84 dBm,-65 dBm,-86 dBm,-58 dBm,-89 dBm
+B6,-69 dBm,-77 dBm,-58 dBm,-85 dBm,-65 dBm,-85 dBm,-57 dBm,-89 dBm
+B6,-66 dBm,-75 dBm,-58 dBm,-85 dBm,-65 dBm,-85 dBm,-59 dBm,-88 dBm
+B6,-65 dBm,-75 dBm,-58 dBm,-81 dBm,-62 dBm,-82 dBm,-58 dBm,-88 dBm
+B6,-66 dBm,-74 dBm,-57 dBm,-84 dBm,-64 dBm,-84 dBm,-59 dBm,-88 dBm
+B6,-66 dBm,-75 dBm,-57 dBm,-85 dBm,-64 dBm,-85 dBm,-58 dBm,-87 dBm
+B6,-65 dBm,-74 dBm,-58 dBm,-83 dBm,-65 dBm,-86 dBm,-59 dBm,-88 dBm
+B6,-67 dBm,-77 dBm,-57 dBm,-85 dBm,-64 dBm,-86 dBm,-58 dBm,-88 dBm
+B6,-66 dBm,-74 dBm,-58 dBm,-84 dBm,-64 dBm,-85 dBm,-58 dBm,-86 dBm
+B6,-67 dBm,-75 dBm,-59 dBm,-85 dBm,-65 dBm,-83 dBm,-58 dBm,-87 dBm
+B6,-67 dBm,-75 dBm,-58 dBm,-84 dBm,-65 dBm,-84 dBm,-58 dBm,-88 dBm
+B6,-67 dBm,-76 dBm,-59 dBm,-84 dBm,-65 dBm,-85 dBm,-59 dBm,-87 dBm
+B6,-67 dBm,-74 dBm,-58 dBm,-85 dBm,-64 dBm,-84 dBm,-57 dBm,-87 dBm
+B6,-67 dBm,-75 dBm,-61 dBm,-83 dBm,-66 dBm,-82 dBm,-58 dBm,-88 dBm
+B6,-67 dBm,-75 dBm,-58 dBm,-87 dBm,-63 dBm,-86 dBm,-58 dBm,-89 dBm
+B6,-67 dBm,-74 dBm,-57 dBm,-86 dBm,-64 dBm,-89 dBm,-58 dBm,-88 dBm
+B6,-66 dBm,-75 dBm,-58 dBm,-85 dBm,-64 dBm,-87 dBm,-58 dBm,-88 dBm
+B6,-66 dBm,-75 dBm,-59 dBm,-84 dBm,-66 dBm,-86 dBm,-59 dBm,-87 dBm
+B6,-68 dBm,-75 dBm,-59 dBm,-83 dBm,-64 dBm,-84 dBm,-56 dBm,-89 dBm
+B6,-66 dBm,-76 dBm,-57 dBm,-85 dBm,-64 dBm,-84 dBm,-59 dBm,-87 dBm
+B6,-67 dBm,-76 dBm,-57 dBm,-85 dBm,-64 dBm,-84 dBm,-59 dBm,-88 dBm
+B6,-67 dBm,-74 dBm,-60 dBm,-83 dBm,-65 dBm,-85 dBm,-59 dBm,-89 dBm
+B6,-67 dBm,-75 dBm,-58 dBm,-85 dBm,-65 dBm,-84 dBm,-59 dBm,-87 dBm
+,,,,,,,,
+B7,-66 dBm,-70 dBm,-65 dBm,-88 dBm,-68 dBm,-89 dBm,-69 dBm,-83 dBm
+B7,-65 dBm,-70 dBm,-63 dBm,-89 dBm,-69 dBm,-88 dBm,-68 dBm,-82 dBm
+B7,-63 dBm,-70 dBm,-66 dBm,-88 dBm,-69 dBm,-87 dBm,-68 dBm,-83 dBm
+B7,-64 dBm,-71 dBm,-63 dBm,-87 dBm,-69 dBm,-87 dBm,-68 dBm,-81 dBm
+B7,-63 dBm,-70 dBm,-65 dBm,-87 dBm,-69 dBm,-86 dBm,-67 dBm,-86 dBm
+B7,-64 dBm,-72 dBm,-66 dBm,-86 dBm,-69 dBm,-87 dBm,-68 dBm,-82 dBm
+B7,-65 dBm,-70 dBm,-65 dBm,-87 dBm,-70 dBm,-87 dBm,-65 dBm,-80 dBm
+B7,-64 dBm,-71 dBm,-65 dBm,-86 dBm,-71 dBm,-86 dBm,-67 dBm,-81 dBm
+B7,-63 dBm,-70 dBm,-64 dBm,-87 dBm,-69 dBm,-87 dBm,-67 dBm,-83 dBm
+B7,-64 dBm,-69 dBm,-65 dBm,-86 dBm,-71 dBm,-82 dBm,-67 dBm,-81 dBm
+B7,-63 dBm,-68 dBm,-64 dBm,-86 dBm,-70 dBm,-87 dBm,-67 dBm,-84 dBm
+B7,-65 dBm,-71 dBm,-65 dBm,-86 dBm,-71 dBm,-85 dBm,-67 dBm,-80 dBm
+B7,-63 dBm,-73 dBm,-65 dBm,-85 dBm,-69 dBm,-86 dBm,-65 dBm,-85 dBm
+B7,-63 dBm,-70 dBm,-65 dBm,-86 dBm,-69 dBm,-85 dBm,-67 dBm,-81 dBm
+B7,-64 dBm,-70 dBm,-65 dBm,-85 dBm,-67 dBm,-80 dBm,-68 dBm,-84 dBm
+B7,-65 dBm,-70 dBm,-64 dBm,-86 dBm,-69 dBm,-86 dBm,-67 dBm,-84 dBm
+B7,-66 dBm,-70 dBm,-65 dBm,-86 dBm,-70 dBm,-85 dBm,-67 dBm,-82 dBm
+B7,-66 dBm,-70 dBm,-66 dBm,-88 dBm,-69 dBm,-85 dBm,-69 dBm,-83 dBm
+B7,-65 dBm,-71 dBm,-64 dBm,-89 dBm,-69 dBm,-88 dBm,-76 dBm,-81 dBm
+B7,-67 dBm,-70 dBm,-66 dBm,-89 dBm,-70 dBm,-83 dBm,-67 dBm,-88 dBm
+B7,-63 dBm,-69 dBm,-69 dBm,-86 dBm,-69 dBm,-85 dBm,-68 dBm,-84 dBm
+B7,-64 dBm,-68 dBm,-65 dBm,-85 dBm,-76 dBm,-81 dBm,-64 dBm,-85 dBm
+B7,-67 dBm,-69 dBm,-64 dBm,-86 dBm,-68 dBm,-86 dBm,-73 dBm,-86 dBm
+B7,-63 dBm,-69 dBm,-66 dBm,-87 dBm,-66 dBm,-83 dBm,-70 dBm,-81 dBm
+B7,-65 dBm,-70 dBm,-66 dBm,-87 dBm,-69 dBm,-84 dBm,-67 dBm,-80 dBm
+B7,-65 dBm,-70 dBm,-65 dBm,-86 dBm,-67 dBm,-84 dBm,-69 dBm,-82 dBm
+B7,-63 dBm,-70 dBm,-65 dBm,-89 dBm,-69 dBm,-83 dBm,-67 dBm,-82 dBm
+B7,-65 dBm,-70 dBm,-66 dBm,-88 dBm,-69 dBm,-83 dBm,-69 dBm,-83 dBm
+B7,-64 dBm,-69 dBm,-65 dBm,-88 dBm,-70 dBm,-84 dBm,-65 dBm,-83 dBm
+B7,-65 dBm,-71 dBm,-64 dBm,-86 dBm,-69 dBm,-86 dBm,-66 dBm,-81 dBm
+B7,-67 dBm,-68 dBm,-64 dBm,-88 dBm,-71 dBm,-85 dBm,-68 dBm,-82 dBm
+,,,,,,,,
+B9,-67 dBm,-72 dBm,-71 dBm,-91 dBm,-79 dBm,-93 dBm,-70 dBm,-93 dBm
+B9,-67 dBm,-74 dBm,-66 dBm,-88 dBm,-79 dBm,-86 dBm,-69 dBm,-91 dBm
+B9,-67 dBm,-71 dBm,-70 dBm,-89 dBm,-80 dBm,-91 dBm,-70 dBm,-89 dBm
+B9,-66 dBm,-70 dBm,-70 dBm,-92 dBm,-78 dBm,-93 dBm,-68 dBm,-87 dBm
+B9,-67 dBm,-72 dBm,-67 dBm,-91 dBm,-81 dBm,-91 dBm,-70 dBm,-89 dBm
+B9,-67 dBm,-72 dBm,-68 dBm,-88 dBm,-76 dBm,-94 dBm,-70 dBm,-90 dBm
+B9,-67 dBm,-72 dBm,-69 dBm,-87 dBm,-81 dBm,-92 dBm,-69 dBm,-94 dBm
+B9,-65 dBm,-72 dBm,-70 dBm,-88 dBm,-80 dBm,-95 dBm,-70 dBm,-91 dBm
+B9,-65 dBm,-72 dBm,-70 dBm,-90 dBm,-81 dBm,-91 dBm,-67 dBm,-89 dBm
+B9,-67 dBm,-72 dBm,-71 dBm,-90 dBm,-81 dBm,-88 dBm,-70 dBm,-88 dBm
+B9,-67 dBm,-73 dBm,-69 dBm,-90 dBm,-80 dBm,-88 dBm,-68 dBm,-88 dBm
+B9,-66 dBm,-73 dBm,-67 dBm,-89 dBm,-81 dBm,-88 dBm,-67 dBm,-87 dBm
+B9,-65 dBm,-72 dBm,-68 dBm,-88 dBm,-80 dBm,-86 dBm,-69 dBm,-89 dBm
+B9,-66 dBm,-73 dBm,-68 dBm,-90 dBm,-82 dBm,-89 dBm,-68 dBm,-87 dBm
+B9,-66 dBm,-72 dBm,-70 dBm,-91 dBm,-79 dBm,-88 dBm,-67 dBm,-90 dBm
+B9,-68 dBm,-72 dBm,-68 dBm,-90 dBm,-80 dBm,-90 dBm,-65 dBm,-89 dBm
+B9,-66 dBm,-74 dBm,-69 dBm,-89 dBm,-80 dBm,-91 dBm,-68 dBm,-86 dBm
+B9,-67 dBm,-72 dBm,-70 dBm,-90 dBm,-78 dBm,-93 dBm,-68 dBm,-89 dBm
+B9,-64 dBm,-72 dBm,-69 dBm,-90 dBm,-77 dBm,-90 dBm,-69 dBm,-87 dBm
+B9,-65 dBm,-72 dBm,-69 dBm,-91 dBm,-79 dBm,-89 dBm,-69 dBm,-90 dBm
+B9,-66 dBm,-73 dBm,-69 dBm,-90 dBm,-79 dBm,-89 dBm,-69 dBm,-91 dBm
+B9,-63 dBm,-72 dBm,-69 dBm,-89 dBm,-79 dBm,-89 dBm,-68 dBm,-90 dBm
+B9,-67 dBm,-72 dBm,-69 dBm,-89 dBm,-80 dBm,-91 dBm,-68 dBm,-89 dBm
+B9,-67 dBm,-72 dBm,-70 dBm,-91 dBm,-80 dBm,-91 dBm,-66 dBm,-87 dBm
+B9,-66 dBm,-71 dBm,-69 dBm,-88 dBm,-81 dBm,-92 dBm,-65 dBm,-85 dBm
+B9,-65 dBm,-72 dBm,-69 dBm,-90 dBm,-80 dBm,-87 dBm,-70 dBm,-89 dBm
+B9,-66 dBm,-71 dBm,-68 dBm,-88 dBm,-81 dBm,-89 dBm,-70 dBm,-90 dBm
+B9,-68 dBm,-69 dBm,-73 dBm,-93 dBm,-82 dBm,-92 dBm,-68 dBm,-90 dBm
+B9,-67 dBm,-72 dBm,-70 dBm,-90 dBm,-80 dBm,-89 dBm,-70 dBm,-87 dBm
+B9,-66 dBm,-72 dBm,-69 dBm,-88 dBm,-80 dBm,-91 dBm,-68 dBm,-89 dBm
+B9,-66 dBm,-73 dBm,-70 dBm,0,-80 dBm,-90 dBm,-73 dBm,-88 dBm
+B9,-65 dBm,-72 dBm,-69 dBm,0,-79 dBm,-89 dBm,-71 dBm,-88 dBm
+,,,,,,,,
+C1,-76 dBm,-85 dBm,-75 dBm,-90 dBm,-72 dBm,-74 dBm,-82 dBm,-90 dBm
+C1,-75 dBm,-88 dBm,-75 dBm,-89 dBm,-72 dBm,-69 dBm,-84 dBm,-91 dBm
+C1,-78 dBm,-87 dBm,-78 dBm,-92 dBm,-73 dBm,-70 dBm,-88 dBm,-93 dBm
+C1,-77 dBm,-86 dBm,-73 dBm,-94 dBm,-75 dBm,-69 dBm,-84 dBm,-93 dBm
+C1,-79 dBm,-86 dBm,-75 dBm,-92 dBm,-72 dBm,-70 dBm,-91 dBm,-94 dBm
+C1,-76 dBm,-88 dBm,-77 dBm,-90 dBm,-74 dBm,-68 dBm,-86 dBm,-92 dBm
+C1,-78 dBm,-86 dBm,-76 dBm,-92 dBm,-82 dBm,-69 dBm,-81 dBm,-90 dBm
+C1,-77 dBm,-88 dBm,-75 dBm,-94 dBm,-69 dBm,-72 dBm,-83 dBm,-95 dBm
+C1,-76 dBm,-87 dBm,-75 dBm,-92 dBm,-70 dBm,-73 dBm,-87 dBm,-87 dBm
+C1,-78 dBm,-87 dBm,-77 dBm,-90 dBm,-69 dBm,-68 dBm,-83 dBm,-91 dBm
+C1,-82 dBm,-90 dBm,-74 dBm,-90 dBm,-70 dBm,-76 dBm,-83 dBm,-93 dBm
+C1,-82 dBm,-88 dBm,-74 dBm,-92 dBm,-68 dBm,-72 dBm,-90 dBm,-95 dBm
+C1,-82 dBm,-84 dBm,-76 dBm,-91 dBm,-68 dBm,-66 dBm,-88 dBm,-91 dBm
+C1,-82 dBm,-84 dBm,-84 dBm,-94 dBm,-69 dBm,-69 dBm,-81 dBm,-92 dBm
+C1,-77 dBm,-87 dBm,-73 dBm,-93 dBm,-70 dBm,-68 dBm,-84 dBm,-96 dBm
+C1,-80 dBm,-86 dBm,-76 dBm,-88 dBm,-70 dBm,-73 dBm,-89 dBm,-90 dBm
+C1,-82 dBm,-85 dBm,-76 dBm,-91 dBm,-68 dBm,-70 dBm,-91 dBm,-93 dBm
+C1,-78 dBm,-83 dBm,-77 dBm,-89 dBm,-69 dBm,-69 dBm,-90 dBm,-93 dBm
+C1,-76 dBm,-84 dBm,-77 dBm,-90 dBm,-71 dBm,-68 dBm,-88 dBm,-88 dBm
+C1,-81 dBm,-86 dBm,-80 dBm,-93 dBm,-70 dBm,-67 dBm,-82 dBm,-91 dBm
+C1,-79 dBm,-88 dBm,-74 dBm,-90 dBm,-67 dBm,-70 dBm,-85 dBm,-90 dBm
+C1,-78 dBm,-90 dBm,-74 dBm,-93 dBm,-68 dBm,-71 dBm,-82 dBm,-88 dBm
+C1,-81 dBm,-86 dBm,-76 dBm,-91 dBm,-69 dBm,-67 dBm,-86 dBm,-90 dBm
+C1,-81 dBm,-88 dBm,-77 dBm,-92 dBm,-69 dBm,-66 dBm,-91 dBm,-91 dBm
+C1,-81 dBm,-91 dBm,-77 dBm,-88 dBm,-69 dBm,-68 dBm,-87 dBm,-92 dBm
+C1,-83 dBm,-85 dBm,-76 dBm,-90 dBm,-69 dBm,-71 dBm,-90 dBm,0
+C1,-82 dBm,-84 dBm,-76 dBm,-92 dBm,-70 dBm,-68 dBm,-84 dBm,0
+C1,-82 dBm,-83 dBm,-74 dBm,-91 dBm,-72 dBm,-68 dBm,-86 dBm,0
+C1,-83 dBm,-84 dBm,-75 dBm,-90 dBm,-69 dBm,-70 dBm,-84 dBm,0
+C1,-84 dBm,-83 dBm,-76 dBm,-90 dBm,-72 dBm,-71 dBm,-90 dBm,0
+C1,-80 dBm,-84 dBm,-76 dBm,-92 dBm,-69 dBm,-67 dBm,-85 dBm,0
+C1,-82 dBm,-85 dBm,-75 dBm,-89 dBm,-72 dBm,-68 dBm,-89 dBm,0
+,,,,,,,,
+C2,-74 dBm,-89 dBm,-67 dBm,-90 dBm,-71 dBm,-59 dBm,-74 dBm,-93 dBm
+C2,-84 dBm,-93 dBm,-70 dBm,-95 dBm,-69 dBm,-59 dBm,-76 dBm,-95 dBm
+C2,-82 dBm,-91 dBm,-71 dBm,-94 dBm,-69 dBm,-59 dBm,-76 dBm,-90 dBm
+C2,-87 dBm,-81 dBm,-72 dBm,-91 dBm,-65 dBm,-61 dBm,-75 dBm,-94 dBm
+C2,-79 dBm,-82 dBm,-68 dBm,-93 dBm,-69 dBm,-61 dBm,-76 dBm,-89 dBm
+C2,-79 dBm,-77 dBm,-70 dBm,-96 dBm,-65 dBm,-62 dBm,-73 dBm,-85 dBm
+C2,-78 dBm,-81 dBm,-69 dBm,-94 dBm,-64 dBm,-62 dBm,-73 dBm,-85 dBm
+C2,-77 dBm,-81 dBm,-71 dBm,-96 dBm,-65 dBm,-62 dBm,-72 dBm,-86 dBm
+C2,-78 dBm,-80 dBm,-72 dBm,-92 dBm,-69 dBm,-62 dBm,-74 dBm,-83 dBm
+C2,-79 dBm,-80 dBm,-69 dBm,-92 dBm,-68 dBm,-64 dBm,-76 dBm,-84 dBm
+C2,-78 dBm,-82 dBm,-71 dBm,-94 dBm,-68 dBm,-62 dBm,-77 dBm,-86 dBm
+C2,-79 dBm,-82 dBm,-72 dBm,-92 dBm,-67 dBm,-63 dBm,-78 dBm,-86 dBm
+C2,-78 dBm,-83 dBm,-70 dBm,-96 dBm,-68 dBm,-60 dBm,-75 dBm,-87 dBm
+C2,-82 dBm,-83 dBm,-70 dBm,-93 dBm,-67 dBm,-62 dBm,-75 dBm,-86 dBm
+C2,-79 dBm,-83 dBm,-69 dBm,-89 dBm,-66 dBm,-61 dBm,-76 dBm,-84 dBm
+C2,-81 dBm,-83 dBm,-69 dBm,-95 dBm,-67 dBm,-61 dBm,-75 dBm,-85 dBm
+C2,-79 dBm,-82 dBm,-71 dBm,-93 dBm,-66 dBm,-61 dBm,-76 dBm,-84 dBm
+C2,-80 dBm,-82 dBm,-68 dBm,-94 dBm,-66 dBm,-61 dBm,-79 dBm,-87 dBm
+C2,-79 dBm,-82 dBm,-67 dBm,-92 dBm,-67 dBm,-61 dBm,-78 dBm,-86 dBm
+C2,-80 dBm,-85 dBm,-70 dBm,-92 dBm,-65 dBm,-60 dBm,-76 dBm,-86 dBm
+C2,-80 dBm,-81 dBm,-70 dBm,-94 dBm,-67 dBm,-61 dBm,-75 dBm,-86 dBm
+C2,-81 dBm,-84 dBm,-71 dBm,-93 dBm,-67 dBm,-60 dBm,-79 dBm,-84 dBm
+C2,-82 dBm,-77 dBm,-69 dBm,-92 dBm,-62 dBm,-62 dBm,-77 dBm,-85 dBm
+C2,-81 dBm,-80 dBm,-69 dBm,-92 dBm,-68 dBm,-61 dBm,-77 dBm,-86 dBm
+C2,-79 dBm,-82 dBm,-70 dBm,-93 dBm,-67 dBm,-61 dBm,-76 dBm,-84 dBm
+C2,-78 dBm,-82 dBm,-69 dBm,-93 dBm,-69 dBm,-62 dBm,-76 dBm,-87 dBm
+C2,-80 dBm,-81 dBm,-70 dBm,-91 dBm,-68 dBm,-62 dBm,-77 dBm,-85 dBm
+C2,-79 dBm,-84 dBm,-70 dBm,-91 dBm,-68 dBm,-63 dBm,-77 dBm,-88 dBm
+C2,-83 dBm,-82 dBm,-69 dBm,-95 dBm,-69 dBm,-62 dBm,-80 dBm,-88 dBm
+C2,-82 dBm,-82 dBm,-70 dBm,0,-67 dBm,-60 dBm,-74 dBm,-87 dBm
+C2,-80 dBm,-85 dBm,-70 dBm,0,-65 dBm,-59 dBm,-74 dBm,-89 dBm
+C2,-81 dBm,-85 dBm,-71 dBm,0,-67 dBm,-60 dBm,-75 dBm,0
+,,,,,,,,
+C3,-79 dBm,-79 dBm,-85 dBm,-95 dBm,-75 dBm,-77 dBm,-73 dBm,-90 dBm
+C3,-77 dBm,-80 dBm,-77 dBm,-95 dBm,-76 dBm,-79 dBm,-75 dBm,-92 dBm
+C3,-77 dBm,-79 dBm,-79 dBm,-94 dBm,-72 dBm,-79 dBm,-76 dBm,-93 dBm
+C3,-75 dBm,-79 dBm,-79 dBm,-92 dBm,-72 dBm,-79 dBm,-72 dBm,-92 dBm
+C3,-74 dBm,-77 dBm,-76 dBm,-91 dBm,-73 dBm,-79 dBm,-75 dBm,-92 dBm
+C3,-73 dBm,-79 dBm,-76 dBm,-92 dBm,-70 dBm,-77 dBm,-71 dBm,-94 dBm
+C3,-76 dBm,-80 dBm,-75 dBm,-97 dBm,-72 dBm,-80 dBm,-75 dBm,-92 dBm
+C3,-72 dBm,-80 dBm,-75 dBm,-94 dBm,-73 dBm,-79 dBm,-72 dBm,-91 dBm
+C3,-74 dBm,-79 dBm,-74 dBm,-93 dBm,-74 dBm,-78 dBm,-70 dBm,-92 dBm
+C3,-76 dBm,-78 dBm,-75 dBm,-93 dBm,-74 dBm,-81 dBm,-74 dBm,-96 dBm
+C3,-76 dBm,-79 dBm,-76 dBm,-94 dBm,-73 dBm,-81 dBm,-76 dBm,-93 dBm
+C3,-76 dBm,-79 dBm,-74 dBm,-92 dBm,-72 dBm,-80 dBm,-71 dBm,-93 dBm
+C3,-76 dBm,-76 dBm,-76 dBm,-94 dBm,-73 dBm,-80 dBm,-74 dBm,-94 dBm
+C3,-77 dBm,-79 dBm,-75 dBm,-93 dBm,-73 dBm,-79 dBm,-76 dBm,-92 dBm
+C3,-75 dBm,-78 dBm,-75 dBm,-92 dBm,-74 dBm,-80 dBm,-76 dBm,-94 dBm
+C3,-75 dBm,-79 dBm,-76 dBm,-94 dBm,-72 dBm,-78 dBm,-74 dBm,-94 dBm
+C3,-74 dBm,-78 dBm,-76 dBm,-92 dBm,-72 dBm,-80 dBm,-74 dBm,-92 dBm
+C3,-76 dBm,-79 dBm,-77 dBm,-93 dBm,-73 dBm,-79 dBm,-72 dBm,-96 dBm
+C3,-74 dBm,-80 dBm,-76 dBm,-95 dBm,-72 dBm,-79 dBm,-72 dBm,-92 dBm
+C3,-75 dBm,-79 dBm,-75 dBm,-92 dBm,-73 dBm,-79 dBm,-75 dBm,-92 dBm
+C3,-73 dBm,-79 dBm,-76 dBm,-93 dBm,-74 dBm,-80 dBm,-75 dBm,-93 dBm
+C3,-75 dBm,-78 dBm,-76 dBm,-93 dBm,-73 dBm,-79 dBm,-74 dBm,-93 dBm
+C3,-76 dBm,-76 dBm,-75 dBm,-94 dBm,-73 dBm,-80 dBm,-72 dBm,-92 dBm
+C3,-73 dBm,-76 dBm,-76 dBm,-95 dBm,-74 dBm,-79 dBm,-73 dBm,-93 dBm
+C3,-75 dBm,-79 dBm,-73 dBm,-92 dBm,-74 dBm,-80 dBm,-74 dBm,-94 dBm
+C3,-76 dBm,-78 dBm,-75 dBm,0,-73 dBm,-79 dBm,-74 dBm,-92 dBm
+C3,-75 dBm,-77 dBm,-75 dBm,0,-74 dBm,-80 dBm,-76 dBm,-92 dBm
+C3,-76 dBm,-79 dBm,-76 dBm,0,-72 dBm,-80 dBm,-74 dBm,-93 dBm
+C3,-79 dBm,-79 dBm,-75 dBm,0,-70 dBm,-81 dBm,-73 dBm,0
+C3,-75 dBm,-79 dBm,-73 dBm,0,-70 dBm,-79 dBm,-73 dBm,0
+C3,-75 dBm,-76 dBm,-75 dBm,0,-72 dBm,-80 dBm,-74 dBm,0
+C3,-74 dBm,-77 dBm,-74 dBm,0,-73 dBm,-79 dBm,-73 dBm,0
+C3,-76 dBm,-77 dBm,-78 dBm,0,-70 dBm,-79 dBm,-75 dBm,0
+,,,,,,,,
+C4,-67 dBm,-80 dBm,-76 dBm,-87 dBm,-73 dBm,-83 dBm,-81 dBm,-93 dBm
+C4,-69 dBm,-82 dBm,-73 dBm,-88 dBm,-73 dBm,-83 dBm,-75 dBm,-91 dBm
+C4,-67 dBm,-80 dBm,-80 dBm,-87 dBm,-69 dBm,-82 dBm,-83 dBm,-90 dBm
+C4,-69 dBm,-82 dBm,-74 dBm,-88 dBm,-70 dBm,-83 dBm,-80 dBm,-91 dBm
+C4,-68 dBm,-81 dBm,-78 dBm,-87 dBm,-72 dBm,-81 dBm,-70 dBm,-91 dBm
+C4,-70 dBm,-77 dBm,-73 dBm,-85 dBm,-70 dBm,-86 dBm,-71 dBm,-90 dBm
+C4,-66 dBm,-80 dBm,-73 dBm,-88 dBm,-72 dBm,-84 dBm,-76 dBm,-92 dBm
+C4,-67 dBm,-79 dBm,-69 dBm,-85 dBm,-71 dBm,-82 dBm,-74 dBm,-88 dBm
+C4,-69 dBm,-79 dBm,-75 dBm,-88 dBm,-69 dBm,-88 dBm,-73 dBm,-89 dBm
+C4,-67 dBm,-80 dBm,-75 dBm,-87 dBm,-71 dBm,-90 dBm,-72 dBm,-90 dBm
+C4,-68 dBm,-79 dBm,-80 dBm,-86 dBm,-72 dBm,-91 dBm,-72 dBm,-90 dBm
+C4,-68 dBm,-83 dBm,-75 dBm,-89 dBm,-74 dBm,-86 dBm,-79 dBm,-89 dBm
+C4,-70 dBm,-82 dBm,-79 dBm,-87 dBm,-70 dBm,-86 dBm,-80 dBm,-90 dBm
+C4,-69 dBm,-80 dBm,-77 dBm,-89 dBm,-73 dBm,-89 dBm,-74 dBm,-88 dBm
+C4,-69 dBm,-80 dBm,-76 dBm,-88 dBm,-70 dBm,-85 dBm,-72 dBm,-93 dBm
+C4,-68 dBm,-79 dBm,-75 dBm,-87 dBm,-72 dBm,-90 dBm,-76 dBm,-91 dBm
+C4,-68 dBm,-84 dBm,-75 dBm,-88 dBm,-72 dBm,-89 dBm,-68 dBm,-89 dBm
+C4,-70 dBm,-78 dBm,-75 dBm,-88 dBm,-71 dBm,-86 dBm,-76 dBm,-91 dBm
+C4,-68 dBm,-82 dBm,-75 dBm,-89 dBm,-72 dBm,-86 dBm,-79 dBm,-92 dBm
+C4,-68 dBm,-83 dBm,-75 dBm,-90 dBm,-72 dBm,-85 dBm,-75 dBm,-90 dBm
+C4,-69 dBm,-82 dBm,-76 dBm,-87 dBm,-72 dBm,-84 dBm,-75 dBm,-90 dBm
+C4,-67 dBm,-77 dBm,-75 dBm,-89 dBm,-74 dBm,-89 dBm,-76 dBm,-92 dBm
+C4,-68 dBm,-83 dBm,-79 dBm,-89 dBm,-73 dBm,-89 dBm,-81 dBm,-90 dBm
+C4,-67 dBm,-81 dBm,-74 dBm,-87 dBm,-73 dBm,-86 dBm,-76 dBm,-92 dBm
+C4,-74 dBm,-82 dBm,-73 dBm,-89 dBm,-71 dBm,-89 dBm,-77 dBm,-89 dBm
+C4,-70 dBm,-81 dBm,-75 dBm,-84 dBm,-73 dBm,-87 dBm,-74 dBm,-89 dBm
+C4,-69 dBm,-81 dBm,-72 dBm,-89 dBm,-71 dBm,-83 dBm,-76 dBm,-89 dBm
+C4,-67 dBm,-81 dBm,-73 dBm,-87 dBm,-73 dBm,-83 dBm,-75 dBm,-89 dBm
+C4,-68 dBm,-80 dBm,-73 dBm,-88 dBm,-73 dBm,-81 dBm,-74 dBm,-90 dBm
+C4,-69 dBm,-78 dBm,-77 dBm,-89 dBm,-73 dBm,-87 dBm,-76 dBm,-90 dBm
+C4,-67 dBm,-79 dBm,-79 dBm,-87 dBm,-72 dBm,-88 dBm,-77 dBm,-90 dBm
+C4,-68 dBm,-88 dBm,-80 dBm,-87 dBm,-74 dBm,-90 dBm,-78 dBm,-90 dBm
+,,,,,,,,
+C5,-77 dBm,-75 dBm,-68 dBm,-86 dBm,-64 dBm,-85 dBm,-50 dBm,-81 dBm
+C5,-76 dBm,-73 dBm,-67 dBm,-82 dBm,-66 dBm,-91 dBm,-50 dBm,-83 dBm
+C5,-85 dBm,-75 dBm,-67 dBm,-88 dBm,-63 dBm,-87 dBm,-51 dBm,-82 dBm
+C5,-76 dBm,-69 dBm,-66 dBm,-86 dBm,-73 dBm,-89 dBm,-49 dBm,-88 dBm
+C5,-77 dBm,-72 dBm,-66 dBm,-85 dBm,-64 dBm,-85 dBm,-51 dBm,-83 dBm
+C5,-78 dBm,-74 dBm,-70 dBm,-86 dBm,-64 dBm,-86 dBm,-50 dBm,-83 dBm
+C5,-79 dBm,-72 dBm,-67 dBm,-86 dBm,-65 dBm,-83 dBm,-50 dBm,-83 dBm
+C5,-78 dBm,-71 dBm,-69 dBm,-87 dBm,-65 dBm,-85 dBm,-50 dBm,-84 dBm
+C5,-78 dBm,-73 dBm,-68 dBm,-87 dBm,-65 dBm,-85 dBm,-50 dBm,-84 dBm
+C5,-75 dBm,-72 dBm,-71 dBm,-83 dBm,-65 dBm,-85 dBm,-50 dBm,-84 dBm
+C5,-82 dBm,-72 dBm,-65 dBm,-86 dBm,-65 dBm,-79 dBm,-51 dBm,-84 dBm
+C5,-79 dBm,-70 dBm,-67 dBm,-87 dBm,-64 dBm,-85 dBm,-51 dBm,-84 dBm
+C5,-74 dBm,-73 dBm,-71 dBm,-85 dBm,-65 dBm,-81 dBm,-51 dBm,-82 dBm
+C5,-79 dBm,-76 dBm,-72 dBm,-84 dBm,-66 dBm,-82 dBm,-51 dBm,-85 dBm
+C5,-76 dBm,-71 dBm,-72 dBm,-82 dBm,-63 dBm,-85 dBm,-50 dBm,-83 dBm
+C5,-77 dBm,-73 dBm,-68 dBm,-85 dBm,-65 dBm,-81 dBm,-51 dBm,-86 dBm
+C5,-78 dBm,-73 dBm,-67 dBm,-89 dBm,-62 dBm,-83 dBm,-50 dBm,-85 dBm
+C5,-75 dBm,-73 dBm,-69 dBm,-87 dBm,-65 dBm,-85 dBm,-50 dBm,-85 dBm
+C5,-77 dBm,-72 dBm,-67 dBm,-81 dBm,-64 dBm,-86 dBm,-50 dBm,-85 dBm
+C5,-79 dBm,-73 dBm,-67 dBm,-86 dBm,-66 dBm,-81 dBm,-49 dBm,-83 dBm
+C5,-77 dBm,-73 dBm,-65 dBm,-88 dBm,-66 dBm,-83 dBm,-48 dBm,-81 dBm
+C5,-76 dBm,-73 dBm,-69 dBm,-85 dBm,-64 dBm,-79 dBm,-52 dBm,-84 dBm
+C5,-81 dBm,-73 dBm,-70 dBm,-87 dBm,-63 dBm,-82 dBm,-49 dBm,-83 dBm
+C5,-79 dBm,-73 dBm,-67 dBm,-86 dBm,-65 dBm,-84 dBm,-50 dBm,-84 dBm
+C5,-81 dBm,-73 dBm,-69 dBm,-87 dBm,-64 dBm,-83 dBm,-49 dBm,-83 dBm
+C5,-79 dBm,-73 dBm,-69 dBm,-85 dBm,-64 dBm,-84 dBm,-49 dBm,-82 dBm
+C5,-80 dBm,-72 dBm,-70 dBm,-86 dBm,-64 dBm,-89 dBm,-50 dBm,-88 dBm
+C5,-80 dBm,-73 dBm,-70 dBm,-88 dBm,-62 dBm,-83 dBm,-50 dBm,-83 dBm
+C5,-79 dBm,-74 dBm,-67 dBm,-87 dBm,-64 dBm,-87 dBm,-49 dBm,-82 dBm
+C5,-78 dBm,-73 dBm,-69 dBm,-87 dBm,-66 dBm,-83 dBm,-50 dBm,-82 dBm
+C5,-79 dBm,-72 dBm,-70 dBm,-86 dBm,-64 dBm,-86 dBm,-49 dBm,-83 dBm
+C5,-79 dBm,-75 dBm,-69 dBm,-88 dBm,-64 dBm,-83 dBm,-49 dBm,-83 dBm
+,,,,,,,,
+C6,-75 dBm,-75 dBm,-73 dBm,-89 dBm,-63 dBm,-77 dBm,-61 dBm,-88 dBm
+C6,-71 dBm,-81 dBm,-71 dBm,-88 dBm,-66 dBm,-77 dBm,-59 dBm,-85 dBm
+C6,-72 dBm,-77 dBm,-75 dBm,-88 dBm,-65 dBm,-81 dBm,-60 dBm,-83 dBm
+C6,-71 dBm,-75 dBm,-71 dBm,-88 dBm,-65 dBm,-78 dBm,-58 dBm,-85 dBm
+C6,-69 dBm,-76 dBm,-72 dBm,-88 dBm,-67 dBm,-85 dBm,-59 dBm,-84 dBm
+C6,-76 dBm,-79 dBm,-70 dBm,-89 dBm,-64 dBm,-80 dBm,-61 dBm,-86 dBm
+C6,-72 dBm,-75 dBm,-70 dBm,-91 dBm,-67 dBm,-78 dBm,-60 dBm,-83 dBm
+C6,-74 dBm,-78 dBm,-74 dBm,-89 dBm,-68 dBm,-79 dBm,-60 dBm,-87 dBm
+C6,-73 dBm,-77 dBm,-71 dBm,-93 dBm,-68 dBm,-81 dBm,-61 dBm,-85 dBm
+C6,-72 dBm,-77 dBm,-73 dBm,-90 dBm,-68 dBm,-79 dBm,-60 dBm,-84 dBm
+C6,-73 dBm,-76 dBm,-72 dBm,-91 dBm,-69 dBm,-81 dBm,-63 dBm,-84 dBm
+C6,-74 dBm,-77 dBm,-74 dBm,-91 dBm,-67 dBm,-80 dBm,-59 dBm,-86 dBm
+C6,-73 dBm,-79 dBm,-74 dBm,-89 dBm,-67 dBm,-80 dBm,-59 dBm,-85 dBm
+C6,-71 dBm,-77 dBm,-72 dBm,-89 dBm,-67 dBm,-78 dBm,-60 dBm,-83 dBm
+C6,-71 dBm,-78 dBm,-71 dBm,-90 dBm,-67 dBm,-81 dBm,-59 dBm,-87 dBm
+C6,-69 dBm,-77 dBm,-72 dBm,-90 dBm,-68 dBm,-81 dBm,-57 dBm,-83 dBm
+C6,-76 dBm,-75 dBm,-67 dBm,-90 dBm,-66 dBm,-77 dBm,-58 dBm,-83 dBm
+C6,-78 dBm,-75 dBm,-73 dBm,-90 dBm,-69 dBm,-77 dBm,-58 dBm,-83 dBm
+C6,-76 dBm,-74 dBm,-71 dBm,-88 dBm,-64 dBm,-78 dBm,-57 dBm,-82 dBm
+C6,-75 dBm,-72 dBm,-70 dBm,-87 dBm,-63 dBm,-78 dBm,-56 dBm,-84 dBm
+C6,-72 dBm,-74 dBm,-64 dBm,-87 dBm,-68 dBm,-77 dBm,-58 dBm,-83 dBm
+C6,-77 dBm,-76 dBm,-67 dBm,-88 dBm,-65 dBm,-77 dBm,-57 dBm,-84 dBm
+C6,-72 dBm,-75 dBm,-67 dBm,-91 dBm,-66 dBm,-75 dBm,-57 dBm,-85 dBm
+C6,-73 dBm,-75 dBm,-72 dBm,-88 dBm,-64 dBm,-79 dBm,-58 dBm,-83 dBm
+C6,-73 dBm,-76 dBm,-69 dBm,-90 dBm,-64 dBm,-79 dBm,-57 dBm,-84 dBm
+C6,-76 dBm,-75 dBm,-71 dBm,-91 dBm,-68 dBm,-81 dBm,-56 dBm,-84 dBm
+C6,-74 dBm,-75 dBm,-69 dBm,-91 dBm,-66 dBm,-81 dBm,-56 dBm,-83 dBm
+C6,-76 dBm,-76 dBm,-71 dBm,-89 dBm,-70 dBm,-87 dBm,-62 dBm,-85 dBm
+C6,-72 dBm,-76 dBm,-71 dBm,-89 dBm,-66 dBm,-82 dBm,-61 dBm,-84 dBm
+C6,-71 dBm,-75 dBm,-72 dBm,-92 dBm,-65 dBm,-81 dBm,-59 dBm,-82 dBm
+C6,-74 dBm,-76 dBm,-70 dBm,-91 dBm,-65 dBm,-80 dBm,-57 dBm,-86 dBm
+C6,-73 dBm,-75 dBm,-72 dBm,-89 dBm,-67 dBm,-85 dBm,-58 dBm,-86 dBm
+C6,-74 dBm,-77 dBm,-70 dBm,-90 dBm,-67 dBm,-77 dBm,-58 dBm,-89 dBm
+,,,,,,,,
+C7,-66 dBm,-77 dBm,-50 dBm,-87 dBm,-69 dBm,-82 dBm,-64 dBm,-81 dBm
+C7,-67 dBm,-78 dBm,-52 dBm,-87 dBm,-70 dBm,-82 dBm,-63 dBm,-84 dBm
+C7,-64 dBm,-76 dBm,-50 dBm,-89 dBm,-69 dBm,-83 dBm,-61 dBm,-76 dBm
+C7,-66 dBm,-80 dBm,-51 dBm,-88 dBm,-69 dBm,-85 dBm,-63 dBm,-82 dBm
+C7,-67 dBm,-81 dBm,-50 dBm,-91 dBm,-70 dBm,-85 dBm,-64 dBm,-81 dBm
+C7,-67 dBm,-82 dBm,-50 dBm,-91 dBm,-70 dBm,-83 dBm,-64 dBm,-79 dBm
+C7,-67 dBm,-82 dBm,-50 dBm,-92 dBm,-68 dBm,-84 dBm,-62 dBm,-81 dBm
+C7,-68 dBm,-84 dBm,-50 dBm,-90 dBm,-68 dBm,-88 dBm,-62 dBm,-88 dBm
+C7,-68 dBm,-79 dBm,-51 dBm,-91 dBm,-68 dBm,-84 dBm,-63 dBm,-80 dBm
+C7,-69 dBm,-83 dBm,-50 dBm,-91 dBm,-69 dBm,-88 dBm,-63 dBm,-79 dBm
+C7,-68 dBm,-84 dBm,-51 dBm,-89 dBm,-70 dBm,-88 dBm,-63 dBm,-79 dBm
+C7,-68 dBm,-82 dBm,-52 dBm,-89 dBm,-69 dBm,-85 dBm,-63 dBm,-85 dBm
+C7,-68 dBm,-84 dBm,-52 dBm,-88 dBm,-67 dBm,-85 dBm,-63 dBm,-81 dBm
+C7,-67 dBm,-84 dBm,-51 dBm,-89 dBm,-70 dBm,-83 dBm,-64 dBm,-79 dBm
+C7,-68 dBm,-80 dBm,-50 dBm,-90 dBm,-70 dBm,-85 dBm,-64 dBm,-82 dBm
+C7,-67 dBm,-82 dBm,-51 dBm,-91 dBm,-70 dBm,-85 dBm,-62 dBm,-84 dBm
+C7,-67 dBm,-88 dBm,-52 dBm,-87 dBm,-70 dBm,-90 dBm,-63 dBm,-85 dBm
+C7,-67 dBm,-81 dBm,-51 dBm,-89 dBm,-71 dBm,-84 dBm,-62 dBm,-78 dBm
+C7,-68 dBm,-81 dBm,-51 dBm,-90 dBm,-69 dBm,-83 dBm,-63 dBm,-81 dBm
+C7,-68 dBm,-82 dBm,-48 dBm,-87 dBm,-70 dBm,-85 dBm,-64 dBm,-81 dBm
+C7,-67 dBm,-82 dBm,-50 dBm,-88 dBm,-70 dBm,-83 dBm,-63 dBm,-80 dBm
+C7,-66 dBm,-81 dBm,-51 dBm,-89 dBm,-70 dBm,-83 dBm,-63 dBm,-81 dBm
+C7,-66 dBm,-82 dBm,-52 dBm,-87 dBm,-70 dBm,-83 dBm,-63 dBm,-85 dBm
+C7,-67 dBm,-80 dBm,-51 dBm,-88 dBm,-69 dBm,-86 dBm,-63 dBm,-81 dBm
+C7,-66 dBm,-82 dBm,-51 dBm,-89 dBm,-69 dBm,-85 dBm,-63 dBm,-78 dBm
+C7,-67 dBm,-79 dBm,-51 dBm,-87 dBm,-72 dBm,-83 dBm,-63 dBm,-80 dBm
+C7,-65 dBm,-81 dBm,-51 dBm,-87 dBm,-72 dBm,-85 dBm,-63 dBm,-79 dBm
+C7,-66 dBm,-83 dBm,-51 dBm,-90 dBm,-70 dBm,-84 dBm,-63 dBm,-80 dBm
+C7,-68 dBm,-81 dBm,-51 dBm,-90 dBm,-69 dBm,-84 dBm,-63 dBm,-84 dBm
+C7,-68 dBm,-81 dBm,-51 dBm,-88 dBm,-71 dBm,-84 dBm,-63 dBm,-80 dBm
+C7,-68 dBm,-81 dBm,-48 dBm,-92 dBm,-69 dBm,-85 dBm,-62 dBm,-76 dBm
+C7,-68 dBm,-83 dBm,-50 dBm,-89 dBm,-69 dBm,-85 dBm,-64 dBm,-85 dBm
+C7,-68 dBm,-82 dBm,-51 dBm,0,-70 dBm,-86 dBm,-61 dBm,-82 dBm
+,,,,,,,,
+C8,-82 dBm,-66 dBm,-71 dBm,-82 dBm,-78 dBm,-80 dBm,-70 dBm,-86 dBm
+C8,-76 dBm,-70 dBm,-78 dBm,-86 dBm,-73 dBm,-75 dBm,-71 dBm,-87 dBm
+C8,-78 dBm,-69 dBm,-77 dBm,-86 dBm,-76 dBm,-79 dBm,-73 dBm,-76 dBm
+C8,-77 dBm,-70 dBm,-72 dBm,-85 dBm,-78 dBm,-82 dBm,-82 dBm,-81 dBm
+C8,-68 dBm,-71 dBm,-71 dBm,-84 dBm,-72 dBm,-81 dBm,-83 dBm,-83 dBm
+C8,-70 dBm,-70 dBm,-69 dBm,-85 dBm,-70 dBm,-82 dBm,-76 dBm,-81 dBm
+C8,-64 dBm,-70 dBm,-69 dBm,-84 dBm,-71 dBm,-81 dBm,-75 dBm,-81 dBm
+C8,-69 dBm,-70 dBm,-71 dBm,-90 dBm,-73 dBm,-86 dBm,-79 dBm,-86 dBm
+C8,-71 dBm,-71 dBm,-71 dBm,-90 dBm,-74 dBm,-80 dBm,-83 dBm,-87 dBm
+C8,-71 dBm,-70 dBm,-72 dBm,-89 dBm,-72 dBm,-80 dBm,-82 dBm,-87 dBm
+C8,-71 dBm,-69 dBm,-71 dBm,-90 dBm,-73 dBm,-81 dBm,-81 dBm,-87 dBm
+C8,-65 dBm,-71 dBm,-70 dBm,-90 dBm,-73 dBm,-81 dBm,-83 dBm,-89 dBm
+C8,-72 dBm,-68 dBm,-73 dBm,-90 dBm,-74 dBm,-80 dBm,-83 dBm,-88 dBm
+C8,-71 dBm,-71 dBm,-71 dBm,-90 dBm,-72 dBm,-79 dBm,-82 dBm,-88 dBm
+C8,-70 dBm,-71 dBm,-70 dBm,-91 dBm,-72 dBm,-81 dBm,-82 dBm,-87 dBm
+C8,-69 dBm,-69 dBm,-70 dBm,-89 dBm,-73 dBm,-81 dBm,-79 dBm,-87 dBm
+C8,-71 dBm,-70 dBm,-73 dBm,-88 dBm,-72 dBm,-78 dBm,-84 dBm,-88 dBm
+C8,-70 dBm,-68 dBm,-71 dBm,-94 dBm,-72 dBm,-80 dBm,-83 dBm,-87 dBm
+C8,-69 dBm,-71 dBm,-69 dBm,-88 dBm,-72 dBm,-79 dBm,-83 dBm,-88 dBm
+C8,-71 dBm,-69 dBm,-70 dBm,-92 dBm,-72 dBm,-81 dBm,-82 dBm,-88 dBm
+C8,-69 dBm,-70 dBm,-69 dBm,-90 dBm,-69 dBm,-80 dBm,-79 dBm,-88 dBm
+C8,-70 dBm,-71 dBm,-71 dBm,-93 dBm,-72 dBm,-79 dBm,-80 dBm,-86 dBm
+C8,-69 dBm,-70 dBm,-71 dBm,-92 dBm,-71 dBm,-80 dBm,-80 dBm,-89 dBm
+C8,-70 dBm,-71 dBm,-71 dBm,-89 dBm,-72 dBm,-80 dBm,-76 dBm,-88 dBm
+C8,-70 dBm,-70 dBm,-68 dBm,-90 dBm,-73 dBm,-81 dBm,-80 dBm,-87 dBm
+C8,-66 dBm,-71 dBm,-69 dBm,-90 dBm,-72 dBm,-87 dBm,-79 dBm,-88 dBm
+C8,-68 dBm,-71 dBm,-69 dBm,-92 dBm,-72 dBm,-81 dBm,-79 dBm,-87 dBm
+C8,-69 dBm,-72 dBm,-70 dBm,-88 dBm,-72 dBm,-81 dBm,-78 dBm,-86 dBm
+C8,-68 dBm,-71 dBm,-67 dBm,-91 dBm,-71 dBm,-80 dBm,-82 dBm,-87 dBm
+C8,-70 dBm,-72 dBm,-70 dBm,-91 dBm,-71 dBm,-79 dBm,-78 dBm,-89 dBm
+C8,-66 dBm,-71 dBm,-70 dBm,-90 dBm,-70 dBm,-77 dBm,-79 dBm,-87 dBm
+C8,-70 dBm,-71 dBm,-70 dBm,0,-71 dBm,-80 dBm,-78 dBm,-87 dBm
+,,,,,,,,
+C9,-64 dBm,-78 dBm,-68 dBm,-95 dBm,-76 dBm,-87 dBm,-79 dBm,-84 dBm
+C9,-66 dBm,-78 dBm,-72 dBm,-90 dBm,-80 dBm,-86 dBm,-80 dBm,-82 dBm
+C9,-69 dBm,-77 dBm,-67 dBm,-97 dBm,-83 dBm,-82 dBm,-83 dBm,-86 dBm
+C9,-67 dBm,-75 dBm,-63 dBm,-97 dBm,-77 dBm,-88 dBm,-80 dBm,-90 dBm
+C9,-67 dBm,-76 dBm,-69 dBm,-94 dBm,-80 dBm,-86 dBm,-78 dBm,-84 dBm
+C9,-66 dBm,-76 dBm,-71 dBm,0,-77 dBm,-86 dBm,-77 dBm,-83 dBm
+C9,-67 dBm,-75 dBm,-70 dBm,0,-78 dBm,-86 dBm,-78 dBm,-83 dBm
+C9,-66 dBm,-78 dBm,-70 dBm,0,-85 dBm,-85 dBm,-79 dBm,-85 dBm
+C9,-66 dBm,-76 dBm,-71 dBm,0,-83 dBm,-84 dBm,-82 dBm,-84 dBm
+C9,-64 dBm,-86 dBm,-71 dBm,0,-81 dBm,-85 dBm,-78 dBm,-81 dBm
+C9,-64 dBm,-84 dBm,-71 dBm,0,-80 dBm,-85 dBm,-77 dBm,-82 dBm
+C9,-64 dBm,-86 dBm,-71 dBm,0,-80 dBm,-83 dBm,-78 dBm,-82 dBm
+C9,-65 dBm,-81 dBm,-70 dBm,0,-81 dBm,-84 dBm,-78 dBm,-83 dBm
+C9,-62 dBm,-82 dBm,-70 dBm,0,-82 dBm,-85 dBm,-79 dBm,-84 dBm
+C9,-65 dBm,-82 dBm,-72 dBm,0,-81 dBm,-84 dBm,-76 dBm,-85 dBm
+C9,-65 dBm,-85 dBm,-69 dBm,0,-79 dBm,-84 dBm,-77 dBm,-83 dBm
+C9,-65 dBm,-82 dBm,-70 dBm,0,-78 dBm,-85 dBm,-79 dBm,-83 dBm
+C9,-64 dBm,-79 dBm,-70 dBm,0,-82 dBm,-85 dBm,-76 dBm,-84 dBm
+C9,-64 dBm,-82 dBm,-69 dBm,0,-79 dBm,-84 dBm,-78 dBm,-82 dBm
+C9,-65 dBm,-80 dBm,-70 dBm,0,-81 dBm,-84 dBm,-79 dBm,-83 dBm
+C9,-63 dBm,-92 dBm,-71 dBm,0,-82 dBm,-84 dBm,-75 dBm,-84 dBm
+C9,-66 dBm,-83 dBm,-67 dBm,0,-75 dBm,-84 dBm,-80 dBm,-86 dBm
+C9,-66 dBm,-82 dBm,-71 dBm,0,-79 dBm,-83 dBm,-78 dBm,-84 dBm
+C9,-63 dBm,-84 dBm,-71 dBm,0,-82 dBm,-83 dBm,-78 dBm,-83 dBm
+C9,-63 dBm,-81 dBm,-72 dBm,0,-79 dBm,-82 dBm,-78 dBm,-85 dBm
+C9,-64 dBm,-83 dBm,-71 dBm,0,-79 dBm,-84 dBm,-79 dBm,-86 dBm
+C9,-64 dBm,-85 dBm,-70 dBm,0,-79 dBm,-84 dBm,-79 dBm,-86 dBm
+C9,-62 dBm,-86 dBm,-71 dBm,0,-78 dBm,-83 dBm,-81 dBm,-85 dBm
+C9,-60 dBm,-84 dBm,-71 dBm,0,-80 dBm,-84 dBm,-77 dBm,-85 dBm
+C9,-63 dBm,-80 dBm,-71 dBm,0,-78 dBm,-82 dBm,-76 dBm,-85 dBm
+C9,-65 dBm,-85 dBm,-71 dBm,0,-75 dBm,-84 dBm,-79 dBm,-84 dBm
+C9,-64 dBm,-79 dBm,-71 dBm,0,-77 dBm,-84 dBm,-80 dBm,-85 dBm
+,,,,,,,,
+D1,-70 dBm,-84 dBm,-76 dBm,-92 dBm,-78 dBm,-59 dBm,-70 dBm,-92 dBm
+D1,-74 dBm,-84 dBm,-75 dBm,-94 dBm,-75 dBm,-65 dBm,-72 dBm,-88 dBm
+D1,-73 dBm,-85 dBm,-74 dBm,-90 dBm,-75 dBm,-64 dBm,-71 dBm,-87 dBm
+D1,-74 dBm,-86 dBm,-77 dBm,-93 dBm,-76 dBm,-65 dBm,-73 dBm,-90 dBm
+D1,-73 dBm,-85 dBm,-75 dBm,-93 dBm,-75 dBm,-64 dBm,-71 dBm,-91 dBm
+D1,-73 dBm,-84 dBm,-74 dBm,-91 dBm,-79 dBm,-64 dBm,-70 dBm,-91 dBm
+D1,-73 dBm,-85 dBm,-76 dBm,-94 dBm,-78 dBm,-64 dBm,-72 dBm,-90 dBm
+D1,-71 dBm,-84 dBm,-73 dBm,-93 dBm,-80 dBm,-65 dBm,-68 dBm,-90 dBm
+D1,-72 dBm,-84 dBm,-72 dBm,-95 dBm,-76 dBm,-65 dBm,-72 dBm,-91 dBm
+D1,-73 dBm,-83 dBm,-74 dBm,-92 dBm,-74 dBm,-66 dBm,-71 dBm,-93 dBm
+D1,-70 dBm,-82 dBm,-76 dBm,-92 dBm,-73 dBm,-67 dBm,-73 dBm,-89 dBm
+D1,-71 dBm,-82 dBm,-74 dBm,-92 dBm,-80 dBm,-65 dBm,-71 dBm,-92 dBm
+D1,-73 dBm,-83 dBm,-73 dBm,-93 dBm,-78 dBm,-63 dBm,-74 dBm,-91 dBm
+D1,-76 dBm,-85 dBm,-76 dBm,-90 dBm,-81 dBm,-66 dBm,-73 dBm,-91 dBm
+D1,-73 dBm,-87 dBm,-75 dBm,-94 dBm,-76 dBm,-64 dBm,-71 dBm,-90 dBm
+D1,-70 dBm,-85 dBm,-74 dBm,-91 dBm,-70 dBm,-66 dBm,-72 dBm,-89 dBm
+D1,-69 dBm,-85 dBm,-75 dBm,-93 dBm,-75 dBm,-66 dBm,-75 dBm,-87 dBm
+D1,-73 dBm,-84 dBm,-76 dBm,-92 dBm,-74 dBm,-65 dBm,-70 dBm,-88 dBm
+D1,-75 dBm,-87 dBm,-74 dBm,-91 dBm,-75 dBm,-65 dBm,-71 dBm,-89 dBm
+D1,-72 dBm,-83 dBm,-74 dBm,-90 dBm,-75 dBm,-67 dBm,-73 dBm,-89 dBm
+D1,-72 dBm,-87 dBm,-74 dBm,-90 dBm,-75 dBm,-65 dBm,-71 dBm,-91 dBm
+D1,-73 dBm,-85 dBm,-74 dBm,-91 dBm,-74 dBm,-67 dBm,-68 dBm,-90 dBm
+D1,-74 dBm,-85 dBm,-74 dBm,-94 dBm,-72 dBm,-66 dBm,-71 dBm,-88 dBm
+D1,-74 dBm,-87 dBm,-72 dBm,-95 dBm,-74 dBm,-66 dBm,-71 dBm,-89 dBm
+D1,-74 dBm,-87 dBm,-74 dBm,-93 dBm,-74 dBm,-66 dBm,-72 dBm,-88 dBm
+D1,-74 dBm,-86 dBm,-74 dBm,-91 dBm,-74 dBm,-67 dBm,-71 dBm,-90 dBm
+D1,-74 dBm,-86 dBm,-75 dBm,-95 dBm,-74 dBm,-65 dBm,-70 dBm,-89 dBm
+D1,-73 dBm,-86 dBm,-74 dBm,-91 dBm,-74 dBm,-67 dBm,-72 dBm,-89 dBm
+D1,-74 dBm,-85 dBm,-73 dBm,-90 dBm,-75 dBm,-66 dBm,-70 dBm,-90 dBm
+D1,-76 dBm,-86 dBm,-74 dBm,-93 dBm,-73 dBm,-65 dBm,-71 dBm,-89 dBm
+D1,-74 dBm,-85 dBm,-74 dBm,-94 dBm,-75 dBm,-66 dBm,-70 dBm,0
+D1,-74 dBm,0,-74 dBm,-92 dBm,-73 dBm,-66 dBm,-71 dBm,0
+,,,,,,,,
+D2,-77 dBm,-94 dBm,-77 dBm,-92 dBm,-64 dBm,-76 dBm,-71 dBm,-90 dBm
+D2,-78 dBm,-91 dBm,-71 dBm,-89 dBm,-63 dBm,-77 dBm,-72 dBm,-88 dBm
+D2,-77 dBm,-91 dBm,-76 dBm,-91 dBm,-65 dBm,-76 dBm,-72 dBm,-87 dBm
+D2,-77 dBm,-88 dBm,-76 dBm,-91 dBm,-64 dBm,-76 dBm,-71 dBm,-88 dBm
+D2,-78 dBm,-93 dBm,-74 dBm,-90 dBm,-65 dBm,-76 dBm,-70 dBm,-89 dBm
+D2,-77 dBm,-94 dBm,-76 dBm,-91 dBm,-65 dBm,-73 dBm,-71 dBm,-89 dBm
+D2,-77 dBm,-96 dBm,-75 dBm,-87 dBm,-63 dBm,-70 dBm,-74 dBm,-89 dBm
+D2,-79 dBm,-90 dBm,-75 dBm,-90 dBm,-63 dBm,-72 dBm,-71 dBm,-87 dBm
+D2,-82 dBm,-93 dBm,-80 dBm,-89 dBm,-65 dBm,-72 dBm,-72 dBm,-86 dBm
+D2,-80 dBm,-94 dBm,-76 dBm,-88 dBm,-65 dBm,-71 dBm,-71 dBm,-88 dBm
+D2,-79 dBm,-92 dBm,-77 dBm,-90 dBm,-64 dBm,-71 dBm,-72 dBm,-88 dBm
+D2,-79 dBm,-95 dBm,-76 dBm,-91 dBm,-65 dBm,-72 dBm,-72 dBm,-87 dBm
+D2,-78 dBm,-92 dBm,-77 dBm,-90 dBm,-66 dBm,-72 dBm,-72 dBm,-88 dBm
+D2,-79 dBm,-91 dBm,-74 dBm,-89 dBm,-64 dBm,-72 dBm,-73 dBm,-87 dBm
+D2,-79 dBm,-92 dBm,-76 dBm,-90 dBm,-65 dBm,-74 dBm,-71 dBm,-91 dBm
+D2,-76 dBm,-92 dBm,-75 dBm,-91 dBm,-64 dBm,-73 dBm,-69 dBm,-88 dBm
+D2,-77 dBm,-90 dBm,-76 dBm,-90 dBm,-64 dBm,-73 dBm,-71 dBm,-86 dBm
+D2,-76 dBm,-93 dBm,-77 dBm,-90 dBm,-65 dBm,-73 dBm,-72 dBm,-87 dBm
+D2,-79 dBm,-92 dBm,-78 dBm,-90 dBm,-64 dBm,-73 dBm,-73 dBm,-88 dBm
+D2,-77 dBm,-91 dBm,-74 dBm,-89 dBm,-65 dBm,-71 dBm,-73 dBm,-87 dBm
+D2,-77 dBm,-94 dBm,-75 dBm,-90 dBm,-64 dBm,-73 dBm,-74 dBm,-87 dBm
+D2,-78 dBm,-94 dBm,-74 dBm,-90 dBm,-64 dBm,-74 dBm,-73 dBm,-86 dBm
+D2,-78 dBm,-92 dBm,-76 dBm,-91 dBm,-64 dBm,-74 dBm,-72 dBm,-88 dBm
+D2,-77 dBm,-93 dBm,-75 dBm,-90 dBm,-65 dBm,-72 dBm,-74 dBm,-87 dBm
+D2,-76 dBm,-91 dBm,-74 dBm,-90 dBm,-64 dBm,-72 dBm,-72 dBm,-87 dBm
+D2,-77 dBm,-93 dBm,-75 dBm,-92 dBm,-65 dBm,-72 dBm,-72 dBm,-89 dBm
+D2,-79 dBm,-93 dBm,-74 dBm,-90 dBm,-64 dBm,-71 dBm,-71 dBm,-87 dBm
+D2,-77 dBm,-96 dBm,-74 dBm,-91 dBm,-65 dBm,-73 dBm,-69 dBm,-87 dBm
+D2,-78 dBm,-94 dBm,-74 dBm,-88 dBm,-65 dBm,-75 dBm,-73 dBm,-86 dBm
+D2,-76 dBm,-91 dBm,-76 dBm,-91 dBm,-64 dBm,-72 dBm,-71 dBm,-88 dBm
+D2,-79 dBm,-91 dBm,-75 dBm,-92 dBm,-64 dBm,-73 dBm,-71 dBm,-88 dBm
+D2,-82 dBm,-91 dBm,-76 dBm,-91 dBm,-65 dBm,-72 dBm,-70 dBm,-88 dBm
+D2,-81 dBm,0,-74 dBm,-91 dBm,-64 dBm,-73 dBm,-74 dBm,0
+,,,,,,,,
+D3,-75 dBm,-82 dBm,-82 dBm,-91 dBm,-69 dBm,-73 dBm,-71 dBm,-90 dBm
+D3,-75 dBm,-83 dBm,-83 dBm,-90 dBm,-71 dBm,-72 dBm,-69 dBm,-90 dBm
+D3,-72 dBm,-82 dBm,-81 dBm,-89 dBm,-71 dBm,-71 dBm,-69 dBm,-91 dBm
+D3,-76 dBm,-83 dBm,-81 dBm,-87 dBm,-69 dBm,-72 dBm,-70 dBm,-92 dBm
+D3,-77 dBm,-84 dBm,-80 dBm,-93 dBm,-71 dBm,-71 dBm,-72 dBm,-93 dBm
+D3,-77 dBm,-85 dBm,-83 dBm,-86 dBm,-66 dBm,-71 dBm,-71 dBm,-92 dBm
+D3,-75 dBm,-83 dBm,-79 dBm,-94 dBm,-68 dBm,-70 dBm,-68 dBm,-90 dBm
+D3,-76 dBm,-82 dBm,-77 dBm,-93 dBm,-67 dBm,-70 dBm,-69 dBm,-90 dBm
+D3,-78 dBm,-83 dBm,-78 dBm,-84 dBm,-69 dBm,-69 dBm,-68 dBm,-91 dBm
+D3,-76 dBm,-86 dBm,-78 dBm,-87 dBm,-65 dBm,-71 dBm,-70 dBm,-94 dBm
+D3,-75 dBm,-83 dBm,-78 dBm,-88 dBm,-70 dBm,-66 dBm,-69 dBm,-86 dBm
+D3,-84 dBm,-83 dBm,-78 dBm,-89 dBm,-77 dBm,-73 dBm,-72 dBm,-88 dBm
+D3,-80 dBm,-83 dBm,-78 dBm,-87 dBm,-75 dBm,-71 dBm,-67 dBm,-96 dBm
+D3,-78 dBm,-82 dBm,-83 dBm,-91 dBm,-72 dBm,-71 dBm,-70 dBm,-93 dBm
+D3,-81 dBm,-82 dBm,-78 dBm,-93 dBm,-71 dBm,-71 dBm,-67 dBm,-91 dBm
+D3,-77 dBm,-80 dBm,-81 dBm,-94 dBm,-71 dBm,-69 dBm,-67 dBm,-92 dBm
+D3,-75 dBm,-82 dBm,-76 dBm,-86 dBm,-72 dBm,-69 dBm,-69 dBm,-92 dBm
+D3,-76 dBm,-84 dBm,-81 dBm,-89 dBm,-67 dBm,-72 dBm,-70 dBm,-91 dBm
+D3,-76 dBm,-80 dBm,-76 dBm,-90 dBm,-70 dBm,-71 dBm,-67 dBm,-94 dBm
+D3,-74 dBm,-81 dBm,-77 dBm,-92 dBm,-70 dBm,-72 dBm,-69 dBm,-93 dBm
+D3,-75 dBm,-84 dBm,-75 dBm,-94 dBm,-73 dBm,-71 dBm,-67 dBm,-94 dBm
+D3,-75 dBm,-83 dBm,-80 dBm,-86 dBm,-70 dBm,-70 dBm,-70 dBm,-93 dBm
+D3,-75 dBm,-81 dBm,-77 dBm,-89 dBm,-65 dBm,-71 dBm,-69 dBm,-94 dBm
+D3,-73 dBm,-80 dBm,-80 dBm,-88 dBm,-70 dBm,-71 dBm,-72 dBm,-91 dBm
+D3,-74 dBm,-81 dBm,-81 dBm,-86 dBm,-67 dBm,-70 dBm,-71 dBm,-91 dBm
+D3,-74 dBm,-82 dBm,-76 dBm,-89 dBm,-69 dBm,-73 dBm,-68 dBm,-96 dBm
+D3,-74 dBm,-83 dBm,-76 dBm,-89 dBm,-70 dBm,-72 dBm,-67 dBm,-90 dBm
+D3,-72 dBm,-85 dBm,-78 dBm,-84 dBm,-70 dBm,-71 dBm,-70 dBm,-91 dBm
+D3,-75 dBm,-81 dBm,-78 dBm,-86 dBm,-71 dBm,-71 dBm,-69 dBm,-91 dBm
+D3,-78 dBm,-81 dBm,-77 dBm,-89 dBm,-66 dBm,-72 dBm,-69 dBm,-94 dBm
+D3,-76 dBm,-85 dBm,-79 dBm,-87 dBm,-72 dBm,-73 dBm,-73 dBm,-96 dBm
+D3,-79 dBm,-81 dBm,-76 dBm,0,-67 dBm,-73 dBm,-70 dBm,0
+,,,,,,,,
+D4,-84 dBm,-84 dBm,-81 dBm,-87 dBm,-73 dBm,-80 dBm,-70 dBm,-85 dBm
+D4,-82 dBm,-82 dBm,-89 dBm,-88 dBm,-77 dBm,-86 dBm,-67 dBm,-89 dBm
+D4,-73 dBm,-83 dBm,-83 dBm,-85 dBm,-67 dBm,-81 dBm,-69 dBm,-86 dBm
+D4,-72 dBm,-85 dBm,-75 dBm,-87 dBm,-72 dBm,-79 dBm,-78 dBm,-87 dBm
+D4,-82 dBm,-74 dBm,-73 dBm,-86 dBm,-75 dBm,-84 dBm,-73 dBm,-86 dBm
+D4,-84 dBm,-76 dBm,-74 dBm,-88 dBm,-82 dBm,-86 dBm,-72 dBm,-87 dBm
+D4,-88 dBm,-79 dBm,-77 dBm,-87 dBm,-72 dBm,-84 dBm,-72 dBm,-83 dBm
+D4,-88 dBm,-78 dBm,-74 dBm,-89 dBm,-73 dBm,-83 dBm,-73 dBm,-86 dBm
+D4,-83 dBm,-77 dBm,-76 dBm,-88 dBm,-78 dBm,-82 dBm,-70 dBm,-85 dBm
+D4,-81 dBm,-74 dBm,-72 dBm,-85 dBm,-74 dBm,-81 dBm,-70 dBm,-84 dBm
+D4,-86 dBm,-80 dBm,-81 dBm,-86 dBm,-70 dBm,-84 dBm,-72 dBm,-83 dBm
+D4,-88 dBm,-79 dBm,-74 dBm,-84 dBm,-75 dBm,-89 dBm,-71 dBm,-86 dBm
+D4,-84 dBm,-77 dBm,-74 dBm,-86 dBm,-79 dBm,-88 dBm,-82 dBm,-84 dBm
+D4,-80 dBm,-78 dBm,-77 dBm,-83 dBm,-70 dBm,-85 dBm,-74 dBm,-86 dBm
+D4,-73 dBm,-77 dBm,-70 dBm,-84 dBm,-67 dBm,-88 dBm,-77 dBm,-86 dBm
+D4,-75 dBm,-81 dBm,-71 dBm,-89 dBm,-63 dBm,-90 dBm,-78 dBm,-83 dBm
+D4,-78 dBm,-81 dBm,-71 dBm,-88 dBm,-62 dBm,-93 dBm,-75 dBm,-82 dBm
+D4,-77 dBm,-83 dBm,-72 dBm,-86 dBm,-65 dBm,-93 dBm,-70 dBm,-87 dBm
+D4,-76 dBm,-81 dBm,-75 dBm,-87 dBm,-65 dBm,-89 dBm,-69 dBm,-85 dBm
+D4,-76 dBm,-81 dBm,-75 dBm,-90 dBm,-65 dBm,-89 dBm,-70 dBm,-88 dBm
+D4,-76 dBm,-80 dBm,-75 dBm,-90 dBm,-64 dBm,-89 dBm,-71 dBm,-90 dBm
+D4,-78 dBm,-81 dBm,-73 dBm,-87 dBm,-63 dBm,-90 dBm,-70 dBm,-91 dBm
+D4,-78 dBm,-80 dBm,-73 dBm,-87 dBm,-63 dBm,-89 dBm,-70 dBm,-85 dBm
+D4,-75 dBm,-79 dBm,-72 dBm,-91 dBm,-64 dBm,-90 dBm,-72 dBm,-83 dBm
+D4,-76 dBm,-79 dBm,-73 dBm,-89 dBm,-65 dBm,-95 dBm,-73 dBm,-82 dBm
+D4,-76 dBm,-78 dBm,-74 dBm,-89 dBm,-64 dBm,-93 dBm,-72 dBm,-85 dBm
+D4,-75 dBm,-79 dBm,-73 dBm,-88 dBm,-65 dBm,-96 dBm,-73 dBm,-90 dBm
+D4,-76 dBm,-79 dBm,-74 dBm,-89 dBm,-65 dBm,-90 dBm,-77 dBm,-84 dBm
+D4,-78 dBm,-81 dBm,-72 dBm,-87 dBm,-65 dBm,-93 dBm,-75 dBm,-84 dBm
+D4,-75 dBm,-79 dBm,-75 dBm,-86 dBm,-64 dBm,-92 dBm,-71 dBm,-83 dBm
+D4,-76 dBm,-81 dBm,-75 dBm,-87 dBm,-64 dBm,-93 dBm,-73 dBm,-83 dBm
+D4,-77 dBm,-80 dBm,-75 dBm,-88 dBm,-63 dBm,-94 dBm,-69 dBm,-84 dBm
+,,,,,,,,
+D5,-79 dBm,-74 dBm,-67 dBm,-84 dBm,-65 dBm,-84 dBm,-65 dBm,-83 dBm
+D5,-71 dBm,-81 dBm,-67 dBm,-88 dBm,-61 dBm,-90 dBm,-66 dBm,-83 dBm
+D5,-77 dBm,-79 dBm,-67 dBm,-89 dBm,-63 dBm,-87 dBm,-66 dBm,-84 dBm
+D5,-75 dBm,-75 dBm,-69 dBm,-87 dBm,-64 dBm,-88 dBm,-61 dBm,-87 dBm
+D5,-77 dBm,-76 dBm,-68 dBm,-87 dBm,-65 dBm,-91 dBm,-65 dBm,-79 dBm
+D5,-75 dBm,-76 dBm,-69 dBm,-87 dBm,-65 dBm,-88 dBm,-66 dBm,-80 dBm
+D5,-76 dBm,-76 dBm,-69 dBm,-86 dBm,-61 dBm,-87 dBm,-64 dBm,-87 dBm
+D5,-74 dBm,-76 dBm,-73 dBm,-86 dBm,-65 dBm,-87 dBm,-65 dBm,-83 dBm
+D5,-74 dBm,-79 dBm,-67 dBm,-92 dBm,-66 dBm,-83 dBm,-61 dBm,-81 dBm
+D5,-79 dBm,-79 dBm,-70 dBm,-88 dBm,-67 dBm,-89 dBm,-65 dBm,-78 dBm
+D5,-76 dBm,-76 dBm,-77 dBm,-92 dBm,-68 dBm,-83 dBm,-64 dBm,-82 dBm
+D5,-73 dBm,-82 dBm,-71 dBm,-86 dBm,-71 dBm,-88 dBm,-67 dBm,-82 dBm
+D5,-72 dBm,-85 dBm,-82 dBm,-87 dBm,-63 dBm,-84 dBm,-69 dBm,-79 dBm
+D5,-78 dBm,-77 dBm,-72 dBm,-96 dBm,-60 dBm,-81 dBm,-64 dBm,-77 dBm
+D5,-80 dBm,-77 dBm,-67 dBm,-88 dBm,-66 dBm,-83 dBm,-68 dBm,-76 dBm
+D5,-79 dBm,-73 dBm,-79 dBm,-88 dBm,-64 dBm,-89 dBm,-72 dBm,-77 dBm
+D5,-72 dBm,-75 dBm,-77 dBm,-89 dBm,-60 dBm,-86 dBm,-64 dBm,-86 dBm
+D5,-78 dBm,-77 dBm,-70 dBm,-88 dBm,-62 dBm,-91 dBm,-65 dBm,-88 dBm
+D5,-74 dBm,-75 dBm,-82 dBm,-87 dBm,-61 dBm,-86 dBm,-67 dBm,-86 dBm
+D5,-73 dBm,-76 dBm,-77 dBm,-85 dBm,-61 dBm,-85 dBm,-65 dBm,-80 dBm
+D5,-72 dBm,-76 dBm,-72 dBm,-90 dBm,-60 dBm,-84 dBm,-66 dBm,-81 dBm
+D5,-73 dBm,-73 dBm,-82 dBm,-86 dBm,-60 dBm,-83 dBm,-61 dBm,-81 dBm
+D5,-81 dBm,-76 dBm,-74 dBm,-87 dBm,-60 dBm,-83 dBm,-64 dBm,-85 dBm
+D5,-74 dBm,-77 dBm,-78 dBm,-92 dBm,-65 dBm,-89 dBm,-64 dBm,-83 dBm
+D5,-71 dBm,-80 dBm,-82 dBm,-88 dBm,-59 dBm,-91 dBm,-62 dBm,-81 dBm
+D5,-72 dBm,-77 dBm,-80 dBm,-88 dBm,-63 dBm,-81 dBm,-62 dBm,-81 dBm
+D5,-69 dBm,-76 dBm,-82 dBm,-86 dBm,-62 dBm,-87 dBm,-63 dBm,-76 dBm
+D5,-77 dBm,-74 dBm,-88 dBm,-86 dBm,-64 dBm,-85 dBm,-63 dBm,-81 dBm
+D5,-75 dBm,-76 dBm,-85 dBm,-87 dBm,-63 dBm,-83 dBm,-63 dBm,-80 dBm
+D5,-79 dBm,-77 dBm,-75 dBm,-87 dBm,-64 dBm,-83 dBm,-64 dBm,-76 dBm
+D5,-74 dBm,-76 dBm,-75 dBm,-85 dBm,-62 dBm,-88 dBm,-67 dBm,-80 dBm
+D5,-75 dBm,-76 dBm,0,-87 dBm,-61 dBm,-81 dBm,-64 dBm,-79 dBm
+,,,,,,,,
+D6,-67 dBm,-81 dBm,-66 dBm,-83 dBm,-76 dBm,-82 dBm,-71 dBm,-82 dBm
+D6,-67 dBm,-80 dBm,-62 dBm,-81 dBm,-71 dBm,-80 dBm,-69 dBm,-84 dBm
+D6,-67 dBm,-79 dBm,-67 dBm,-81 dBm,-71 dBm,-79 dBm,-70 dBm,-83 dBm
+D6,-69 dBm,-80 dBm,-68 dBm,-81 dBm,-70 dBm,-80 dBm,-70 dBm,-84 dBm
+D6,-69 dBm,-80 dBm,-70 dBm,-81 dBm,-71 dBm,-82 dBm,-70 dBm,-84 dBm
+D6,-68 dBm,-78 dBm,-67 dBm,-81 dBm,-70 dBm,-85 dBm,-70 dBm,-84 dBm
+D6,-69 dBm,-77 dBm,-66 dBm,-80 dBm,-74 dBm,-85 dBm,-71 dBm,-84 dBm
+D6,-67 dBm,-80 dBm,-64 dBm,-80 dBm,-70 dBm,-82 dBm,-70 dBm,-84 dBm
+D6,-67 dBm,-80 dBm,-67 dBm,-82 dBm,-68 dBm,-77 dBm,-71 dBm,-84 dBm
+D6,-68 dBm,-78 dBm,-67 dBm,-83 dBm,-70 dBm,-80 dBm,-71 dBm,-85 dBm
+D6,-64 dBm,-79 dBm,-66 dBm,-82 dBm,-72 dBm,-80 dBm,-73 dBm,-84 dBm
+D6,-70 dBm,-79 dBm,-68 dBm,-80 dBm,-69 dBm,-83 dBm,-72 dBm,-85 dBm
+D6,-67 dBm,-78 dBm,-67 dBm,-79 dBm,-71 dBm,-84 dBm,-68 dBm,-84 dBm
+D6,-70 dBm,-81 dBm,-67 dBm,-81 dBm,-66 dBm,-83 dBm,-70 dBm,-83 dBm
+D6,-68 dBm,-76 dBm,-69 dBm,-81 dBm,-67 dBm,-81 dBm,-69 dBm,-83 dBm
+D6,-69 dBm,-80 dBm,-64 dBm,-78 dBm,-69 dBm,-83 dBm,-71 dBm,-83 dBm
+D6,-69 dBm,-81 dBm,-67 dBm,-80 dBm,-67 dBm,-84 dBm,-70 dBm,-84 dBm
+D6,-69 dBm,-80 dBm,-65 dBm,-79 dBm,-66 dBm,-80 dBm,-72 dBm,-84 dBm
+D6,-69 dBm,-80 dBm,-67 dBm,-78 dBm,-68 dBm,-80 dBm,-70 dBm,-83 dBm
+D6,-68 dBm,-80 dBm,-69 dBm,-80 dBm,-66 dBm,-79 dBm,-71 dBm,-83 dBm
+D6,-69 dBm,-80 dBm,-67 dBm,-78 dBm,-67 dBm,-83 dBm,-71 dBm,-84 dBm
+D6,-69 dBm,-78 dBm,-67 dBm,-82 dBm,-70 dBm,-79 dBm,-69 dBm,-83 dBm
+D6,-68 dBm,-79 dBm,-64 dBm,-81 dBm,-68 dBm,-84 dBm,-71 dBm,-83 dBm
+D6,-68 dBm,-78 dBm,-68 dBm,-80 dBm,-68 dBm,-81 dBm,-70 dBm,-83 dBm
+D6,-69 dBm,-79 dBm,-65 dBm,-80 dBm,-65 dBm,-77 dBm,-70 dBm,-84 dBm
+D6,-69 dBm,-79 dBm,-67 dBm,-80 dBm,-67 dBm,-81 dBm,-70 dBm,-84 dBm
+D6,-69 dBm,-80 dBm,-69 dBm,-80 dBm,-65 dBm,-79 dBm,-70 dBm,-85 dBm
+D6,-67 dBm,-81 dBm,-68 dBm,-79 dBm,-67 dBm,-81 dBm,-71 dBm,-84 dBm
+D6,-69 dBm,-80 dBm,-67 dBm,-79 dBm,-67 dBm,-84 dBm,-71 dBm,-86 dBm
+D6,-69 dBm,-80 dBm,-67 dBm,-78 dBm,-67 dBm,-80 dBm,-69 dBm,-82 dBm
+D6,-69 dBm,-79 dBm,-68 dBm,-79 dBm,-69 dBm,-82 dBm,-68 dBm,-85 dBm
+D6,-68 dBm,-80 dBm,-68 dBm,-81 dBm,-67 dBm,-80 dBm,-70 dBm,-86 dBm
+D6,-69 dBm,-80 dBm,-68 dBm,-79 dBm,-67 dBm,-81 dBm,-70 dBm,-84 dBm
+,,,,,,,,
+D7,-63 dBm,-80 dBm,-69 dBm,-88 dBm,-82 dBm,-94 dBm,-72 dBm,-84 dBm
+D7,-66 dBm,-78 dBm,-68 dBm,-93 dBm,-77 dBm,-92 dBm,-72 dBm,-81 dBm
+D7,-62 dBm,-78 dBm,-67 dBm,-93 dBm,-71 dBm,-89 dBm,-72 dBm,-79 dBm
+D7,-62 dBm,-77 dBm,-68 dBm,-88 dBm,-69 dBm,-91 dBm,-73 dBm,-81 dBm
+D7,-64 dBm,-78 dBm,-68 dBm,-93 dBm,-69 dBm,-91 dBm,-73 dBm,-81 dBm
+D7,-64 dBm,-77 dBm,-67 dBm,-88 dBm,-68 dBm,-92 dBm,-71 dBm,-81 dBm
+D7,-63 dBm,-78 dBm,-70 dBm,-89 dBm,-68 dBm,-90 dBm,-72 dBm,-82 dBm
+D7,-63 dBm,-79 dBm,-67 dBm,-90 dBm,-68 dBm,-88 dBm,-75 dBm,-80 dBm
+D7,-63 dBm,-79 dBm,-69 dBm,-90 dBm,-68 dBm,-91 dBm,-74 dBm,-82 dBm
+D7,-63 dBm,-80 dBm,-67 dBm,-90 dBm,-67 dBm,-87 dBm,-72 dBm,-82 dBm
+D7,-64 dBm,-77 dBm,-67 dBm,-90 dBm,-68 dBm,-90 dBm,-74 dBm,-82 dBm
+D7,-64 dBm,-78 dBm,-68 dBm,-87 dBm,-69 dBm,-91 dBm,-72 dBm,-81 dBm
+D7,-62 dBm,-80 dBm,-67 dBm,-90 dBm,-67 dBm,-92 dBm,-74 dBm,-79 dBm
+D7,-64 dBm,-80 dBm,-68 dBm,-88 dBm,-68 dBm,-94 dBm,-73 dBm,-82 dBm
+D7,-65 dBm,-80 dBm,-67 dBm,-89 dBm,-68 dBm,-91 dBm,-73 dBm,-82 dBm
+D7,-63 dBm,-79 dBm,-67 dBm,-91 dBm,-67 dBm,-88 dBm,-73 dBm,-82 dBm
+D7,-64 dBm,-79 dBm,-67 dBm,-89 dBm,-66 dBm,-91 dBm,-75 dBm,-82 dBm
+D7,-62 dBm,-79 dBm,-67 dBm,-89 dBm,-66 dBm,-91 dBm,-72 dBm,-81 dBm
+D7,-64 dBm,-79 dBm,-67 dBm,-89 dBm,-69 dBm,-93 dBm,-71 dBm,-81 dBm
+D7,-64 dBm,-80 dBm,-67 dBm,-94 dBm,-68 dBm,-87 dBm,-71 dBm,-83 dBm
+D7,-62 dBm,-79 dBm,-68 dBm,-92 dBm,-70 dBm,-89 dBm,-72 dBm,-82 dBm
+D7,-63 dBm,-80 dBm,-68 dBm,-92 dBm,-70 dBm,-91 dBm,-72 dBm,-81 dBm
+D7,-65 dBm,-78 dBm,-67 dBm,-90 dBm,-64 dBm,-90 dBm,-72 dBm,-81 dBm
+D7,-67 dBm,-84 dBm,-69 dBm,-91 dBm,-68 dBm,-88 dBm,-73 dBm,-81 dBm
+D7,-67 dBm,-82 dBm,-68 dBm,-94 dBm,-76 dBm,-89 dBm,-71 dBm,-80 dBm
+D7,-65 dBm,-79 dBm,-66 dBm,-90 dBm,-73 dBm,-88 dBm,-72 dBm,-81 dBm
+D7,-64 dBm,-78 dBm,-68 dBm,-91 dBm,-70 dBm,-92 dBm,-72 dBm,-82 dBm
+D7,-65 dBm,-78 dBm,-68 dBm,-91 dBm,-69 dBm,-90 dBm,-71 dBm,-81 dBm
+D7,-64 dBm,-79 dBm,-69 dBm,-90 dBm,-72 dBm,-90 dBm,-72 dBm,-82 dBm
+D7,-63 dBm,-79 dBm,-68 dBm,-89 dBm,-70 dBm,-89 dBm,-73 dBm,-82 dBm
+D7,-65 dBm,-80 dBm,-66 dBm,-87 dBm,-69 dBm,-84 dBm,-71 dBm,-81 dBm
+D7,-62 dBm,-78 dBm,-68 dBm,-92 dBm,-68 dBm,0,-72 dBm,-82 dBm
+,,,,,,,,
+D8,-71 dBm,-83 dBm,-77 dBm,-84 dBm,-67 dBm,-88 dBm,-67 dBm,-88 dBm
+D8,-67 dBm,-89 dBm,-73 dBm,-85 dBm,-66 dBm,-88 dBm,-71 dBm,-89 dBm
+D8,-62 dBm,-83 dBm,-71 dBm,-84 dBm,-73 dBm,-89 dBm,-71 dBm,-89 dBm
+D8,-62 dBm,-88 dBm,-73 dBm,-84 dBm,-75 dBm,-88 dBm,-73 dBm,-86 dBm
+D8,-64 dBm,-86 dBm,-72 dBm,-84 dBm,-75 dBm,-86 dBm,-70 dBm,-85 dBm
+D8,-62 dBm,-88 dBm,-74 dBm,-84 dBm,-72 dBm,-89 dBm,-70 dBm,-86 dBm
+D8,-63 dBm,-86 dBm,-73 dBm,-84 dBm,-75 dBm,-87 dBm,-71 dBm,-85 dBm
+D8,-63 dBm,-87 dBm,-75 dBm,-83 dBm,-75 dBm,-87 dBm,-71 dBm,-85 dBm
+D8,-64 dBm,-88 dBm,-74 dBm,-86 dBm,-73 dBm,-89 dBm,-71 dBm,-84 dBm
+D8,-62 dBm,-87 dBm,-72 dBm,-83 dBm,-74 dBm,-88 dBm,-71 dBm,-86 dBm
+D8,-63 dBm,-92 dBm,-73 dBm,-84 dBm,-74 dBm,-91 dBm,-70 dBm,-84 dBm
+D8,-63 dBm,-88 dBm,-74 dBm,-80 dBm,-74 dBm,-88 dBm,-71 dBm,-86 dBm
+D8,-63 dBm,-89 dBm,-73 dBm,-82 dBm,-76 dBm,-88 dBm,-70 dBm,-84 dBm
+D8,-66 dBm,-89 dBm,-73 dBm,-83 dBm,-71 dBm,-90 dBm,-71 dBm,-85 dBm
+D8,-62 dBm,-87 dBm,-74 dBm,-82 dBm,-76 dBm,-87 dBm,-71 dBm,-83 dBm
+D8,-64 dBm,-85 dBm,-74 dBm,-84 dBm,-74 dBm,-90 dBm,-69 dBm,-87 dBm
+D8,-64 dBm,-88 dBm,-73 dBm,-84 dBm,-75 dBm,-87 dBm,-69 dBm,-85 dBm
+D8,-64 dBm,-87 dBm,-73 dBm,-82 dBm,-70 dBm,-87 dBm,-71 dBm,-86 dBm
+D8,-63 dBm,-87 dBm,-73 dBm,-83 dBm,-73 dBm,-89 dBm,-70 dBm,-82 dBm
+D8,-64 dBm,-84 dBm,-74 dBm,-83 dBm,-73 dBm,-88 dBm,-72 dBm,-85 dBm
+D8,-61 dBm,-88 dBm,-73 dBm,-84 dBm,-73 dBm,-89 dBm,-71 dBm,-86 dBm
+D8,-65 dBm,-88 dBm,-74 dBm,-85 dBm,-73 dBm,-88 dBm,-71 dBm,-86 dBm
+D8,-62 dBm,-86 dBm,-74 dBm,-83 dBm,-73 dBm,-88 dBm,-72 dBm,-86 dBm
+D8,-64 dBm,-86 dBm,-73 dBm,-82 dBm,-72 dBm,-88 dBm,-71 dBm,-86 dBm
+D8,-62 dBm,-87 dBm,-74 dBm,-84 dBm,-73 dBm,-88 dBm,-70 dBm,-85 dBm
+D8,-62 dBm,-88 dBm,-73 dBm,-84 dBm,-73 dBm,-89 dBm,-71 dBm,-86 dBm
+D8,-64 dBm,-88 dBm,-73 dBm,-82 dBm,-72 dBm,-88 dBm,-72 dBm,-84 dBm
+D8,-64 dBm,-87 dBm,-74 dBm,-85 dBm,-71 dBm,-89 dBm,-71 dBm,-86 dBm
+D8,-63 dBm,-87 dBm,-75 dBm,-83 dBm,-74 dBm,-87 dBm,-67 dBm,-87 dBm
+D8,-64 dBm,-88 dBm,-74 dBm,-83 dBm,-73 dBm,-88 dBm,-71 dBm,-86 dBm
+D8,-64 dBm,-88 dBm,-74 dBm,-84 dBm,-72 dBm,-88 dBm,-73 dBm,-86 dBm
+D8,-63 dBm,-88 dBm,-74 dBm,-84 dBm,-74 dBm,-89 dBm,-71 dBm,-89 dBm
+D8,-64 dBm,-90 dBm,-73 dBm,-85 dBm,-70 dBm,0,-71 dBm,-92 dBm
+,,,,,,,,
+D9,-61 dBm,-73 dBm,-69 dBm,-86 dBm,-75 dBm,-84 dBm,-84 dBm,-83 dBm
+D9,-61 dBm,-75 dBm,-71 dBm,-85 dBm,-76 dBm,-85 dBm,-83 dBm,-82 dBm
+D9,-61 dBm,-75 dBm,-69 dBm,-88 dBm,-76 dBm,-85 dBm,-84 dBm,-85 dBm
+D9,-61 dBm,-74 dBm,-69 dBm,-86 dBm,-76 dBm,-87 dBm,-84 dBm,-84 dBm
+D9,-60 dBm,-75 dBm,-70 dBm,-87 dBm,-76 dBm,-86 dBm,-83 dBm,-84 dBm
+D9,-60 dBm,-75 dBm,-70 dBm,-86 dBm,-76 dBm,-86 dBm,-84 dBm,-85 dBm
+D9,-60 dBm,-75 dBm,-68 dBm,-86 dBm,-76 dBm,-86 dBm,-84 dBm,-85 dBm
+D9,-60 dBm,-74 dBm,-70 dBm,-86 dBm,-78 dBm,-83 dBm,-87 dBm,-84 dBm
+D9,-60 dBm,-73 dBm,-70 dBm,-87 dBm,-77 dBm,-83 dBm,-85 dBm,-82 dBm
+D9,-61 dBm,-75 dBm,-69 dBm,-87 dBm,-77 dBm,-87 dBm,-84 dBm,-83 dBm
+D9,-61 dBm,-73 dBm,-69 dBm,-86 dBm,-77 dBm,-86 dBm,-82 dBm,-84 dBm
+D9,-60 dBm,-76 dBm,-69 dBm,-86 dBm,-76 dBm,-87 dBm,-86 dBm,-84 dBm
+D9,-61 dBm,-73 dBm,-69 dBm,-87 dBm,-74 dBm,-86 dBm,-83 dBm,-84 dBm
+D9,-60 dBm,-75 dBm,-70 dBm,-85 dBm,-77 dBm,-86 dBm,-84 dBm,-82 dBm
+D9,-60 dBm,-74 dBm,-71 dBm,-88 dBm,-77 dBm,-87 dBm,-81 dBm,-84 dBm
+D9,-60 dBm,-76 dBm,-69 dBm,-88 dBm,-78 dBm,-84 dBm,-82 dBm,-82 dBm
+D9,-60 dBm,-72 dBm,-70 dBm,-89 dBm,-78 dBm,-86 dBm,-85 dBm,-82 dBm
+D9,-60 dBm,-73 dBm,-71 dBm,-88 dBm,-77 dBm,-86 dBm,-86 dBm,-82 dBm
+D9,-60 dBm,-76 dBm,-69 dBm,-88 dBm,-78 dBm,-87 dBm,-83 dBm,-85 dBm
+D9,-60 dBm,-74 dBm,-69 dBm,-86 dBm,-76 dBm,-85 dBm,-91 dBm,-84 dBm
+D9,-62 dBm,-76 dBm,-71 dBm,-86 dBm,-75 dBm,-86 dBm,-85 dBm,-83 dBm
+D9,-60 dBm,-73 dBm,-70 dBm,-88 dBm,-78 dBm,-88 dBm,-85 dBm,-82 dBm
+D9,-60 dBm,-75 dBm,-72 dBm,-87 dBm,-73 dBm,-93 dBm,-77 dBm,-84 dBm
+D9,-61 dBm,-76 dBm,-71 dBm,-86 dBm,-74 dBm,-87 dBm,-82 dBm,-87 dBm
+D9,-62 dBm,-74 dBm,-67 dBm,-90 dBm,-79 dBm,-88 dBm,-89 dBm,-86 dBm
+D9,-60 dBm,-72 dBm,-70 dBm,-88 dBm,-79 dBm,-84 dBm,-90 dBm,-83 dBm
+D9,-58 dBm,-76 dBm,-68 dBm,-89 dBm,-77 dBm,-88 dBm,-84 dBm,-88 dBm
+D9,-61 dBm,-81 dBm,-69 dBm,-85 dBm,-81 dBm,-89 dBm,-80 dBm,-89 dBm
+D9,-59 dBm,-75 dBm,-71 dBm,-88 dBm,-73 dBm,-85 dBm,-83 dBm,-85 dBm
+D9,-59 dBm,-76 dBm,-69 dBm,-86 dBm,-77 dBm,-87 dBm,-82 dBm,-84 dBm
+D9,-61 dBm,-74 dBm,-70 dBm,-89 dBm,-77 dBm,-86 dBm,-85 dBm,-86 dBm
+D9,-60 dBm,-73 dBm,-68 dBm,-88 dBm,-76 dBm,-87 dBm,-82 dBm,-85 dBm
+,,,,,,,,
+E1,-76 dBm,-78 dBm,-76 dBm,-92 dBm,-62 dBm,-76 dBm,-73 dBm,-88 dBm
+E1,-74 dBm,-80 dBm,-77 dBm,-91 dBm,-62 dBm,-75 dBm,-74 dBm,-87 dBm
+E1,-78 dBm,-78 dBm,-76 dBm,-93 dBm,-62 dBm,-77 dBm,-75 dBm,-85 dBm
+E1,-73 dBm,-80 dBm,-77 dBm,-95 dBm,-62 dBm,-77 dBm,-75 dBm,-85 dBm
+E1,-77 dBm,-78 dBm,-77 dBm,-92 dBm,-60 dBm,-77 dBm,-77 dBm,-87 dBm
+E1,-74 dBm,-79 dBm,-77 dBm,-92 dBm,-58 dBm,-75 dBm,-77 dBm,-86 dBm
+E1,-76 dBm,-77 dBm,-76 dBm,-94 dBm,-61 dBm,-77 dBm,-73 dBm,-87 dBm
+E1,-76 dBm,-86 dBm,-76 dBm,-95 dBm,-60 dBm,-75 dBm,-76 dBm,-87 dBm
+E1,-76 dBm,-78 dBm,-74 dBm,-94 dBm,-62 dBm,-76 dBm,-78 dBm,-87 dBm
+E1,-76 dBm,-78 dBm,-77 dBm,-92 dBm,-61 dBm,-76 dBm,-73 dBm,-86 dBm
+E1,-72 dBm,-77 dBm,-76 dBm,-92 dBm,-62 dBm,-78 dBm,-77 dBm,-88 dBm
+E1,-76 dBm,-80 dBm,-75 dBm,-95 dBm,-61 dBm,-75 dBm,-69 dBm,-87 dBm
+E1,-76 dBm,-78 dBm,-75 dBm,-93 dBm,-61 dBm,-76 dBm,-75 dBm,-87 dBm
+E1,-75 dBm,-82 dBm,-76 dBm,-91 dBm,-61 dBm,-76 dBm,-74 dBm,-87 dBm
+E1,-75 dBm,-79 dBm,-79 dBm,-92 dBm,-60 dBm,-75 dBm,-76 dBm,-86 dBm
+E1,-76 dBm,-77 dBm,-76 dBm,-92 dBm,-61 dBm,-78 dBm,-76 dBm,-85 dBm
+E1,-72 dBm,-79 dBm,-77 dBm,-91 dBm,-62 dBm,-76 dBm,-77 dBm,-86 dBm
+E1,-76 dBm,-78 dBm,-76 dBm,-93 dBm,-61 dBm,-76 dBm,-74 dBm,-87 dBm
+E1,-76 dBm,-79 dBm,-77 dBm,-92 dBm,-62 dBm,-78 dBm,-73 dBm,-87 dBm
+E1,-76 dBm,-79 dBm,-77 dBm,-92 dBm,-61 dBm,-76 dBm,-76 dBm,-86 dBm
+E1,-76 dBm,-77 dBm,-76 dBm,-92 dBm,-62 dBm,-76 dBm,-78 dBm,-87 dBm
+E1,-77 dBm,-78 dBm,-77 dBm,-91 dBm,-62 dBm,-77 dBm,-73 dBm,-88 dBm
+E1,-76 dBm,-78 dBm,-77 dBm,-93 dBm,-56 dBm,-77 dBm,-71 dBm,-86 dBm
+E1,-74 dBm,-78 dBm,-76 dBm,-94 dBm,-61 dBm,-77 dBm,-76 dBm,-87 dBm
+E1,-75 dBm,-77 dBm,-76 dBm,-93 dBm,-61 dBm,-78 dBm,-74 dBm,-85 dBm
+E1,-76 dBm,-78 dBm,-77 dBm,-93 dBm,-62 dBm,-75 dBm,-76 dBm,-87 dBm
+E1,-76 dBm,-77 dBm,-77 dBm,-94 dBm,-61 dBm,-77 dBm,-77 dBm,-86 dBm
+E1,-76 dBm,-77 dBm,-76 dBm,-93 dBm,-61 dBm,-78 dBm,-75 dBm,-87 dBm
+E1,-77 dBm,-75 dBm,-77 dBm,-88 dBm,-63 dBm,-77 dBm,-73 dBm,-88 dBm
+E1,-78 dBm,-77 dBm,-77 dBm,-91 dBm,-63 dBm,-78 dBm,-77 dBm,-89 dBm
+E1,-80 dBm,-76 dBm,-79 dBm,-95 dBm,-63 dBm,-77 dBm,-77 dBm,-88 dBm
+E1,-82 dBm,-78 dBm,-79 dBm,-92 dBm,-64 dBm,-76 dBm,-76 dBm,0
+,,,,,,,,
+E2,-74 dBm,-91 dBm,-76 dBm,-92 dBm,-63 dBm,-72 dBm,-80 dBm,-87 dBm
+E2,-74 dBm,-94 dBm,-75 dBm,-91 dBm,-65 dBm,-72 dBm,-79 dBm,-89 dBm
+E2,-73 dBm,-93 dBm,-73 dBm,-91 dBm,-60 dBm,-72 dBm,-73 dBm,-90 dBm
+E2,-75 dBm,-93 dBm,-71 dBm,-89 dBm,-63 dBm,-75 dBm,-76 dBm,-93 dBm
+E2,-74 dBm,-94 dBm,-73 dBm,-90 dBm,-64 dBm,-74 dBm,-76 dBm,-91 dBm
+E2,-77 dBm,-94 dBm,-73 dBm,-94 dBm,-63 dBm,-73 dBm,-78 dBm,-89 dBm
+E2,-76 dBm,-93 dBm,-73 dBm,-90 dBm,-63 dBm,-69 dBm,-77 dBm,-89 dBm
+E2,-73 dBm,-92 dBm,-77 dBm,-93 dBm,-63 dBm,-72 dBm,-80 dBm,-92 dBm
+E2,-78 dBm,-93 dBm,-72 dBm,-88 dBm,-62 dBm,-70 dBm,-79 dBm,-89 dBm
+E2,-72 dBm,-92 dBm,-75 dBm,-92 dBm,-65 dBm,-71 dBm,-78 dBm,-92 dBm
+E2,-71 dBm,-95 dBm,-72 dBm,-92 dBm,-60 dBm,-71 dBm,-76 dBm,-89 dBm
+E2,-74 dBm,-91 dBm,-73 dBm,-90 dBm,-65 dBm,-65 dBm,-75 dBm,-88 dBm
+E2,-75 dBm,-90 dBm,-71 dBm,-91 dBm,-67 dBm,-72 dBm,-78 dBm,-94 dBm
+E2,-72 dBm,-90 dBm,-74 dBm,-86 dBm,-60 dBm,-70 dBm,-78 dBm,-89 dBm
+E2,-72 dBm,-94 dBm,-72 dBm,-88 dBm,-64 dBm,-72 dBm,-82 dBm,-89 dBm
+E2,-73 dBm,-94 dBm,-69 dBm,-89 dBm,-64 dBm,-70 dBm,-76 dBm,-89 dBm
+E2,-73 dBm,-89 dBm,-72 dBm,-87 dBm,-62 dBm,-73 dBm,-81 dBm,-85 dBm
+E2,-72 dBm,-90 dBm,-72 dBm,-89 dBm,-64 dBm,-73 dBm,-78 dBm,-87 dBm
+E2,-74 dBm,-94 dBm,-73 dBm,-87 dBm,-62 dBm,-69 dBm,-80 dBm,-88 dBm
+E2,-74 dBm,-92 dBm,-73 dBm,-92 dBm,-64 dBm,-70 dBm,-80 dBm,-89 dBm
+E2,-75 dBm,-92 dBm,-72 dBm,-90 dBm,-61 dBm,-72 dBm,-79 dBm,-88 dBm
+E2,-72 dBm,-94 dBm,-74 dBm,-92 dBm,-68 dBm,-73 dBm,-80 dBm,-90 dBm
+E2,-72 dBm,-95 dBm,-71 dBm,-92 dBm,-64 dBm,-72 dBm,-78 dBm,-88 dBm
+E2,-73 dBm,-96 dBm,-73 dBm,-91 dBm,-66 dBm,-69 dBm,-76 dBm,-88 dBm
+E2,-72 dBm,-93 dBm,-73 dBm,-90 dBm,-66 dBm,-71 dBm,-75 dBm,-92 dBm
+E2,-72 dBm,-92 dBm,-75 dBm,-90 dBm,-65 dBm,-70 dBm,-76 dBm,-95 dBm
+E2,-71 dBm,-93 dBm,-74 dBm,-91 dBm,-63 dBm,-72 dBm,-76 dBm,-90 dBm
+E2,-70 dBm,-92 dBm,-75 dBm,-93 dBm,-63 dBm,-73 dBm,-76 dBm,-91 dBm
+E2,-72 dBm,-93 dBm,-76 dBm,-89 dBm,-64 dBm,-70 dBm,-76 dBm,-95 dBm
+E2,-71 dBm,-94 dBm,-75 dBm,-90 dBm,-70 dBm,-70 dBm,-76 dBm,0
+E2,-71 dBm,-90 dBm,-74 dBm,-92 dBm,-68 dBm,-70 dBm,-73 dBm,0
+E2,-73 dBm,-94 dBm,-77 dBm,-91 dBm,-63 dBm,-67 dBm,-72 dBm,0
+,,,,,,,,
+E3,-80 dBm,-90 dBm,-75 dBm,-90 dBm,-61 dBm,-79 dBm,-78 dBm,-88 dBm
+E3,-80 dBm,-78 dBm,-73 dBm,-90 dBm,-60 dBm,-76 dBm,-81 dBm,-89 dBm
+E3,-93 dBm,-85 dBm,-71 dBm,-92 dBm,-67 dBm,-80 dBm,-78 dBm,-85 dBm
+E3,-84 dBm,-88 dBm,-74 dBm,-91 dBm,-62 dBm,-77 dBm,-81 dBm,-89 dBm
+E3,-79 dBm,-82 dBm,-71 dBm,-91 dBm,-61 dBm,-79 dBm,-80 dBm,-94 dBm
+E3,-81 dBm,-85 dBm,-71 dBm,-92 dBm,-61 dBm,-81 dBm,-78 dBm,-91 dBm
+E3,-82 dBm,-84 dBm,-73 dBm,-91 dBm,-62 dBm,-79 dBm,-80 dBm,-92 dBm
+E3,-83 dBm,-84 dBm,-72 dBm,-91 dBm,-62 dBm,-79 dBm,-80 dBm,-91 dBm
+E3,-82 dBm,-84 dBm,-73 dBm,-92 dBm,-60 dBm,-79 dBm,-80 dBm,-90 dBm
+E3,-82 dBm,-83 dBm,-72 dBm,-91 dBm,-63 dBm,-80 dBm,-80 dBm,-91 dBm
+E3,-83 dBm,-85 dBm,-72 dBm,-91 dBm,-63 dBm,-80 dBm,-83 dBm,-90 dBm
+E3,-81 dBm,-82 dBm,-72 dBm,-92 dBm,-62 dBm,-79 dBm,-84 dBm,-92 dBm
+E3,-78 dBm,-81 dBm,-73 dBm,-94 dBm,-63 dBm,-79 dBm,-84 dBm,-90 dBm
+E3,-80 dBm,-82 dBm,-73 dBm,-91 dBm,-63 dBm,-81 dBm,-85 dBm,-90 dBm
+E3,-80 dBm,-82 dBm,-73 dBm,-92 dBm,-63 dBm,-79 dBm,-83 dBm,-90 dBm
+E3,-80 dBm,-81 dBm,-73 dBm,-91 dBm,-62 dBm,-81 dBm,-84 dBm,-90 dBm
+E3,-80 dBm,-83 dBm,-73 dBm,-91 dBm,-61 dBm,-80 dBm,-88 dBm,-90 dBm
+E3,-80 dBm,-84 dBm,-74 dBm,-89 dBm,-60 dBm,-79 dBm,-83 dBm,-88 dBm
+E3,-80 dBm,-86 dBm,-72 dBm,-90 dBm,-61 dBm,-79 dBm,-81 dBm,-92 dBm
+E3,-77 dBm,-81 dBm,-72 dBm,-90 dBm,-63 dBm,-77 dBm,-83 dBm,-92 dBm
+E3,-81 dBm,-83 dBm,-73 dBm,-90 dBm,-61 dBm,-78 dBm,-84 dBm,-91 dBm
+E3,-84 dBm,-84 dBm,-72 dBm,-90 dBm,-62 dBm,-79 dBm,-86 dBm,-90 dBm
+E3,-77 dBm,-83 dBm,-74 dBm,-91 dBm,-59 dBm,-79 dBm,-83 dBm,-94 dBm
+E3,-80 dBm,-84 dBm,-70 dBm,-88 dBm,-64 dBm,-81 dBm,-88 dBm,-89 dBm
+E3,-87 dBm,-82 dBm,-75 dBm,-84 dBm,-61 dBm,-77 dBm,-80 dBm,-89 dBm
+E3,-84 dBm,-87 dBm,-75 dBm,-89 dBm,-63 dBm,-80 dBm,-86 dBm,-90 dBm
+E3,-81 dBm,-86 dBm,-71 dBm,-87 dBm,-75 dBm,-79 dBm,-91 dBm,-93 dBm
+E3,-78 dBm,-88 dBm,-76 dBm,-85 dBm,-74 dBm,-82 dBm,-78 dBm,-92 dBm
+E3,-81 dBm,-90 dBm,-75 dBm,-88 dBm,-69 dBm,-78 dBm,-79 dBm,-92 dBm
+E3,-82 dBm,-87 dBm,-74 dBm,-86 dBm,-68 dBm,-83 dBm,-77 dBm,-92 dBm
+E3,-81 dBm,-84 dBm,-74 dBm,-86 dBm,-68 dBm,-84 dBm,-80 dBm,-91 dBm
+E3,-81 dBm,-83 dBm,-71 dBm,-90 dBm,-69 dBm,-82 dBm,-82 dBm,-90 dBm
+,,,,,,,,
+E4,-80 dBm,-90 dBm,-80 dBm,-87 dBm,-50 dBm,-92 dBm,-68 dBm,-93 dBm
+E4,-77 dBm,-85 dBm,-77 dBm,-85 dBm,-50 dBm,-83 dBm,-67 dBm,-87 dBm
+E4,-77 dBm,-84 dBm,-74 dBm,-83 dBm,-50 dBm,-86 dBm,-70 dBm,-90 dBm
+E4,-80 dBm,-84 dBm,-77 dBm,-83 dBm,-50 dBm,-85 dBm,-68 dBm,-88 dBm
+E4,-80 dBm,-83 dBm,-76 dBm,-86 dBm,-50 dBm,-87 dBm,-69 dBm,-90 dBm
+E4,-84 dBm,-83 dBm,-76 dBm,-85 dBm,-54 dBm,-87 dBm,-69 dBm,-89 dBm
+E4,-79 dBm,-82 dBm,-76 dBm,-84 dBm,-53 dBm,-86 dBm,-69 dBm,-88 dBm
+E4,-78 dBm,-83 dBm,-76 dBm,-87 dBm,-54 dBm,-87 dBm,-68 dBm,-89 dBm
+E4,-83 dBm,-83 dBm,-76 dBm,-87 dBm,-54 dBm,-82 dBm,-67 dBm,-87 dBm
+E4,-79 dBm,-87 dBm,-75 dBm,-85 dBm,-52 dBm,-85 dBm,-67 dBm,-87 dBm
+E4,-74 dBm,-87 dBm,-76 dBm,-87 dBm,-53 dBm,-86 dBm,-70 dBm,-92 dBm
+E4,-75 dBm,-82 dBm,-75 dBm,-87 dBm,-53 dBm,-85 dBm,-68 dBm,-91 dBm
+E4,-77 dBm,-85 dBm,-76 dBm,-85 dBm,-54 dBm,-87 dBm,-68 dBm,-93 dBm
+E4,-75 dBm,-83 dBm,-75 dBm,-88 dBm,-54 dBm,-85 dBm,-67 dBm,-90 dBm
+E4,-74 dBm,-83 dBm,-73 dBm,-85 dBm,-53 dBm,-91 dBm,-70 dBm,-88 dBm
+E4,-80 dBm,-80 dBm,-74 dBm,-88 dBm,-53 dBm,-85 dBm,-70 dBm,-91 dBm
+E4,-73 dBm,-83 dBm,-80 dBm,-87 dBm,-54 dBm,-86 dBm,-67 dBm,-87 dBm
+E4,-76 dBm,-82 dBm,-78 dBm,-85 dBm,-54 dBm,-88 dBm,-68 dBm,-87 dBm
+E4,-75 dBm,-81 dBm,-75 dBm,-86 dBm,-53 dBm,-88 dBm,-67 dBm,-90 dBm
+E4,-81 dBm,-80 dBm,-79 dBm,-83 dBm,-54 dBm,-89 dBm,-67 dBm,-93 dBm
+E4,-83 dBm,-84 dBm,-76 dBm,-85 dBm,-53 dBm,-87 dBm,-69 dBm,-87 dBm
+E4,-77 dBm,-81 dBm,-76 dBm,-86 dBm,-58 dBm,-94 dBm,-69 dBm,-88 dBm
+E4,-78 dBm,-85 dBm,-77 dBm,-86 dBm,-63 dBm,-87 dBm,-70 dBm,-90 dBm
+E4,-78 dBm,-84 dBm,-78 dBm,-87 dBm,-68 dBm,-89 dBm,-71 dBm,-90 dBm
+E4,-79 dBm,-83 dBm,-79 dBm,-85 dBm,-53 dBm,-86 dBm,-69 dBm,-90 dBm
+E4,-84 dBm,-83 dBm,-77 dBm,-87 dBm,-63 dBm,-89 dBm,-68 dBm,-91 dBm
+E4,-83 dBm,-83 dBm,-78 dBm,-89 dBm,-67 dBm,-87 dBm,-68 dBm,-89 dBm
+E4,-84 dBm,-88 dBm,-79 dBm,-90 dBm,-66 dBm,-91 dBm,-69 dBm,-86 dBm
+E4,-82 dBm,-83 dBm,-79 dBm,-86 dBm,-67 dBm,-90 dBm,-72 dBm,-89 dBm
+E4,-78 dBm,-83 dBm,-77 dBm,-87 dBm,-65 dBm,-91 dBm,-68 dBm,-91 dBm
+E4,-80 dBm,-81 dBm,-79 dBm,-86 dBm,-61 dBm,-89 dBm,-70 dBm,-90 dBm
+E4,-80 dBm,-82 dBm,-78 dBm,-86 dBm,-62 dBm,-88 dBm,-70 dBm,0
+,,,,,,,,
+E5,-73 dBm,-84 dBm,-70 dBm,-95 dBm,-62 dBm,-94 dBm,-67 dBm,-81 dBm
+E5,-76 dBm,-79 dBm,-71 dBm,-91 dBm,-60 dBm,-91 dBm,-69 dBm,-79 dBm
+E5,-76 dBm,-80 dBm,-71 dBm,-85 dBm,-60 dBm,-90 dBm,-66 dBm,-79 dBm
+E5,-72 dBm,-80 dBm,-72 dBm,-89 dBm,-61 dBm,-90 dBm,-66 dBm,-78 dBm
+E5,-71 dBm,-79 dBm,-68 dBm,-89 dBm,-63 dBm,-92 dBm,-69 dBm,-79 dBm
+E5,-67 dBm,-81 dBm,-71 dBm,-88 dBm,-66 dBm,-94 dBm,-64 dBm,-80 dBm
+E5,-73 dBm,-79 dBm,-70 dBm,-89 dBm,-65 dBm,-93 dBm,-68 dBm,-80 dBm
+E5,-74 dBm,-80 dBm,-70 dBm,-87 dBm,-67 dBm,-94 dBm,-65 dBm,-79 dBm
+E5,-78 dBm,-77 dBm,-70 dBm,-83 dBm,-67 dBm,-93 dBm,-66 dBm,-82 dBm
+E5,-73 dBm,-77 dBm,-70 dBm,-86 dBm,-64 dBm,-94 dBm,-66 dBm,-84 dBm
+E5,-75 dBm,-77 dBm,-70 dBm,-91 dBm,-69 dBm,-94 dBm,-68 dBm,-78 dBm
+E5,-75 dBm,-78 dBm,-71 dBm,-85 dBm,-67 dBm,-90 dBm,-62 dBm,-78 dBm
+E5,-76 dBm,-80 dBm,-72 dBm,-94 dBm,-64 dBm,-89 dBm,-64 dBm,-81 dBm
+E5,-75 dBm,-80 dBm,-71 dBm,-93 dBm,-65 dBm,-89 dBm,-64 dBm,-80 dBm
+E5,-76 dBm,-82 dBm,-71 dBm,-91 dBm,-64 dBm,-90 dBm,-63 dBm,-80 dBm
+E5,-77 dBm,-80 dBm,-69 dBm,-90 dBm,-65 dBm,-87 dBm,-63 dBm,-78 dBm
+E5,-81 dBm,-85 dBm,-69 dBm,-87 dBm,-65 dBm,-89 dBm,-61 dBm,-79 dBm
+E5,-74 dBm,-78 dBm,-69 dBm,-94 dBm,-63 dBm,-93 dBm,-68 dBm,-78 dBm
+E5,-76 dBm,-75 dBm,-70 dBm,-84 dBm,-69 dBm,-91 dBm,-70 dBm,-78 dBm
+E5,-75 dBm,-78 dBm,-70 dBm,-89 dBm,-67 dBm,-91 dBm,-66 dBm,-82 dBm
+E5,-75 dBm,-78 dBm,-68 dBm,-89 dBm,-65 dBm,-88 dBm,-69 dBm,-79 dBm
+E5,-76 dBm,-77 dBm,-70 dBm,-85 dBm,-64 dBm,-89 dBm,-69 dBm,-80 dBm
+E5,-76 dBm,-77 dBm,-70 dBm,-89 dBm,-66 dBm,-92 dBm,-70 dBm,-79 dBm
+E5,-85 dBm,-76 dBm,-72 dBm,-83 dBm,-63 dBm,-91 dBm,-70 dBm,-80 dBm
+E5,-81 dBm,-80 dBm,-69 dBm,-94 dBm,-64 dBm,-86 dBm,-64 dBm,-78 dBm
+E5,-78 dBm,-76 dBm,-72 dBm,-86 dBm,-64 dBm,-93 dBm,-70 dBm,-81 dBm
+E5,-77 dBm,-79 dBm,-71 dBm,-86 dBm,-68 dBm,-92 dBm,-68 dBm,-80 dBm
+E5,-77 dBm,-80 dBm,-72 dBm,-90 dBm,-61 dBm,-89 dBm,-68 dBm,-79 dBm
+E5,-75 dBm,-77 dBm,-69 dBm,-85 dBm,-62 dBm,-93 dBm,-70 dBm,-79 dBm
+E5,-73 dBm,-80 dBm,-77 dBm,-88 dBm,-66 dBm,-94 dBm,-70 dBm,-80 dBm
+E5,-71 dBm,-76 dBm,-81 dBm,-87 dBm,-65 dBm,-96 dBm,-69 dBm,-79 dBm
+E5,-73 dBm,-84 dBm,-76 dBm,-84 dBm,-66 dBm,-86 dBm,-68 dBm,-82 dBm
+,,,,,,,,
+E6,-84 dBm,-83 dBm,-69 dBm,-76 dBm,-61 dBm,-87 dBm,-78 dBm,-84 dBm
+E6,-76 dBm,-94 dBm,-74 dBm,-78 dBm,-64 dBm,-85 dBm,-85 dBm,-80 dBm
+E6,-78 dBm,-89 dBm,-71 dBm,-78 dBm,-61 dBm,-87 dBm,-77 dBm,-87 dBm
+E6,-79 dBm,-89 dBm,-70 dBm,-77 dBm,-62 dBm,-87 dBm,-77 dBm,-85 dBm
+E6,-84 dBm,-92 dBm,-69 dBm,-78 dBm,-61 dBm,-89 dBm,-73 dBm,-85 dBm
+E6,-72 dBm,-90 dBm,-72 dBm,-79 dBm,-62 dBm,-92 dBm,-78 dBm,-87 dBm
+E6,-80 dBm,-89 dBm,-70 dBm,-80 dBm,-61 dBm,-94 dBm,-74 dBm,-83 dBm
+E6,-73 dBm,-90 dBm,-70 dBm,-78 dBm,-61 dBm,-93 dBm,-76 dBm,-88 dBm
+E6,-67 dBm,-88 dBm,-72 dBm,-79 dBm,-63 dBm,-93 dBm,-78 dBm,-85 dBm
+E6,-79 dBm,-90 dBm,-69 dBm,-79 dBm,-61 dBm,-90 dBm,-75 dBm,-85 dBm
+E6,-81 dBm,-87 dBm,-71 dBm,-77 dBm,-63 dBm,-91 dBm,-75 dBm,-84 dBm
+E6,-81 dBm,-87 dBm,-71 dBm,-78 dBm,-62 dBm,-89 dBm,-73 dBm,-87 dBm
+E6,-82 dBm,-86 dBm,-71 dBm,-77 dBm,-63 dBm,-91 dBm,-73 dBm,-83 dBm
+E6,-85 dBm,-90 dBm,-73 dBm,-79 dBm,-64 dBm,-91 dBm,-74 dBm,-83 dBm
+E6,-84 dBm,-91 dBm,-70 dBm,-78 dBm,-64 dBm,-93 dBm,-72 dBm,-87 dBm
+E6,-79 dBm,-89 dBm,-70 dBm,-78 dBm,-62 dBm,-93 dBm,-72 dBm,-84 dBm
+E6,-76 dBm,-90 dBm,-70 dBm,-78 dBm,-65 dBm,-93 dBm,-72 dBm,-82 dBm
+E6,-80 dBm,-85 dBm,-69 dBm,-78 dBm,-64 dBm,-94 dBm,-70 dBm,-81 dBm
+E6,-77 dBm,-82 dBm,-70 dBm,-78 dBm,-62 dBm,-93 dBm,-70 dBm,-85 dBm
+E6,-77 dBm,-91 dBm,-71 dBm,-78 dBm,-63 dBm,-92 dBm,-74 dBm,-87 dBm
+E6,-75 dBm,-85 dBm,-69 dBm,-80 dBm,-62 dBm,-92 dBm,-74 dBm,-86 dBm
+E6,-76 dBm,-84 dBm,-69 dBm,-80 dBm,-63 dBm,-90 dBm,-73 dBm,-89 dBm
+E6,-81 dBm,-85 dBm,-71 dBm,-79 dBm,-64 dBm,-90 dBm,-70 dBm,-87 dBm
+E6,-79 dBm,-87 dBm,-69 dBm,-79 dBm,-62 dBm,-93 dBm,-71 dBm,-90 dBm
+E6,-78 dBm,-88 dBm,-68 dBm,-79 dBm,-67 dBm,-91 dBm,-74 dBm,-82 dBm
+E6,-78 dBm,-91 dBm,-70 dBm,-78 dBm,-67 dBm,-92 dBm,-74 dBm,-83 dBm
+E6,-79 dBm,-90 dBm,-70 dBm,-78 dBm,-64 dBm,-93 dBm,-75 dBm,-83 dBm
+E6,-76 dBm,-89 dBm,-69 dBm,-80 dBm,-62 dBm,-91 dBm,-75 dBm,-86 dBm
+E6,-76 dBm,-90 dBm,-69 dBm,-79 dBm,-63 dBm,-92 dBm,-74 dBm,-82 dBm
+E6,-75 dBm,-88 dBm,-72 dBm,-80 dBm,-61 dBm,-87 dBm,-74 dBm,-88 dBm
+E6,-77 dBm,-93 dBm,-70 dBm,-78 dBm,-63 dBm,-89 dBm,-74 dBm,-86 dBm
+E6,-78 dBm,-89 dBm,-68 dBm,-77 dBm,-63 dBm,-89 dBm,-70 dBm,0
+,,,,,,,,
+E7,-67 dBm,-87 dBm,-73 dBm,-89 dBm,-69 dBm,-92 dBm,-74 dBm,-83 dBm
+E7,-65 dBm,-80 dBm,-76 dBm,-92 dBm,-71 dBm,-95 dBm,-74 dBm,-84 dBm
+E7,-73 dBm,-80 dBm,-77 dBm,-87 dBm,-74 dBm,-94 dBm,-75 dBm,-83 dBm
+E7,-73 dBm,-83 dBm,-77 dBm,-86 dBm,-74 dBm,-92 dBm,-73 dBm,-85 dBm
+E7,-76 dBm,-80 dBm,-75 dBm,-89 dBm,-71 dBm,-92 dBm,-74 dBm,-82 dBm
+E7,-68 dBm,-80 dBm,-79 dBm,-88 dBm,-75 dBm,-93 dBm,-76 dBm,-84 dBm
+E7,-74 dBm,-83 dBm,-73 dBm,-88 dBm,-78 dBm,-93 dBm,-74 dBm,-83 dBm
+E7,-81 dBm,-84 dBm,-78 dBm,-85 dBm,-79 dBm,-90 dBm,-73 dBm,-81 dBm
+E7,-73 dBm,-89 dBm,-78 dBm,-91 dBm,-76 dBm,-91 dBm,-75 dBm,-87 dBm
+E7,-71 dBm,-82 dBm,-78 dBm,-88 dBm,-76 dBm,-90 dBm,-73 dBm,-84 dBm
+E7,-70 dBm,-84 dBm,-77 dBm,-89 dBm,-81 dBm,-94 dBm,-72 dBm,-85 dBm
+E7,-70 dBm,-82 dBm,-79 dBm,-92 dBm,-78 dBm,0,-76 dBm,-85 dBm
+E7,-71 dBm,-82 dBm,-75 dBm,-90 dBm,-80 dBm,0,-72 dBm,-84 dBm
+E7,-69 dBm,-81 dBm,-77 dBm,-93 dBm,-77 dBm,0,-73 dBm,-85 dBm
+E7,-71 dBm,-81 dBm,-84 dBm,-91 dBm,-79 dBm,0,-72 dBm,-85 dBm
+E7,-70 dBm,-81 dBm,-76 dBm,-91 dBm,-78 dBm,0,-74 dBm,-85 dBm
+E7,-70 dBm,-81 dBm,-76 dBm,-93 dBm,-79 dBm,0,-74 dBm,-86 dBm
+E7,-70 dBm,-84 dBm,-77 dBm,-91 dBm,-80 dBm,0,-73 dBm,-88 dBm
+E7,-70 dBm,-82 dBm,-78 dBm,-93 dBm,-76 dBm,0,-72 dBm,-85 dBm
+E7,-70 dBm,-83 dBm,-78 dBm,-91 dBm,-77 dBm,0,-74 dBm,-86 dBm
+E7,-73 dBm,-81 dBm,-82 dBm,-91 dBm,-74 dBm,0,-74 dBm,-84 dBm
+E7,-70 dBm,-80 dBm,-78 dBm,-92 dBm,-75 dBm,0,-73 dBm,-86 dBm
+E7,-70 dBm,-81 dBm,-78 dBm,-88 dBm,-75 dBm,0,-71 dBm,-85 dBm
+E7,-70 dBm,-83 dBm,-79 dBm,-90 dBm,-72 dBm,0,-73 dBm,-85 dBm
+E7,-72 dBm,-82 dBm,-75 dBm,-88 dBm,-69 dBm,0,-73 dBm,-84 dBm
+E7,-68 dBm,-81 dBm,-79 dBm,-92 dBm,-71 dBm,0,-74 dBm,-84 dBm
+E7,-70 dBm,-83 dBm,-80 dBm,-93 dBm,-70 dBm,0,-73 dBm,-83 dBm
+E7,-73 dBm,-80 dBm,-79 dBm,-91 dBm,-76 dBm,0,-71 dBm,-86 dBm
+E7,-73 dBm,-82 dBm,-78 dBm,-89 dBm,-72 dBm,0,-71 dBm,-85 dBm
+E7,-75 dBm,-81 dBm,-78 dBm,-91 dBm,-74 dBm,0,-73 dBm,-88 dBm
+E7,-75 dBm,-85 dBm,-77 dBm,-91 dBm,-70 dBm,0,-72 dBm,-91 dBm
+E7,-70 dBm,-82 dBm,-76 dBm,-88 dBm,-71 dBm,0,-74 dBm,-84 dBm
+,,,,,,,,
+E8,-53 dBm,-86 dBm,-73 dBm,-92 dBm,-71 dBm,-85 dBm,-78 dBm,-85 dBm
+E8,-55 dBm,-87 dBm,-76 dBm,-86 dBm,-70 dBm,-90 dBm,-75 dBm,-92 dBm
+E8,-54 dBm,-88 dBm,-74 dBm,-91 dBm,-74 dBm,-92 dBm,-76 dBm,-92 dBm
+E8,-54 dBm,-87 dBm,-76 dBm,-85 dBm,-70 dBm,-91 dBm,-71 dBm,-92 dBm
+E8,-54 dBm,-87 dBm,-78 dBm,-83 dBm,-71 dBm,-90 dBm,-74 dBm,-89 dBm
+E8,-55 dBm,-86 dBm,-77 dBm,-84 dBm,-72 dBm,-87 dBm,-74 dBm,-92 dBm
+E8,-55 dBm,-87 dBm,-78 dBm,-84 dBm,-73 dBm,-89 dBm,-74 dBm,-88 dBm
+E8,-55 dBm,-90 dBm,-78 dBm,-85 dBm,-73 dBm,-90 dBm,-74 dBm,-88 dBm
+E8,-54 dBm,-87 dBm,-76 dBm,-84 dBm,-73 dBm,-88 dBm,-73 dBm,-90 dBm
+E8,-54 dBm,-88 dBm,-76 dBm,-84 dBm,-69 dBm,-89 dBm,-74 dBm,-88 dBm
+E8,-54 dBm,-85 dBm,-78 dBm,-85 dBm,-71 dBm,-88 dBm,-74 dBm,-89 dBm
+E8,-55 dBm,-83 dBm,-78 dBm,-84 dBm,-74 dBm,-91 dBm,-74 dBm,-89 dBm
+E8,-55 dBm,-86 dBm,-78 dBm,-86 dBm,-74 dBm,-88 dBm,-74 dBm,-88 dBm
+E8,-55 dBm,-87 dBm,-78 dBm,-83 dBm,-72 dBm,-86 dBm,-74 dBm,-90 dBm
+E8,-55 dBm,-88 dBm,-79 dBm,-84 dBm,-71 dBm,-88 dBm,-74 dBm,-90 dBm
+E8,-56 dBm,-89 dBm,-78 dBm,-84 dBm,-70 dBm,-85 dBm,-75 dBm,-85 dBm
+E8,-55 dBm,-87 dBm,-78 dBm,-82 dBm,-73 dBm,-83 dBm,-73 dBm,-87 dBm
+E8,-55 dBm,-87 dBm,-78 dBm,-85 dBm,-75 dBm,-91 dBm,-74 dBm,-87 dBm
+E8,-55 dBm,-87 dBm,-76 dBm,-84 dBm,-72 dBm,-88 dBm,-72 dBm,-91 dBm
+E8,-55 dBm,-89 dBm,-77 dBm,-83 dBm,-72 dBm,-89 dBm,-76 dBm,-84 dBm
+E8,-54 dBm,-89 dBm,-78 dBm,-85 dBm,-72 dBm,-89 dBm,-70 dBm,-88 dBm
+E8,-54 dBm,-87 dBm,-79 dBm,-83 dBm,-70 dBm,-91 dBm,-73 dBm,-89 dBm
+E8,-55 dBm,-91 dBm,-77 dBm,-86 dBm,-73 dBm,-88 dBm,-73 dBm,-91 dBm
+E8,-56 dBm,-89 dBm,-79 dBm,-85 dBm,-78 dBm,-87 dBm,-77 dBm,-91 dBm
+E8,-55 dBm,-90 dBm,-80 dBm,-86 dBm,-70 dBm,-87 dBm,-75 dBm,-91 dBm
+E8,-53 dBm,-90 dBm,-74 dBm,-87 dBm,-73 dBm,-84 dBm,-76 dBm,-92 dBm
+E8,-55 dBm,-88 dBm,-78 dBm,-85 dBm,-70 dBm,-82 dBm,-74 dBm,-90 dBm
+E8,-54 dBm,-94 dBm,-82 dBm,-85 dBm,-69 dBm,-87 dBm,-75 dBm,-90 dBm
+E8,-55 dBm,-89 dBm,-76 dBm,-85 dBm,-73 dBm,-85 dBm,-75 dBm,-95 dBm
+E8,-58 dBm,-87 dBm,-72 dBm,-83 dBm,-67 dBm,-83 dBm,-74 dBm,-88 dBm
+E8,-58 dBm,-88 dBm,-71 dBm,-85 dBm,-77 dBm,-86 dBm,-76 dBm,-83 dBm
+E8,-56 dBm,-87 dBm,-76 dBm,-87 dBm,-66 dBm,-85 dBm,-81 dBm,-78 dBm
+,,,,,,,,
+E9,-51 dBm,-85 dBm,-68 dBm,-93 dBm,-69 dBm,-93 dBm,-78 dBm,-84 dBm
+E9,-51 dBm,-94 dBm,-68 dBm,-89 dBm,-71 dBm,-87 dBm,-77 dBm,-89 dBm
+E9,-53 dBm,-86 dBm,-68 dBm,-87 dBm,-71 dBm,-88 dBm,-76 dBm,-89 dBm
+E9,-52 dBm,-87 dBm,-66 dBm,-90 dBm,-68 dBm,-91 dBm,-77 dBm,-82 dBm
+E9,-50 dBm,-86 dBm,-67 dBm,-84 dBm,-66 dBm,-89 dBm,-78 dBm,-85 dBm
+E9,-51 dBm,-80 dBm,-66 dBm,-88 dBm,-66 dBm,-89 dBm,-77 dBm,-82 dBm
+E9,-51 dBm,-84 dBm,-66 dBm,-88 dBm,-70 dBm,-91 dBm,-79 dBm,-80 dBm
+E9,-51 dBm,-87 dBm,-67 dBm,-90 dBm,-69 dBm,-91 dBm,-79 dBm,-83 dBm
+E9,-51 dBm,-85 dBm,-65 dBm,-87 dBm,-67 dBm,-88 dBm,-79 dBm,-85 dBm
+E9,-53 dBm,-85 dBm,-67 dBm,-90 dBm,-66 dBm,-90 dBm,-78 dBm,-85 dBm
+E9,-52 dBm,-81 dBm,-67 dBm,-89 dBm,-66 dBm,-88 dBm,-77 dBm,-85 dBm
+E9,-51 dBm,-85 dBm,-66 dBm,-90 dBm,-63 dBm,-87 dBm,-77 dBm,-84 dBm
+E9,-51 dBm,-84 dBm,-66 dBm,-88 dBm,-67 dBm,-89 dBm,-76 dBm,-85 dBm
+E9,-51 dBm,-84 dBm,-66 dBm,-89 dBm,-67 dBm,-88 dBm,-77 dBm,-88 dBm
+E9,-50 dBm,-84 dBm,-67 dBm,-90 dBm,-67 dBm,-89 dBm,-78 dBm,-82 dBm
+E9,-51 dBm,-84 dBm,-66 dBm,-89 dBm,-67 dBm,-89 dBm,-77 dBm,-85 dBm
+E9,-51 dBm,-84 dBm,-65 dBm,-88 dBm,-67 dBm,-91 dBm,-78 dBm,-84 dBm
+E9,-51 dBm,-85 dBm,-67 dBm,-87 dBm,-66 dBm,-89 dBm,-79 dBm,-88 dBm
+E9,-51 dBm,-83 dBm,-66 dBm,-90 dBm,-67 dBm,-88 dBm,-79 dBm,-84 dBm
+E9,-51 dBm,-86 dBm,-67 dBm,-89 dBm,-67 dBm,-87 dBm,-80 dBm,-88 dBm
+E9,-50 dBm,-84 dBm,-65 dBm,-90 dBm,-67 dBm,-86 dBm,-75 dBm,-89 dBm
+E9,-51 dBm,-85 dBm,-67 dBm,-88 dBm,-65 dBm,-92 dBm,-77 dBm,-87 dBm
+E9,-50 dBm,-84 dBm,-67 dBm,-90 dBm,-68 dBm,-88 dBm,-79 dBm,-80 dBm
+E9,-51 dBm,-83 dBm,-67 dBm,-87 dBm,-67 dBm,-86 dBm,-76 dBm,-82 dBm
+E9,-51 dBm,-85 dBm,-65 dBm,-87 dBm,-67 dBm,-89 dBm,-80 dBm,-83 dBm
+E9,-52 dBm,-85 dBm,-66 dBm,-87 dBm,-68 dBm,-85 dBm,-78 dBm,-80 dBm
+E9,-52 dBm,-87 dBm,-67 dBm,-89 dBm,-66 dBm,-87 dBm,-77 dBm,-82 dBm
+E9,-92 dBm,-81 dBm,-68 dBm,-86 dBm,-67 dBm,-88 dBm,-78 dBm,-83 dBm
+E9,-51 dBm,-84 dBm,-65 dBm,-86 dBm,-68 dBm,-84 dBm,-77 dBm,-81 dBm
+E9,-52 dBm,-84 dBm,-65 dBm,-85 dBm,-68 dBm,-83 dBm,-78 dBm,-84 dBm
+E9,-52 dBm,-88 dBm,-67 dBm,-88 dBm,-66 dBm,0,-77 dBm,-86 dBm
+E9,-52 dBm,-88 dBm,-67 dBm,-87 dBm,-68 dBm,0,-77 dBm,-87 dBm
+,,,,,,,,
+F1,-80 dBm,-91 dBm,-73 dBm,-93 dBm,-64 dBm,-80 dBm,-82 dBm,-92 dBm
+F1,-78 dBm,-91 dBm,-76 dBm,-94 dBm,-64 dBm,-80 dBm,-80 dBm,-91 dBm
+F1,-79 dBm,-91 dBm,-74 dBm,-94 dBm,-65 dBm,-81 dBm,-81 dBm,-91 dBm
+F1,-80 dBm,-90 dBm,-76 dBm,-93 dBm,-66 dBm,-80 dBm,-81 dBm,-91 dBm
+F1,-77 dBm,-92 dBm,-75 dBm,-90 dBm,-64 dBm,-80 dBm,-80 dBm,-93 dBm
+F1,-76 dBm,-92 dBm,-75 dBm,-90 dBm,-64 dBm,-81 dBm,-77 dBm,-88 dBm
+F1,-79 dBm,-91 dBm,-75 dBm,-91 dBm,-66 dBm,-82 dBm,-80 dBm,-95 dBm
+F1,-80 dBm,-93 dBm,-75 dBm,-92 dBm,-66 dBm,-75 dBm,-80 dBm,-91 dBm
+F1,-79 dBm,-93 dBm,-76 dBm,-92 dBm,-74 dBm,-81 dBm,-82 dBm,-89 dBm
+F1,-78 dBm,-90 dBm,-75 dBm,-89 dBm,-63 dBm,-84 dBm,-78 dBm,-89 dBm
+F1,-78 dBm,-91 dBm,-76 dBm,-92 dBm,-65 dBm,-80 dBm,-75 dBm,-86 dBm
+F1,-79 dBm,-89 dBm,-73 dBm,-90 dBm,-68 dBm,-79 dBm,-79 dBm,-95 dBm
+F1,-80 dBm,-86 dBm,-75 dBm,-91 dBm,-64 dBm,-77 dBm,-84 dBm,-94 dBm
+F1,-86 dBm,-94 dBm,-74 dBm,-90 dBm,-65 dBm,-84 dBm,-79 dBm,-87 dBm
+F1,-78 dBm,-88 dBm,-78 dBm,0,-69 dBm,-84 dBm,-85 dBm,-88 dBm
+F1,-78 dBm,-90 dBm,-73 dBm,0,-66 dBm,-87 dBm,-83 dBm,-83 dBm
+F1,-82 dBm,-89 dBm,-74 dBm,0,-65 dBm,-79 dBm,-84 dBm,-87 dBm
+F1,-80 dBm,-86 dBm,-75 dBm,0,-61 dBm,-86 dBm,-79 dBm,-85 dBm
+F1,-86 dBm,-87 dBm,-73 dBm,0,-64 dBm,-81 dBm,-79 dBm,-88 dBm
+F1,-83 dBm,-86 dBm,-73 dBm,0,-64 dBm,-86 dBm,-76 dBm,-86 dBm
+F1,-84 dBm,-87 dBm,-74 dBm,0,-63 dBm,-80 dBm,-77 dBm,-87 dBm
+F1,-80 dBm,-86 dBm,-73 dBm,0,-64 dBm,-86 dBm,-76 dBm,-90 dBm
+F1,-81 dBm,-88 dBm,-76 dBm,0,-66 dBm,-87 dBm,-77 dBm,-92 dBm
+F1,-81 dBm,-90 dBm,-74 dBm,0,-65 dBm,-88 dBm,-79 dBm,-90 dBm
+F1,-82 dBm,-91 dBm,-73 dBm,0,-64 dBm,-88 dBm,-79 dBm,0
+F1,-82 dBm,-91 dBm,-74 dBm,0,-64 dBm,-86 dBm,-78 dBm,0
+F1,-79 dBm,-93 dBm,-75 dBm,0,-66 dBm,-89 dBm,-85 dBm,0
+F1,-76 dBm,-92 dBm,-75 dBm,0,-69 dBm,-85 dBm,-82 dBm,0
+F1,-81 dBm,-86 dBm,-77 dBm,0,-66 dBm,-86 dBm,-84 dBm,0
+F1,-80 dBm,-93 dBm,-73 dBm,0,-66 dBm,-83 dBm,-81 dBm,0
+F1,-81 dBm,-88 dBm,-75 dBm,0,-67 dBm,-81 dBm,-80 dBm,0
+F1,-80 dBm,-91 dBm,-76 dBm,0,-64 dBm,-78 dBm,-79 dBm,0
+,,,,,,,,
+F2,-75 dBm,-84 dBm,-76 dBm,-94 dBm,-63 dBm,-76 dBm,-81 dBm,-92 dBm
+F2,-76 dBm,-86 dBm,-79 dBm,-92 dBm,-63 dBm,-78 dBm,-79 dBm,-91 dBm
+F2,-77 dBm,-83 dBm,-77 dBm,-93 dBm,-63 dBm,-77 dBm,-81 dBm,-92 dBm
+F2,-76 dBm,-85 dBm,-73 dBm,-91 dBm,-66 dBm,-79 dBm,-82 dBm,-91 dBm
+F2,-76 dBm,-84 dBm,-75 dBm,-90 dBm,-63 dBm,-77 dBm,-84 dBm,-92 dBm
+F2,-75 dBm,-84 dBm,-80 dBm,-89 dBm,-64 dBm,-81 dBm,-85 dBm,-93 dBm
+F2,-80 dBm,-83 dBm,-81 dBm,-88 dBm,-62 dBm,-79 dBm,-76 dBm,-91 dBm
+F2,-75 dBm,-90 dBm,-75 dBm,-84 dBm,-61 dBm,-77 dBm,-82 dBm,-92 dBm
+F2,-75 dBm,-83 dBm,-79 dBm,-91 dBm,-64 dBm,-77 dBm,-81 dBm,-92 dBm
+F2,-74 dBm,-83 dBm,-79 dBm,-91 dBm,-64 dBm,-79 dBm,-84 dBm,-91 dBm
+F2,-79 dBm,-82 dBm,-77 dBm,-91 dBm,-63 dBm,-78 dBm,-86 dBm,-92 dBm
+F2,-76 dBm,-84 dBm,-78 dBm,-92 dBm,-64 dBm,-76 dBm,-79 dBm,-93 dBm
+F2,-76 dBm,-84 dBm,-78 dBm,-91 dBm,-63 dBm,-80 dBm,-82 dBm,-90 dBm
+F2,-77 dBm,-85 dBm,-79 dBm,-92 dBm,-63 dBm,-78 dBm,-82 dBm,-91 dBm
+F2,-75 dBm,-84 dBm,-77 dBm,-92 dBm,-64 dBm,-78 dBm,-81 dBm,-92 dBm
+F2,-74 dBm,-88 dBm,-78 dBm,-92 dBm,-64 dBm,-79 dBm,-82 dBm,-90 dBm
+F2,-75 dBm,-85 dBm,-72 dBm,-92 dBm,-64 dBm,-75 dBm,-79 dBm,-91 dBm
+F2,-75 dBm,-83 dBm,-78 dBm,-92 dBm,-63 dBm,-78 dBm,-82 dBm,-91 dBm
+F2,-76 dBm,-84 dBm,-77 dBm,-89 dBm,-63 dBm,-77 dBm,-84 dBm,-93 dBm
+F2,-74 dBm,-86 dBm,-77 dBm,-90 dBm,-63 dBm,-79 dBm,-82 dBm,-91 dBm
+F2,-75 dBm,-84 dBm,-75 dBm,-91 dBm,-63 dBm,-83 dBm,-82 dBm,-95 dBm
+F2,-74 dBm,-85 dBm,-78 dBm,-86 dBm,-65 dBm,-78 dBm,-82 dBm,-93 dBm
+F2,-75 dBm,-85 dBm,-75 dBm,-90 dBm,-64 dBm,-77 dBm,-83 dBm,0
+F2,-74 dBm,-84 dBm,-78 dBm,-90 dBm,-64 dBm,-79 dBm,-83 dBm,0
+F2,-76 dBm,-85 dBm,-77 dBm,-90 dBm,-64 dBm,-77 dBm,-83 dBm,0
+F2,-75 dBm,-84 dBm,-76 dBm,-90 dBm,-64 dBm,-78 dBm,-82 dBm,0
+F2,-75 dBm,-83 dBm,-75 dBm,-93 dBm,-64 dBm,-77 dBm,-83 dBm,0
+F2,-73 dBm,-83 dBm,-77 dBm,-92 dBm,-64 dBm,-78 dBm,-82 dBm,0
+F2,-75 dBm,-84 dBm,-77 dBm,-94 dBm,-64 dBm,-78 dBm,-81 dBm,0
+F2,-76 dBm,-84 dBm,-77 dBm,-92 dBm,-65 dBm,-74 dBm,-82 dBm,0
+F2,-76 dBm,-85 dBm,-77 dBm,0,-63 dBm,-77 dBm,-82 dBm,0
+F2,-76 dBm,-84 dBm,-78 dBm,0,-63 dBm,-78 dBm,-81 dBm,0
+,,,,,,,,
+F3,-72 dBm,-87 dBm,-79 dBm,-80 dBm,-55 dBm,-84 dBm,-84 dBm,-81 dBm
+F3,-76 dBm,-87 dBm,-85 dBm,-75 dBm,-56 dBm,-81 dBm,-78 dBm,-80 dBm
+F3,-81 dBm,-91 dBm,-89 dBm,-78 dBm,-56 dBm,-83 dBm,-83 dBm,-78 dBm
+F3,-79 dBm,-93 dBm,-83 dBm,-78 dBm,-57 dBm,-82 dBm,-79 dBm,-81 dBm
+F3,-78 dBm,-92 dBm,-87 dBm,-80 dBm,-56 dBm,-82 dBm,-80 dBm,-82 dBm
+F3,-76 dBm,-90 dBm,-84 dBm,-77 dBm,-56 dBm,-82 dBm,-77 dBm,-79 dBm
+F3,-78 dBm,-90 dBm,-84 dBm,-78 dBm,-56 dBm,-82 dBm,-82 dBm,-86 dBm
+F3,-77 dBm,-90 dBm,-84 dBm,-80 dBm,-56 dBm,-81 dBm,-77 dBm,-81 dBm
+F3,-77 dBm,-91 dBm,-87 dBm,-79 dBm,-55 dBm,-81 dBm,-82 dBm,-82 dBm
+F3,-77 dBm,-92 dBm,-82 dBm,-82 dBm,-56 dBm,-81 dBm,-79 dBm,-81 dBm
+F3,-77 dBm,-92 dBm,-86 dBm,-80 dBm,-56 dBm,-82 dBm,-80 dBm,-81 dBm
+F3,-78 dBm,-91 dBm,-89 dBm,-79 dBm,-55 dBm,-81 dBm,-81 dBm,-81 dBm
+F3,-77 dBm,-91 dBm,-89 dBm,-80 dBm,-58 dBm,-81 dBm,-81 dBm,-82 dBm
+F3,-77 dBm,-91 dBm,-89 dBm,-79 dBm,-55 dBm,-82 dBm,-82 dBm,-81 dBm
+F3,-78 dBm,-90 dBm,-91 dBm,-81 dBm,-55 dBm,-81 dBm,-80 dBm,-81 dBm
+F3,-79 dBm,-93 dBm,-88 dBm,-78 dBm,-55 dBm,-79 dBm,-81 dBm,-82 dBm
+F3,-79 dBm,-91 dBm,-85 dBm,-79 dBm,-57 dBm,-89 dBm,-89 dBm,-83 dBm
+F3,-77 dBm,-91 dBm,-81 dBm,-83 dBm,-55 dBm,-81 dBm,-83 dBm,-87 dBm
+F3,-77 dBm,-91 dBm,-85 dBm,-79 dBm,-57 dBm,-82 dBm,-82 dBm,-75 dBm
+F3,-76 dBm,-92 dBm,-87 dBm,-81 dBm,-58 dBm,-81 dBm,-84 dBm,-81 dBm
+F3,-75 dBm,-92 dBm,-85 dBm,-76 dBm,-56 dBm,-83 dBm,-82 dBm,-78 dBm
+F3,-74 dBm,-88 dBm,-82 dBm,-81 dBm,-56 dBm,-82 dBm,-82 dBm,-81 dBm
+F3,-78 dBm,-92 dBm,-87 dBm,-79 dBm,-57 dBm,-82 dBm,-81 dBm,-80 dBm
+F3,-75 dBm,-92 dBm,-87 dBm,-79 dBm,-56 dBm,-83 dBm,-81 dBm,-81 dBm
+F3,-77 dBm,-90 dBm,-83 dBm,-78 dBm,-56 dBm,-82 dBm,-81 dBm,-81 dBm
+F3,-78 dBm,-89 dBm,-89 dBm,-78 dBm,-56 dBm,-82 dBm,-79 dBm,-80 dBm
+F3,-77 dBm,-92 dBm,-85 dBm,-78 dBm,-56 dBm,-81 dBm,-83 dBm,-80 dBm
+F3,-76 dBm,-89 dBm,-81 dBm,-86 dBm,-56 dBm,-82 dBm,-80 dBm,-81 dBm
+F3,-76 dBm,-93 dBm,-83 dBm,-79 dBm,-56 dBm,-81 dBm,-78 dBm,-77 dBm
+F3,-80 dBm,-89 dBm,-81 dBm,-83 dBm,-56 dBm,-81 dBm,-81 dBm,-80 dBm
+F3,-77 dBm,-93 dBm,-87 dBm,-75 dBm,-56 dBm,-83 dBm,-83 dBm,-79 dBm
+F3,-88 dBm,-88 dBm,-88 dBm,-75 dBm,-58 dBm,-90 dBm,-76 dBm,0
+,,,,,,,,
+F4,-79 dBm,-84 dBm,-73 dBm,-78 dBm,-50 dBm,-76 dBm,-79 dBm,-84 dBm
+F4,-87 dBm,-89 dBm,-83 dBm,-79 dBm,-50 dBm,-77 dBm,-75 dBm,-87 dBm
+F4,-82 dBm,-86 dBm,-74 dBm,-80 dBm,-51 dBm,-76 dBm,-74 dBm,-85 dBm
+F4,-78 dBm,-91 dBm,-76 dBm,-82 dBm,-49 dBm,-76 dBm,-81 dBm,-87 dBm
+F4,-82 dBm,-88 dBm,-75 dBm,-81 dBm,-50 dBm,-77 dBm,-77 dBm,-87 dBm
+F4,-83 dBm,-84 dBm,-75 dBm,-80 dBm,-50 dBm,-78 dBm,-77 dBm,-86 dBm
+F4,-84 dBm,-85 dBm,-74 dBm,-80 dBm,-50 dBm,-79 dBm,-74 dBm,-89 dBm
+F4,-84 dBm,-84 dBm,-76 dBm,-80 dBm,-50 dBm,-78 dBm,-75 dBm,-88 dBm
+F4,-82 dBm,-89 dBm,-73 dBm,-81 dBm,-50 dBm,-77 dBm,-77 dBm,-89 dBm
+F4,-83 dBm,-88 dBm,-73 dBm,-79 dBm,-50 dBm,-78 dBm,-76 dBm,-86 dBm
+F4,-81 dBm,-87 dBm,-75 dBm,-79 dBm,-50 dBm,-78 dBm,-72 dBm,-85 dBm
+F4,-82 dBm,-81 dBm,-74 dBm,-82 dBm,-50 dBm,-76 dBm,-76 dBm,-87 dBm
+F4,-83 dBm,-87 dBm,-74 dBm,-81 dBm,-50 dBm,-78 dBm,-75 dBm,-82 dBm
+F4,-81 dBm,-89 dBm,-72 dBm,-79 dBm,-50 dBm,-85 dBm,-74 dBm,-86 dBm
+F4,-82 dBm,-82 dBm,-78 dBm,-81 dBm,-50 dBm,-80 dBm,-77 dBm,-90 dBm
+F4,-81 dBm,-84 dBm,-75 dBm,-81 dBm,-50 dBm,-79 dBm,-79 dBm,-88 dBm
+F4,-83 dBm,-84 dBm,-72 dBm,-79 dBm,-50 dBm,-78 dBm,-85 dBm,-84 dBm
+F4,-79 dBm,-80 dBm,-75 dBm,-79 dBm,-51 dBm,-79 dBm,-85 dBm,-86 dBm
+F4,-81 dBm,-80 dBm,-74 dBm,-79 dBm,-51 dBm,-79 dBm,-86 dBm,-85 dBm
+F4,-80 dBm,-83 dBm,-73 dBm,-78 dBm,-50 dBm,-79 dBm,-83 dBm,-87 dBm
+F4,-79 dBm,-84 dBm,-75 dBm,-86 dBm,-50 dBm,-75 dBm,-78 dBm,-87 dBm
+F4,-77 dBm,-83 dBm,-77 dBm,-79 dBm,-51 dBm,-77 dBm,-80 dBm,-90 dBm
+F4,-81 dBm,-82 dBm,-75 dBm,-80 dBm,-50 dBm,-79 dBm,-76 dBm,-87 dBm
+F4,-82 dBm,-86 dBm,-76 dBm,-82 dBm,-50 dBm,-79 dBm,-78 dBm,-86 dBm
+F4,-80 dBm,-87 dBm,-76 dBm,-80 dBm,-50 dBm,-80 dBm,-77 dBm,-88 dBm
+F4,-80 dBm,-84 dBm,-76 dBm,-83 dBm,-51 dBm,-78 dBm,-77 dBm,-88 dBm
+F4,-81 dBm,-84 dBm,-75 dBm,-81 dBm,-51 dBm,-79 dBm,-76 dBm,-89 dBm
+F4,-79 dBm,-85 dBm,-73 dBm,-80 dBm,-50 dBm,-78 dBm,-77 dBm,-89 dBm
+F4,-80 dBm,-85 dBm,-72 dBm,-81 dBm,-50 dBm,-78 dBm,-76 dBm,-88 dBm
+F4,-81 dBm,-84 dBm,-75 dBm,-80 dBm,-50 dBm,-78 dBm,-74 dBm,-85 dBm
+F4,-78 dBm,-86 dBm,-74 dBm,-80 dBm,-50 dBm,-76 dBm,-76 dBm,-87 dBm
+F4,-76 dBm,-80 dBm,-76 dBm,-82 dBm,-50 dBm,-79 dBm,-75 dBm,-90 dBm
+,,,,,,,,
+F5,-69 dBm,-83 dBm,-74 dBm,-77 dBm,-67 dBm,-80 dBm,-71 dBm,-78 dBm
+F5,-70 dBm,-82 dBm,-72 dBm,-75 dBm,-63 dBm,-75 dBm,-70 dBm,-82 dBm
+F5,-67 dBm,-78 dBm,-70 dBm,-76 dBm,-65 dBm,-74 dBm,-71 dBm,-79 dBm
+F5,-73 dBm,-78 dBm,-71 dBm,-76 dBm,-67 dBm,-74 dBm,-69 dBm,-80 dBm
+F5,-68 dBm,-78 dBm,-73 dBm,-78 dBm,-62 dBm,-75 dBm,-71 dBm,-78 dBm
+F5,-71 dBm,-79 dBm,-70 dBm,-76 dBm,-67 dBm,-72 dBm,-70 dBm,-88 dBm
+F5,-70 dBm,-77 dBm,-70 dBm,-74 dBm,-68 dBm,-73 dBm,-69 dBm,-82 dBm
+F5,-69 dBm,-79 dBm,-70 dBm,-75 dBm,-65 dBm,-74 dBm,-68 dBm,-79 dBm
+F5,-70 dBm,-78 dBm,-71 dBm,-75 dBm,-65 dBm,-73 dBm,-70 dBm,-80 dBm
+F5,-71 dBm,-79 dBm,-70 dBm,-76 dBm,-65 dBm,-74 dBm,-71 dBm,-79 dBm
+F5,-71 dBm,-75 dBm,-70 dBm,-76 dBm,-66 dBm,-75 dBm,-71 dBm,-80 dBm
+F5,-72 dBm,-77 dBm,-70 dBm,-76 dBm,-66 dBm,-70 dBm,-69 dBm,-79 dBm
+F5,-70 dBm,-77 dBm,-71 dBm,-76 dBm,-68 dBm,-75 dBm,-75 dBm,-79 dBm
+F5,-71 dBm,-77 dBm,-71 dBm,-76 dBm,-66 dBm,-74 dBm,-70 dBm,-79 dBm
+F5,-71 dBm,-77 dBm,-69 dBm,-76 dBm,-68 dBm,-74 dBm,-71 dBm,-79 dBm
+F5,-69 dBm,-78 dBm,-72 dBm,-76 dBm,-64 dBm,-75 dBm,-72 dBm,-78 dBm
+F5,-75 dBm,-77 dBm,-70 dBm,-75 dBm,-66 dBm,-75 dBm,-72 dBm,-79 dBm
+F5,-66 dBm,-77 dBm,-72 dBm,-77 dBm,-66 dBm,-76 dBm,-72 dBm,-79 dBm
+F5,-71 dBm,-79 dBm,-71 dBm,-75 dBm,-67 dBm,-74 dBm,-70 dBm,-79 dBm
+F5,-70 dBm,-79 dBm,-72 dBm,-76 dBm,-66 dBm,-80 dBm,-69 dBm,-79 dBm
+F5,-70 dBm,-79 dBm,-72 dBm,-76 dBm,-65 dBm,-75 dBm,-70 dBm,-80 dBm
+F5,-71 dBm,-79 dBm,-72 dBm,-75 dBm,-66 dBm,-74 dBm,-71 dBm,-79 dBm
+F5,-71 dBm,-78 dBm,-71 dBm,-76 dBm,-65 dBm,-74 dBm,-70 dBm,-80 dBm
+F5,-70 dBm,-79 dBm,-71 dBm,-76 dBm,-65 dBm,-74 dBm,-68 dBm,-79 dBm
+F5,-67 dBm,-79 dBm,-70 dBm,-76 dBm,-64 dBm,-73 dBm,-71 dBm,-79 dBm
+F5,-71 dBm,-78 dBm,-70 dBm,-75 dBm,-65 dBm,-75 dBm,-70 dBm,-79 dBm
+F5,-71 dBm,-78 dBm,-71 dBm,-76 dBm,-66 dBm,-72 dBm,-70 dBm,-79 dBm
+F5,-71 dBm,-79 dBm,-70 dBm,-76 dBm,-67 dBm,-73 dBm,-65 dBm,-80 dBm
+F5,-72 dBm,-78 dBm,-71 dBm,-77 dBm,-66 dBm,-74 dBm,-67 dBm,-80 dBm
+F5,-71 dBm,-78 dBm,-71 dBm,-76 dBm,-68 dBm,-75 dBm,-68 dBm,-78 dBm
+F5,-72 dBm,-77 dBm,-72 dBm,-74 dBm,-69 dBm,-75 dBm,-71 dBm,-81 dBm
+F5,-70 dBm,-78 dBm,-72 dBm,-76 dBm,-65 dBm,-72 dBm,-71 dBm,-76 dBm
+,,,,,,,,
+F6,-62 dBm,-74 dBm,-69 dBm,-74 dBm,-65 dBm,-85 dBm,-67 dBm,-63 dBm
+F6,-64 dBm,-76 dBm,-69 dBm,-77 dBm,-61 dBm,-85 dBm,-66 dBm,-63 dBm
+F6,-65 dBm,-75 dBm,-68 dBm,-78 dBm,-63 dBm,-84 dBm,-65 dBm,-63 dBm
+F6,-65 dBm,-75 dBm,-68 dBm,-78 dBm,-64 dBm,-83 dBm,-65 dBm,-63 dBm
+F6,-64 dBm,-75 dBm,-69 dBm,-74 dBm,-69 dBm,-84 dBm,-65 dBm,-63 dBm
+F6,-64 dBm,-74 dBm,-69 dBm,-77 dBm,-68 dBm,-83 dBm,-65 dBm,-63 dBm
+F6,-64 dBm,-74 dBm,-68 dBm,-77 dBm,-62 dBm,-84 dBm,-66 dBm,-63 dBm
+F6,-65 dBm,-75 dBm,-68 dBm,-77 dBm,-69 dBm,-81 dBm,-62 dBm,-63 dBm
+F6,-65 dBm,-74 dBm,-71 dBm,-78 dBm,-70 dBm,-84 dBm,-63 dBm,-64 dBm
+F6,-64 dBm,-74 dBm,-68 dBm,-77 dBm,-69 dBm,-84 dBm,-64 dBm,-64 dBm
+F6,-65 dBm,-75 dBm,-68 dBm,-77 dBm,-69 dBm,-82 dBm,-66 dBm,-63 dBm
+F6,-64 dBm,-74 dBm,-68 dBm,-77 dBm,-68 dBm,-83 dBm,-65 dBm,-63 dBm
+F6,-62 dBm,-74 dBm,-69 dBm,-77 dBm,-65 dBm,-82 dBm,-65 dBm,-63 dBm
+F6,-63 dBm,-73 dBm,-68 dBm,-76 dBm,-69 dBm,-85 dBm,-65 dBm,-64 dBm
+F6,-64 dBm,-75 dBm,-68 dBm,-81 dBm,-70 dBm,-82 dBm,-62 dBm,-64 dBm
+F6,-64 dBm,-75 dBm,-69 dBm,-77 dBm,-68 dBm,-82 dBm,-65 dBm,-60 dBm
+F6,-64 dBm,-75 dBm,-68 dBm,-80 dBm,-67 dBm,-83 dBm,-65 dBm,-63 dBm
+F6,-66 dBm,-74 dBm,-70 dBm,-77 dBm,-65 dBm,-84 dBm,-69 dBm,-61 dBm
+F6,-65 dBm,-74 dBm,-69 dBm,-78 dBm,-66 dBm,-84 dBm,-67 dBm,-60 dBm
+F6,-64 dBm,-74 dBm,-70 dBm,-79 dBm,-67 dBm,-81 dBm,-64 dBm,-63 dBm
+F6,-64 dBm,-75 dBm,-68 dBm,-78 dBm,-65 dBm,-82 dBm,-65 dBm,-60 dBm
+F6,-65 dBm,-72 dBm,-67 dBm,-77 dBm,-66 dBm,-82 dBm,-67 dBm,-64 dBm
+F6,-65 dBm,-74 dBm,-70 dBm,-77 dBm,-67 dBm,-82 dBm,-65 dBm,-63 dBm
+F6,-64 dBm,-74 dBm,-69 dBm,-77 dBm,-67 dBm,-82 dBm,-65 dBm,-57 dBm
+F6,-65 dBm,-74 dBm,-71 dBm,-76 dBm,-69 dBm,-80 dBm,-65 dBm,-62 dBm
+F6,-63 dBm,-75 dBm,-71 dBm,-77 dBm,-67 dBm,-83 dBm,-63 dBm,-63 dBm
+F6,-64 dBm,-74 dBm,-70 dBm,-76 dBm,-64 dBm,-83 dBm,-65 dBm,-63 dBm
+F6,-63 dBm,-74 dBm,-70 dBm,-78 dBm,-66 dBm,-82 dBm,-63 dBm,-64 dBm
+F6,-67 dBm,-77 dBm,-68 dBm,-77 dBm,-67 dBm,-81 dBm,-64 dBm,-63 dBm
+F6,-64 dBm,-74 dBm,-69 dBm,-77 dBm,-68 dBm,-80 dBm,-66 dBm,-64 dBm
+F6,-63 dBm,-75 dBm,-68 dBm,-77 dBm,-65 dBm,-85 dBm,-65 dBm,-63 dBm
+F6,-61 dBm,-76 dBm,-67 dBm,-77 dBm,-69 dBm,-86 dBm,-69 dBm,-64 dBm
+,,,,,,,,
+F7,-67 dBm,-85 dBm,-84 dBm,-89 dBm,-68 dBm,-96 dBm,-74 dBm,-82 dBm
+F7,-63 dBm,-81 dBm,-72 dBm,-87 dBm,-67 dBm,-94 dBm,-73 dBm,-81 dBm
+F7,-64 dBm,-81 dBm,-74 dBm,-90 dBm,-65 dBm,-93 dBm,-71 dBm,-79 dBm
+F7,-63 dBm,-81 dBm,-74 dBm,-89 dBm,-66 dBm,-95 dBm,-73 dBm,-80 dBm
+F7,-65 dBm,-82 dBm,-74 dBm,-91 dBm,-65 dBm,-96 dBm,-77 dBm,-81 dBm
+F7,-65 dBm,-82 dBm,-74 dBm,-89 dBm,-66 dBm,-96 dBm,-80 dBm,-76 dBm
+F7,-64 dBm,-80 dBm,-75 dBm,-88 dBm,-66 dBm,-92 dBm,-77 dBm,-79 dBm
+F7,-64 dBm,-80 dBm,-74 dBm,-88 dBm,-65 dBm,-95 dBm,-77 dBm,-80 dBm
+F7,-65 dBm,-81 dBm,-77 dBm,-91 dBm,-66 dBm,-96 dBm,-74 dBm,-80 dBm
+F7,-65 dBm,-81 dBm,-74 dBm,-89 dBm,-66 dBm,-91 dBm,-78 dBm,-79 dBm
+F7,-64 dBm,-81 dBm,-78 dBm,-88 dBm,-65 dBm,-94 dBm,-75 dBm,-78 dBm
+F7,-64 dBm,-81 dBm,-74 dBm,-89 dBm,-66 dBm,-90 dBm,-75 dBm,-79 dBm
+F7,-64 dBm,-81 dBm,-76 dBm,-89 dBm,-66 dBm,-96 dBm,-73 dBm,-80 dBm
+F7,-64 dBm,-83 dBm,-76 dBm,-91 dBm,-65 dBm,-93 dBm,-79 dBm,-79 dBm
+F7,-64 dBm,-81 dBm,-75 dBm,-90 dBm,-66 dBm,-93 dBm,-78 dBm,-80 dBm
+F7,-64 dBm,-80 dBm,-73 dBm,-88 dBm,-68 dBm,-95 dBm,-78 dBm,-78 dBm
+F7,-63 dBm,-81 dBm,-76 dBm,-89 dBm,-67 dBm,-94 dBm,-80 dBm,-79 dBm
+F7,-65 dBm,-81 dBm,-74 dBm,-89 dBm,-65 dBm,-93 dBm,-75 dBm,-79 dBm
+F7,-64 dBm,-80 dBm,-74 dBm,-89 dBm,-69 dBm,-93 dBm,-75 dBm,-80 dBm
+F7,-63 dBm,-85 dBm,-75 dBm,-88 dBm,-66 dBm,-94 dBm,-72 dBm,-81 dBm
+F7,-64 dBm,-80 dBm,-74 dBm,-89 dBm,-65 dBm,-93 dBm,-72 dBm,-78 dBm
+F7,-63 dBm,-81 dBm,-74 dBm,-92 dBm,-66 dBm,-92 dBm,-75 dBm,-78 dBm
+F7,-64 dBm,-81 dBm,-75 dBm,-84 dBm,-66 dBm,-94 dBm,-71 dBm,-81 dBm
+F7,-65 dBm,-81 dBm,-74 dBm,-93 dBm,-66 dBm,-93 dBm,-74 dBm,-79 dBm
+F7,-65 dBm,-80 dBm,-74 dBm,-86 dBm,-67 dBm,-92 dBm,-73 dBm,-81 dBm
+F7,-63 dBm,-81 dBm,-76 dBm,-90 dBm,-67 dBm,-89 dBm,-73 dBm,-82 dBm
+F7,-64 dBm,-81 dBm,-74 dBm,-89 dBm,-67 dBm,0,-72 dBm,-79 dBm
+F7,-64 dBm,-81 dBm,-75 dBm,-87 dBm,-67 dBm,0,-73 dBm,-80 dBm
+F7,-63 dBm,-79 dBm,-75 dBm,-88 dBm,-66 dBm,0,-73 dBm,-78 dBm
+F7,-65 dBm,-81 dBm,-75 dBm,-89 dBm,-65 dBm,0,-73 dBm,-79 dBm
+F7,-67 dBm,-79 dBm,-76 dBm,-86 dBm,-64 dBm,0,-75 dBm,-80 dBm
+F7,-64 dBm,-80 dBm,-73 dBm,-90 dBm,-63 dBm,0,-71 dBm,-82 dBm
+,,,,,,,,
+F8,-62 dBm,-86 dBm,-82 dBm,-79 dBm,-71 dBm,-88 dBm,-77 dBm,-76 dBm
+F8,-63 dBm,-91 dBm,-82 dBm,-78 dBm,-68 dBm,-88 dBm,-77 dBm,-75 dBm
+F8,-67 dBm,-84 dBm,-82 dBm,-81 dBm,-69 dBm,-88 dBm,-77 dBm,-79 dBm
+F8,-64 dBm,-88 dBm,-82 dBm,-86 dBm,-70 dBm,-92 dBm,-78 dBm,-73 dBm
+F8,-65 dBm,-90 dBm,-78 dBm,-86 dBm,-71 dBm,-92 dBm,-77 dBm,-72 dBm
+F8,-64 dBm,-90 dBm,-80 dBm,-89 dBm,-69 dBm,-93 dBm,-79 dBm,-72 dBm
+F8,-65 dBm,-87 dBm,-75 dBm,-84 dBm,-72 dBm,-92 dBm,-77 dBm,-73 dBm
+F8,-66 dBm,-89 dBm,-79 dBm,-86 dBm,-71 dBm,-95 dBm,-78 dBm,-71 dBm
+F8,-65 dBm,-88 dBm,-78 dBm,-88 dBm,-70 dBm,-92 dBm,-81 dBm,-73 dBm
+F8,-65 dBm,-87 dBm,-77 dBm,-87 dBm,-68 dBm,-94 dBm,-79 dBm,-74 dBm
+F8,-65 dBm,-87 dBm,-79 dBm,-86 dBm,-70 dBm,-95 dBm,-79 dBm,-73 dBm
+F8,-64 dBm,-89 dBm,-76 dBm,-86 dBm,-70 dBm,-92 dBm,-80 dBm,-73 dBm
+F8,-64 dBm,-88 dBm,-76 dBm,-86 dBm,-70 dBm,-93 dBm,-76 dBm,-73 dBm
+F8,-64 dBm,-87 dBm,-77 dBm,-86 dBm,-70 dBm,-93 dBm,-77 dBm,-74 dBm
+F8,-65 dBm,-89 dBm,-86 dBm,-86 dBm,-71 dBm,-94 dBm,-75 dBm,-72 dBm
+F8,-65 dBm,-87 dBm,-79 dBm,-86 dBm,-70 dBm,-94 dBm,-82 dBm,-72 dBm
+F8,-65 dBm,-88 dBm,-78 dBm,-86 dBm,-68 dBm,-91 dBm,-81 dBm,-73 dBm
+F8,-66 dBm,-90 dBm,-80 dBm,-87 dBm,-68 dBm,-93 dBm,-77 dBm,-72 dBm
+F8,-66 dBm,-89 dBm,-78 dBm,-89 dBm,-69 dBm,-96 dBm,-79 dBm,-71 dBm
+F8,-65 dBm,-88 dBm,-82 dBm,-86 dBm,-70 dBm,-92 dBm,-78 dBm,-71 dBm
+F8,-65 dBm,-91 dBm,-79 dBm,-86 dBm,-72 dBm,-93 dBm,-76 dBm,-73 dBm
+F8,-64 dBm,-89 dBm,-79 dBm,-85 dBm,-68 dBm,-93 dBm,-78 dBm,-72 dBm
+F8,-68 dBm,-86 dBm,-80 dBm,-87 dBm,-69 dBm,-94 dBm,-78 dBm,-72 dBm
+F8,-75 dBm,-88 dBm,-78 dBm,-85 dBm,-72 dBm,-92 dBm,-79 dBm,-72 dBm
+F8,-65 dBm,-83 dBm,-78 dBm,-85 dBm,-70 dBm,-93 dBm,-78 dBm,-75 dBm
+F8,-66 dBm,-86 dBm,-81 dBm,-86 dBm,-70 dBm,-94 dBm,-77 dBm,-74 dBm
+F8,-63 dBm,-88 dBm,-81 dBm,-86 dBm,-70 dBm,-90 dBm,-79 dBm,-73 dBm
+F8,-65 dBm,-88 dBm,-81 dBm,-86 dBm,-71 dBm,-93 dBm,-77 dBm,-73 dBm
+F8,-62 dBm,-91 dBm,-80 dBm,-88 dBm,-71 dBm,-93 dBm,-78 dBm,-70 dBm
+F8,-65 dBm,-88 dBm,-78 dBm,-88 dBm,-71 dBm,-95 dBm,-76 dBm,-74 dBm
+F8,-63 dBm,-89 dBm,-78 dBm,-89 dBm,-72 dBm,-92 dBm,-77 dBm,-72 dBm
+F8,-65 dBm,-91 dBm,-78 dBm,-87 dBm,-71 dBm,-91 dBm,-75 dBm,-73 dBm
+F8,-63 dBm,-87 dBm,-80 dBm,-88 dBm,-68 dBm,-92 dBm,-77 dBm,-73 dBm
+,,,,,,,,
+F9,-54 dBm,-74 dBm,-75 dBm,-84 dBm,-82 dBm,-92 dBm,-81 dBm,-76 dBm
+F9,-55 dBm,-75 dBm,-87 dBm,-90 dBm,-86 dBm,-95 dBm,-76 dBm,-73 dBm
+F9,-55 dBm,-76 dBm,-74 dBm,-93 dBm,-80 dBm,-92 dBm,-86 dBm,-74 dBm
+F9,-55 dBm,-75 dBm,-79 dBm,-89 dBm,-88 dBm,-95 dBm,-93 dBm,-76 dBm
+F9,-55 dBm,-76 dBm,-82 dBm,-88 dBm,-90 dBm,-91 dBm,-83 dBm,-75 dBm
+F9,-55 dBm,-77 dBm,-81 dBm,-92 dBm,-92 dBm,-93 dBm,-83 dBm,-74 dBm
+F9,-54 dBm,-73 dBm,-87 dBm,-87 dBm,-87 dBm,-95 dBm,-82 dBm,-74 dBm
+F9,-54 dBm,-76 dBm,-76 dBm,-90 dBm,-78 dBm,-91 dBm,-87 dBm,-75 dBm
+F9,-55 dBm,-74 dBm,-79 dBm,-90 dBm,-82 dBm,-93 dBm,-91 dBm,-75 dBm
+F9,-56 dBm,-76 dBm,-78 dBm,-90 dBm,-81 dBm,-92 dBm,-89 dBm,-77 dBm
+F9,-54 dBm,-77 dBm,-80 dBm,-87 dBm,-83 dBm,-93 dBm,-85 dBm,-77 dBm
+F9,-55 dBm,-76 dBm,-77 dBm,-90 dBm,-81 dBm,-93 dBm,-85 dBm,-75 dBm
+F9,-55 dBm,-77 dBm,-79 dBm,-91 dBm,-78 dBm,-94 dBm,-85 dBm,-75 dBm
+F9,-55 dBm,-77 dBm,-78 dBm,-88 dBm,-87 dBm,-92 dBm,-85 dBm,-75 dBm
+F9,-55 dBm,-76 dBm,-78 dBm,-86 dBm,-89 dBm,-95 dBm,-90 dBm,-76 dBm
+F9,-55 dBm,-76 dBm,-79 dBm,-88 dBm,-85 dBm,-96 dBm,-84 dBm,-77 dBm
+F9,-54 dBm,-75 dBm,-80 dBm,-88 dBm,-81 dBm,-93 dBm,-83 dBm,-77 dBm
+F9,-55 dBm,-76 dBm,-80 dBm,-89 dBm,-86 dBm,-93 dBm,-86 dBm,-78 dBm
+F9,-55 dBm,-76 dBm,-80 dBm,-90 dBm,-84 dBm,-94 dBm,-89 dBm,-77 dBm
+F9,-55 dBm,-77 dBm,-78 dBm,-88 dBm,-82 dBm,-95 dBm,-83 dBm,-78 dBm
+F9,-54 dBm,-73 dBm,-79 dBm,-87 dBm,-79 dBm,-95 dBm,-82 dBm,-77 dBm
+F9,-55 dBm,-72 dBm,-77 dBm,-90 dBm,-80 dBm,0,-85 dBm,-82 dBm
+F9,-54 dBm,-74 dBm,-78 dBm,-92 dBm,-77 dBm,0,-83 dBm,-81 dBm
+F9,-54 dBm,-77 dBm,-75 dBm,-92 dBm,-78 dBm,0,-85 dBm,-77 dBm
+F9,-55 dBm,-76 dBm,-78 dBm,-92 dBm,-80 dBm,0,-84 dBm,-83 dBm
+F9,-55 dBm,-73 dBm,-79 dBm,-91 dBm,-79 dBm,0,-85 dBm,-78 dBm
+F9,-55 dBm,-76 dBm,-79 dBm,-94 dBm,-84 dBm,0,-88 dBm,-79 dBm
+F9,-55 dBm,-73 dBm,-79 dBm,-91 dBm,-89 dBm,0,-85 dBm,-80 dBm
+F9,-54 dBm,-75 dBm,-77 dBm,-92 dBm,-80 dBm,0,-84 dBm,-81 dBm
+F9,-55 dBm,-76 dBm,-81 dBm,-91 dBm,-81 dBm,0,-88 dBm,-80 dBm
+F9,-55 dBm,-74 dBm,-77 dBm,-93 dBm,-82 dBm,0,-83 dBm,-79 dBm
+F9,-54 dBm,-76 dBm,-77 dBm,0,-81 dBm,0,-85 dBm,-81 dBm
+,,,,,,,,
+G1,-87 dBm,-80 dBm,-90 dBm,-81 dBm,-71 dBm,-82 dBm,-87 dBm,-84 dBm
+G1,-84 dBm,-84 dBm,-94 dBm,-81 dBm,-69 dBm,-81 dBm,-86 dBm,-85 dBm
+G1,-89 dBm,-82 dBm,-91 dBm,-81 dBm,-68 dBm,-83 dBm,-86 dBm,-86 dBm
+G1,-83 dBm,-79 dBm,-93 dBm,-80 dBm,-69 dBm,-81 dBm,-85 dBm,-86 dBm
+G1,-84 dBm,-83 dBm,-90 dBm,-81 dBm,-69 dBm,-80 dBm,-85 dBm,-86 dBm
+G1,-84 dBm,-78 dBm,-87 dBm,-83 dBm,-69 dBm,-79 dBm,-86 dBm,-91 dBm
+G1,-85 dBm,-83 dBm,-93 dBm,-81 dBm,-70 dBm,-87 dBm,-85 dBm,-84 dBm
+G1,-82 dBm,-81 dBm,-89 dBm,-82 dBm,-71 dBm,-85 dBm,-85 dBm,-85 dBm
+G1,-78 dBm,-83 dBm,-91 dBm,-81 dBm,-69 dBm,-86 dBm,-85 dBm,-85 dBm
+G1,-83 dBm,-82 dBm,-91 dBm,-81 dBm,-71 dBm,-82 dBm,-83 dBm,-87 dBm
+G1,-85 dBm,-82 dBm,-89 dBm,-86 dBm,-71 dBm,-81 dBm,-86 dBm,-86 dBm
+G1,-83 dBm,-81 dBm,-88 dBm,-82 dBm,-67 dBm,-83 dBm,-83 dBm,-89 dBm
+G1,-80 dBm,-81 dBm,-92 dBm,-83 dBm,-71 dBm,-88 dBm,-87 dBm,-91 dBm
+G1,-83 dBm,-82 dBm,-86 dBm,-80 dBm,-71 dBm,-89 dBm,-78 dBm,-88 dBm
+G1,-81 dBm,-79 dBm,-83 dBm,-78 dBm,-71 dBm,-83 dBm,-81 dBm,-92 dBm
+G1,-84 dBm,-85 dBm,-90 dBm,-83 dBm,-69 dBm,-87 dBm,-82 dBm,-88 dBm
+G1,-87 dBm,-83 dBm,-88 dBm,-81 dBm,-68 dBm,-90 dBm,-84 dBm,-88 dBm
+G1,-82 dBm,-81 dBm,-90 dBm,-82 dBm,-70 dBm,-88 dBm,-86 dBm,-85 dBm
+G1,-86 dBm,-84 dBm,-85 dBm,-82 dBm,-72 dBm,-78 dBm,-86 dBm,-86 dBm
+G1,-89 dBm,-82 dBm,-92 dBm,-80 dBm,-71 dBm,-87 dBm,-86 dBm,-85 dBm
+G1,-86 dBm,-82 dBm,-89 dBm,-78 dBm,-73 dBm,-86 dBm,-84 dBm,-78 dBm
+G1,-83 dBm,-85 dBm,-82 dBm,-83 dBm,-66 dBm,-88 dBm,-87 dBm,-91 dBm
+G1,-84 dBm,-86 dBm,-89 dBm,-81 dBm,-69 dBm,-87 dBm,-86 dBm,-87 dBm
+G1,-87 dBm,-82 dBm,-92 dBm,-80 dBm,-70 dBm,-82 dBm,-84 dBm,-86 dBm
+G1,-84 dBm,-86 dBm,-88 dBm,-79 dBm,-73 dBm,-89 dBm,-82 dBm,-84 dBm
+G1,-85 dBm,-82 dBm,-92 dBm,-81 dBm,-71 dBm,-84 dBm,-85 dBm,-87 dBm
+G1,-84 dBm,-80 dBm,-94 dBm,-81 dBm,-70 dBm,-83 dBm,-84 dBm,-84 dBm
+G1,-85 dBm,-81 dBm,-88 dBm,-81 dBm,-70 dBm,-86 dBm,-86 dBm,-86 dBm
+G1,-87 dBm,-82 dBm,-92 dBm,-78 dBm,-71 dBm,-84 dBm,-82 dBm,-87 dBm
+G1,-85 dBm,-81 dBm,-90 dBm,-84 dBm,-67 dBm,-85 dBm,-82 dBm,-85 dBm
+G1,-90 dBm,-83 dBm,-94 dBm,-82 dBm,-71 dBm,-82 dBm,-88 dBm,-88 dBm
+G1,-86 dBm,-80 dBm,0,-82 dBm,-71 dBm,-86 dBm,-88 dBm,-85 dBm
+,,,,,,,,
+G2,-87 dBm,-92 dBm,-81 dBm,-89 dBm,-67 dBm,-82 dBm,-85 dBm,-89 dBm
+G2,-90 dBm,-91 dBm,-83 dBm,-92 dBm,-66 dBm,-83 dBm,-85 dBm,-88 dBm
+G2,-86 dBm,-92 dBm,-76 dBm,-89 dBm,-67 dBm,-84 dBm,-89 dBm,-88 dBm
+G2,-91 dBm,-94 dBm,-79 dBm,-88 dBm,-68 dBm,-79 dBm,-92 dBm,-90 dBm
+G2,-84 dBm,-90 dBm,-83 dBm,-83 dBm,-65 dBm,-77 dBm,-81 dBm,-89 dBm
+G2,-87 dBm,-89 dBm,-84 dBm,-86 dBm,-71 dBm,-78 dBm,-81 dBm,-91 dBm
+G2,-85 dBm,-91 dBm,-83 dBm,-90 dBm,-68 dBm,-80 dBm,-83 dBm,-90 dBm
+G2,-83 dBm,-91 dBm,-86 dBm,-84 dBm,-72 dBm,-86 dBm,-85 dBm,-94 dBm
+G2,-83 dBm,-96 dBm,-86 dBm,-85 dBm,-67 dBm,-80 dBm,-89 dBm,-88 dBm
+G2,-82 dBm,-94 dBm,-80 dBm,-83 dBm,-72 dBm,-80 dBm,-86 dBm,-93 dBm
+G2,-84 dBm,-92 dBm,-82 dBm,-82 dBm,-70 dBm,-82 dBm,-85 dBm,-87 dBm
+G2,-84 dBm,-91 dBm,-80 dBm,-85 dBm,-79 dBm,-80 dBm,-87 dBm,-86 dBm
+G2,-82 dBm,-89 dBm,-85 dBm,-84 dBm,-77 dBm,-81 dBm,-89 dBm,-84 dBm
+G2,-89 dBm,-87 dBm,-81 dBm,-83 dBm,-76 dBm,-82 dBm,-87 dBm,-84 dBm
+G2,-83 dBm,-88 dBm,-82 dBm,-83 dBm,-78 dBm,-82 dBm,-91 dBm,-87 dBm
+G2,-83 dBm,-91 dBm,-82 dBm,-91 dBm,-76 dBm,-83 dBm,-88 dBm,-87 dBm
+G2,-82 dBm,-89 dBm,-82 dBm,-84 dBm,-75 dBm,-83 dBm,-89 dBm,-89 dBm
+G2,-84 dBm,-90 dBm,-82 dBm,-84 dBm,-76 dBm,-82 dBm,-90 dBm,-89 dBm
+G2,-84 dBm,-86 dBm,-79 dBm,-89 dBm,-75 dBm,-88 dBm,-86 dBm,-89 dBm
+G2,-85 dBm,-89 dBm,-81 dBm,-85 dBm,-76 dBm,-83 dBm,-91 dBm,-87 dBm
+G2,-84 dBm,-88 dBm,-79 dBm,-83 dBm,-76 dBm,-82 dBm,-82 dBm,-88 dBm
+G2,-84 dBm,-89 dBm,-79 dBm,-84 dBm,-76 dBm,-82 dBm,-84 dBm,-87 dBm
+G2,-88 dBm,-91 dBm,-84 dBm,-89 dBm,-74 dBm,-81 dBm,-86 dBm,-89 dBm
+G2,-90 dBm,-93 dBm,-85 dBm,-88 dBm,-77 dBm,-81 dBm,-87 dBm,-88 dBm
+G2,-85 dBm,-91 dBm,-80 dBm,-85 dBm,-75 dBm,-81 dBm,-86 dBm,-86 dBm
+G2,-86 dBm,-95 dBm,-81 dBm,-85 dBm,-77 dBm,-78 dBm,-89 dBm,-86 dBm
+G2,-88 dBm,-91 dBm,-83 dBm,-87 dBm,-77 dBm,-79 dBm,-89 dBm,-85 dBm
+G2,-89 dBm,-91 dBm,-81 dBm,-85 dBm,-76 dBm,-80 dBm,-92 dBm,-86 dBm
+G2,-87 dBm,-91 dBm,-82 dBm,-85 dBm,-77 dBm,-79 dBm,-89 dBm,-87 dBm
+G2,-91 dBm,-89 dBm,-81 dBm,-88 dBm,-74 dBm,-79 dBm,-88 dBm,-90 dBm
+G2,-88 dBm,-90 dBm,-81 dBm,-93 dBm,-74 dBm,-78 dBm,-86 dBm,-90 dBm
+G2,-90 dBm,-91 dBm,-84 dBm,-88 dBm,-79 dBm,-78 dBm,-87 dBm,-89 dBm
+,,,,,,,,
+G3,-74 dBm,-79 dBm,-84 dBm,-76 dBm,-64 dBm,-74 dBm,-82 dBm,-80 dBm
+G3,-75 dBm,-79 dBm,-83 dBm,-76 dBm,-67 dBm,-78 dBm,-82 dBm,-82 dBm
+G3,-73 dBm,-79 dBm,-80 dBm,-73 dBm,-68 dBm,-78 dBm,-82 dBm,-81 dBm
+G3,-77 dBm,-77 dBm,-82 dBm,-75 dBm,-74 dBm,-75 dBm,-82 dBm,-80 dBm
+G3,-76 dBm,-76 dBm,-83 dBm,-76 dBm,-66 dBm,-75 dBm,-79 dBm,-81 dBm
+G3,-76 dBm,-76 dBm,-86 dBm,-76 dBm,-67 dBm,-74 dBm,-77 dBm,-80 dBm
+G3,-73 dBm,-75 dBm,-84 dBm,-77 dBm,-65 dBm,-75 dBm,-78 dBm,-79 dBm
+G3,-76 dBm,-73 dBm,-88 dBm,-78 dBm,-67 dBm,-75 dBm,-81 dBm,-79 dBm
+G3,-74 dBm,-78 dBm,-88 dBm,-77 dBm,-68 dBm,-77 dBm,-77 dBm,-79 dBm
+G3,-74 dBm,-78 dBm,-85 dBm,-75 dBm,-67 dBm,-74 dBm,-78 dBm,-79 dBm
+G3,-74 dBm,-78 dBm,-86 dBm,-76 dBm,-68 dBm,-76 dBm,-78 dBm,-78 dBm
+G3,-71 dBm,-77 dBm,-86 dBm,-77 dBm,-67 dBm,-77 dBm,-78 dBm,-78 dBm
+G3,-74 dBm,-78 dBm,-87 dBm,-76 dBm,-66 dBm,-76 dBm,-79 dBm,-79 dBm
+G3,-75 dBm,-77 dBm,-84 dBm,-74 dBm,-66 dBm,-76 dBm,-80 dBm,-78 dBm
+G3,-72 dBm,-79 dBm,-83 dBm,-77 dBm,-65 dBm,-73 dBm,-80 dBm,-78 dBm
+G3,-73 dBm,-77 dBm,-86 dBm,-74 dBm,-70 dBm,-75 dBm,-80 dBm,-80 dBm
+G3,-75 dBm,-75 dBm,-87 dBm,-79 dBm,-68 dBm,-74 dBm,-82 dBm,-82 dBm
+G3,-73 dBm,-79 dBm,-85 dBm,-78 dBm,-65 dBm,-74 dBm,-81 dBm,-81 dBm
+G3,-73 dBm,-79 dBm,-82 dBm,-79 dBm,-69 dBm,-82 dBm,-80 dBm,-81 dBm
+G3,-74 dBm,-78 dBm,-85 dBm,-80 dBm,-67 dBm,-76 dBm,-81 dBm,-82 dBm
+G3,-75 dBm,-77 dBm,-82 dBm,-81 dBm,-67 dBm,-76 dBm,-83 dBm,-80 dBm
+G3,-73 dBm,-78 dBm,-83 dBm,-79 dBm,-67 dBm,-79 dBm,-80 dBm,-84 dBm
+G3,-75 dBm,-77 dBm,-83 dBm,-79 dBm,-66 dBm,-75 dBm,-83 dBm,-82 dBm
+G3,-74 dBm,-78 dBm,-83 dBm,-79 dBm,-65 dBm,-75 dBm,-80 dBm,-81 dBm
+G3,-74 dBm,-76 dBm,-84 dBm,-80 dBm,-66 dBm,-75 dBm,-78 dBm,-82 dBm
+G3,-73 dBm,-79 dBm,-83 dBm,-79 dBm,-65 dBm,-76 dBm,-81 dBm,-81 dBm
+G3,-72 dBm,-78 dBm,-81 dBm,-77 dBm,-65 dBm,-73 dBm,-82 dBm,-79 dBm
+G3,-74 dBm,-78 dBm,-82 dBm,-75 dBm,-64 dBm,-75 dBm,-79 dBm,-81 dBm
+G3,-74 dBm,-78 dBm,-82 dBm,-80 dBm,-63 dBm,-72 dBm,-79 dBm,-81 dBm
+G3,-77 dBm,-77 dBm,-86 dBm,-76 dBm,-66 dBm,-75 dBm,-79 dBm,-80 dBm
+G3,-75 dBm,-77 dBm,-81 dBm,-77 dBm,-69 dBm,-77 dBm,-81 dBm,-81 dBm
+G3,-71 dBm,-76 dBm,-83 dBm,-81 dBm,-68 dBm,-77 dBm,-80 dBm,-79 dBm
+,,,,,,,,
+G4,-81 dBm,-79 dBm,-81 dBm,-72 dBm,-66 dBm,-82 dBm,-78 dBm,-86 dBm
+G4,-84 dBm,-80 dBm,-85 dBm,-73 dBm,-67 dBm,-79 dBm,-80 dBm,-89 dBm
+G4,-83 dBm,-81 dBm,-82 dBm,-71 dBm,-66 dBm,-81 dBm,-79 dBm,-90 dBm
+G4,-81 dBm,-80 dBm,-85 dBm,-69 dBm,-65 dBm,-80 dBm,-78 dBm,-88 dBm
+G4,-82 dBm,-79 dBm,-82 dBm,-72 dBm,-65 dBm,-81 dBm,-77 dBm,-89 dBm
+G4,-81 dBm,-81 dBm,-83 dBm,-73 dBm,-65 dBm,-80 dBm,-76 dBm,-90 dBm
+G4,-79 dBm,-83 dBm,-83 dBm,-73 dBm,-68 dBm,-80 dBm,-80 dBm,-91 dBm
+G4,-82 dBm,-82 dBm,-86 dBm,-72 dBm,-69 dBm,-82 dBm,-78 dBm,-94 dBm
+G4,-80 dBm,-83 dBm,-80 dBm,-72 dBm,-67 dBm,-81 dBm,-77 dBm,-90 dBm
+G4,-83 dBm,-79 dBm,-83 dBm,-72 dBm,-66 dBm,-82 dBm,-78 dBm,-90 dBm
+G4,-81 dBm,-81 dBm,-83 dBm,-72 dBm,-68 dBm,-82 dBm,-78 dBm,-91 dBm
+G4,-83 dBm,-80 dBm,-83 dBm,-72 dBm,-67 dBm,-81 dBm,-80 dBm,-90 dBm
+G4,-83 dBm,-81 dBm,-81 dBm,-72 dBm,-70 dBm,-83 dBm,-77 dBm,-88 dBm
+G4,-81 dBm,-81 dBm,-82 dBm,-72 dBm,-66 dBm,-79 dBm,-77 dBm,-89 dBm
+G4,-82 dBm,-83 dBm,-82 dBm,-73 dBm,-67 dBm,-81 dBm,-78 dBm,-88 dBm
+G4,-82 dBm,-81 dBm,-82 dBm,-74 dBm,-67 dBm,-81 dBm,-76 dBm,-88 dBm
+G4,-81 dBm,-81 dBm,-83 dBm,-73 dBm,-67 dBm,-81 dBm,-77 dBm,-90 dBm
+G4,-83 dBm,-80 dBm,-86 dBm,-72 dBm,-68 dBm,-81 dBm,-77 dBm,-92 dBm
+G4,-84 dBm,-84 dBm,-83 dBm,-73 dBm,-68 dBm,-80 dBm,-78 dBm,-88 dBm
+G4,-84 dBm,-78 dBm,-86 dBm,-73 dBm,-68 dBm,-82 dBm,-76 dBm,-88 dBm
+G4,-82 dBm,-83 dBm,-88 dBm,-73 dBm,-68 dBm,-78 dBm,-76 dBm,-90 dBm
+G4,-85 dBm,-82 dBm,-85 dBm,-72 dBm,-65 dBm,-83 dBm,-75 dBm,-91 dBm
+G4,-85 dBm,-83 dBm,-87 dBm,-72 dBm,-65 dBm,-83 dBm,-77 dBm,-89 dBm
+G4,-86 dBm,-85 dBm,-89 dBm,-67 dBm,-66 dBm,-82 dBm,-77 dBm,-90 dBm
+G4,-84 dBm,-83 dBm,-85 dBm,-73 dBm,-67 dBm,-81 dBm,-76 dBm,-93 dBm
+G4,-81 dBm,-83 dBm,-85 dBm,-72 dBm,-65 dBm,-81 dBm,-78 dBm,-94 dBm
+G4,-85 dBm,-83 dBm,-84 dBm,-76 dBm,-65 dBm,-82 dBm,-77 dBm,-88 dBm
+G4,-80 dBm,-83 dBm,-83 dBm,-71 dBm,-66 dBm,-82 dBm,-79 dBm,-94 dBm
+G4,-83 dBm,-81 dBm,-81 dBm,-72 dBm,-63 dBm,-82 dBm,-79 dBm,-87 dBm
+G4,-82 dBm,-79 dBm,-86 dBm,-74 dBm,-65 dBm,-80 dBm,-76 dBm,-90 dBm
+G4,-84 dBm,-79 dBm,-92 dBm,-73 dBm,-66 dBm,-82 dBm,-78 dBm,-89 dBm
+G4,-84 dBm,-86 dBm,0,-70 dBm,-66 dBm,-82 dBm,-83 dBm,-89 dBm
+,,,,,,,,
+G5,-73 dBm,-85 dBm,-77 dBm,-77 dBm,-59 dBm,-78 dBm,-73 dBm,-72 dBm
+G5,-72 dBm,-81 dBm,-75 dBm,-75 dBm,-57 dBm,-80 dBm,-77 dBm,-75 dBm
+G5,-71 dBm,-82 dBm,-73 dBm,-75 dBm,-58 dBm,-79 dBm,-78 dBm,-72 dBm
+G5,-69 dBm,-82 dBm,-74 dBm,-76 dBm,-58 dBm,-78 dBm,-76 dBm,-77 dBm
+G5,-70 dBm,-87 dBm,-74 dBm,-75 dBm,-59 dBm,-79 dBm,-75 dBm,-79 dBm
+G5,-71 dBm,-81 dBm,-77 dBm,-72 dBm,-59 dBm,-79 dBm,-76 dBm,-73 dBm
+G5,-68 dBm,-83 dBm,-77 dBm,-70 dBm,-59 dBm,-77 dBm,-79 dBm,-74 dBm
+G5,-72 dBm,-82 dBm,-75 dBm,-82 dBm,-59 dBm,-77 dBm,-77 dBm,-71 dBm
+G5,-71 dBm,-83 dBm,-74 dBm,-82 dBm,-58 dBm,-79 dBm,-75 dBm,-75 dBm
+G5,-72 dBm,-82 dBm,-71 dBm,-78 dBm,-58 dBm,-81 dBm,-78 dBm,-73 dBm
+G5,-76 dBm,-82 dBm,-76 dBm,-84 dBm,-62 dBm,-81 dBm,-74 dBm,-75 dBm
+G5,-69 dBm,-81 dBm,-74 dBm,-83 dBm,-58 dBm,-78 dBm,-75 dBm,-74 dBm
+G5,-70 dBm,-81 dBm,-74 dBm,-82 dBm,-59 dBm,-81 dBm,-76 dBm,-75 dBm
+G5,-70 dBm,-80 dBm,-75 dBm,-83 dBm,-58 dBm,-80 dBm,-75 dBm,-73 dBm
+G5,-72 dBm,-80 dBm,-75 dBm,-76 dBm,-58 dBm,-80 dBm,-76 dBm,-71 dBm
+G5,-69 dBm,-82 dBm,-74 dBm,-81 dBm,-59 dBm,-79 dBm,-78 dBm,-75 dBm
+G5,-73 dBm,-82 dBm,-71 dBm,-79 dBm,-59 dBm,-79 dBm,-79 dBm,-73 dBm
+G5,-70 dBm,-83 dBm,-69 dBm,-78 dBm,-57 dBm,-78 dBm,-76 dBm,-71 dBm
+G5,-72 dBm,-83 dBm,-71 dBm,-77 dBm,-58 dBm,-78 dBm,-75 dBm,-71 dBm
+G5,-73 dBm,-82 dBm,-72 dBm,-77 dBm,-59 dBm,-79 dBm,-76 dBm,-73 dBm
+G5,-70 dBm,-81 dBm,-73 dBm,-77 dBm,-59 dBm,-80 dBm,-77 dBm,-74 dBm
+G5,-71 dBm,-81 dBm,-69 dBm,-76 dBm,-59 dBm,-78 dBm,-78 dBm,-73 dBm
+G5,-70 dBm,-82 dBm,-75 dBm,-78 dBm,-58 dBm,-77 dBm,-81 dBm,-78 dBm
+G5,-78 dBm,-85 dBm,-77 dBm,-80 dBm,-60 dBm,-78 dBm,-79 dBm,-73 dBm
+G5,-71 dBm,-84 dBm,-76 dBm,-78 dBm,-58 dBm,-77 dBm,-74 dBm,-73 dBm
+G5,-73 dBm,-82 dBm,-77 dBm,-80 dBm,-57 dBm,-79 dBm,-76 dBm,-73 dBm
+G5,-71 dBm,-84 dBm,-74 dBm,-80 dBm,-57 dBm,-77 dBm,-75 dBm,-74 dBm
+G5,-72 dBm,-83 dBm,-76 dBm,-78 dBm,-56 dBm,-77 dBm,-76 dBm,-72 dBm
+G5,-70 dBm,-87 dBm,-77 dBm,-83 dBm,-57 dBm,-84 dBm,-75 dBm,-72 dBm
+G5,-70 dBm,-84 dBm,-76 dBm,-78 dBm,-57 dBm,-79 dBm,-74 dBm,-74 dBm
+G5,-68 dBm,-85 dBm,-79 dBm,-76 dBm,-57 dBm,-80 dBm,-76 dBm,-78 dBm
+G5,-72 dBm,0,-79 dBm,-77 dBm,-58 dBm,-78 dBm,-72 dBm,-75 dBm
+,,,,,,,,
+G6,-70 dBm,-83 dBm,-80 dBm,-68 dBm,-58 dBm,-86 dBm,-76 dBm,-70 dBm
+G6,-68 dBm,-90 dBm,-81 dBm,-62 dBm,-59 dBm,-84 dBm,-73 dBm,-66 dBm
+G6,-69 dBm,-85 dBm,-83 dBm,-67 dBm,-59 dBm,-83 dBm,-74 dBm,-71 dBm
+G6,-70 dBm,-85 dBm,-81 dBm,-69 dBm,-58 dBm,-81 dBm,-73 dBm,-70 dBm
+G6,-66 dBm,-86 dBm,-82 dBm,-67 dBm,-59 dBm,-83 dBm,-72 dBm,-68 dBm
+G6,-68 dBm,-86 dBm,-82 dBm,-68 dBm,-59 dBm,-84 dBm,-71 dBm,-69 dBm
+G6,-68 dBm,-87 dBm,-84 dBm,-68 dBm,-58 dBm,-85 dBm,-72 dBm,-69 dBm
+G6,-69 dBm,-84 dBm,-83 dBm,-67 dBm,-59 dBm,-81 dBm,-74 dBm,-71 dBm
+G6,-70 dBm,-86 dBm,-87 dBm,-67 dBm,-59 dBm,-82 dBm,-73 dBm,-69 dBm
+G6,-71 dBm,-86 dBm,-78 dBm,-68 dBm,-59 dBm,-86 dBm,-73 dBm,-72 dBm
+G6,-69 dBm,-87 dBm,-78 dBm,-69 dBm,-58 dBm,-86 dBm,-72 dBm,-69 dBm
+G6,-70 dBm,-88 dBm,-77 dBm,-69 dBm,-58 dBm,-85 dBm,-72 dBm,-69 dBm
+G6,-70 dBm,-88 dBm,-77 dBm,-67 dBm,-58 dBm,-84 dBm,-72 dBm,-71 dBm
+G6,-71 dBm,-88 dBm,-77 dBm,-68 dBm,-58 dBm,-85 dBm,-72 dBm,-71 dBm
+G6,-71 dBm,-86 dBm,-78 dBm,-67 dBm,-58 dBm,-86 dBm,-72 dBm,-69 dBm
+G6,-69 dBm,-87 dBm,-76 dBm,-66 dBm,-57 dBm,-82 dBm,-73 dBm,-70 dBm
+G6,-71 dBm,-86 dBm,-76 dBm,-70 dBm,-57 dBm,-83 dBm,-72 dBm,-68 dBm
+G6,-71 dBm,-87 dBm,-77 dBm,-69 dBm,-55 dBm,-84 dBm,-74 dBm,-69 dBm
+G6,-71 dBm,-87 dBm,-77 dBm,-68 dBm,-58 dBm,-84 dBm,-74 dBm,-69 dBm
+G6,-70 dBm,-86 dBm,-77 dBm,-69 dBm,-58 dBm,-83 dBm,-73 dBm,-70 dBm
+G6,-70 dBm,-87 dBm,-78 dBm,-68 dBm,-57 dBm,-89 dBm,-73 dBm,-71 dBm
+G6,-70 dBm,-88 dBm,-79 dBm,-67 dBm,-57 dBm,-84 dBm,-73 dBm,-68 dBm
+G6,-70 dBm,-86 dBm,-76 dBm,-68 dBm,-58 dBm,-84 dBm,-69 dBm,-69 dBm
+G6,-72 dBm,-85 dBm,-78 dBm,-67 dBm,-58 dBm,-84 dBm,-73 dBm,-70 dBm
+G6,-71 dBm,-84 dBm,-76 dBm,-69 dBm,-57 dBm,-84 dBm,-71 dBm,-70 dBm
+G6,-70 dBm,-86 dBm,-76 dBm,-68 dBm,-56 dBm,-84 dBm,-72 dBm,-69 dBm
+G6,-72 dBm,-87 dBm,-76 dBm,-62 dBm,-55 dBm,-84 dBm,-72 dBm,-67 dBm
+G6,-72 dBm,-88 dBm,-78 dBm,-68 dBm,-59 dBm,-87 dBm,-72 dBm,-69 dBm
+G6,-70 dBm,-87 dBm,-75 dBm,-67 dBm,-58 dBm,-89 dBm,-72 dBm,-69 dBm
+G6,-68 dBm,-85 dBm,-80 dBm,-69 dBm,-59 dBm,-88 dBm,-72 dBm,-67 dBm
+G6,-69 dBm,-86 dBm,-80 dBm,-71 dBm,-57 dBm,0,-73 dBm,-69 dBm
+G6,-69 dBm,-83 dBm,-84 dBm,-73 dBm,-58 dBm,0,-72 dBm,-70 dBm
+,,,,,,,,
+G7,-70 dBm,-85 dBm,-78 dBm,-84 dBm,-66 dBm,-90 dBm,-86 dBm,-84 dBm
+G7,-70 dBm,-83 dBm,-79 dBm,-82 dBm,-64 dBm,-91 dBm,-77 dBm,-81 dBm
+G7,-72 dBm,-85 dBm,-76 dBm,-84 dBm,-68 dBm,-89 dBm,-80 dBm,-88 dBm
+G7,-69 dBm,-87 dBm,-75 dBm,-82 dBm,-67 dBm,-87 dBm,-78 dBm,-82 dBm
+G7,-72 dBm,-86 dBm,-75 dBm,-87 dBm,-73 dBm,-85 dBm,-87 dBm,-75 dBm
+G7,-73 dBm,-90 dBm,-75 dBm,-85 dBm,-72 dBm,-84 dBm,-84 dBm,-77 dBm
+G7,-75 dBm,-90 dBm,-76 dBm,-84 dBm,-73 dBm,-86 dBm,-84 dBm,-77 dBm
+G7,-74 dBm,-88 dBm,-76 dBm,-82 dBm,-72 dBm,-86 dBm,-85 dBm,-77 dBm
+G7,-75 dBm,-90 dBm,-76 dBm,-84 dBm,-72 dBm,-86 dBm,-85 dBm,-79 dBm
+G7,-75 dBm,-92 dBm,-74 dBm,-83 dBm,-73 dBm,-87 dBm,-87 dBm,-81 dBm
+G7,-76 dBm,-88 dBm,-74 dBm,-86 dBm,-74 dBm,-85 dBm,-86 dBm,-78 dBm
+G7,-76 dBm,-90 dBm,-75 dBm,-86 dBm,-73 dBm,-84 dBm,-87 dBm,-77 dBm
+G7,-71 dBm,-93 dBm,-75 dBm,-85 dBm,-72 dBm,-86 dBm,-91 dBm,-80 dBm
+G7,-73 dBm,-92 dBm,-77 dBm,-84 dBm,-72 dBm,-85 dBm,-88 dBm,-78 dBm
+G7,-74 dBm,-92 dBm,-76 dBm,-80 dBm,-71 dBm,-84 dBm,-85 dBm,-78 dBm
+G7,-78 dBm,-92 dBm,-76 dBm,-86 dBm,-72 dBm,-83 dBm,-87 dBm,-80 dBm
+G7,-76 dBm,-92 dBm,-75 dBm,-88 dBm,-71 dBm,-84 dBm,-87 dBm,-80 dBm
+G7,-71 dBm,-93 dBm,-77 dBm,-88 dBm,-76 dBm,-85 dBm,-90 dBm,-77 dBm
+G7,-72 dBm,-90 dBm,-75 dBm,-87 dBm,-71 dBm,-85 dBm,-86 dBm,-83 dBm
+G7,-69 dBm,-88 dBm,-74 dBm,-83 dBm,-74 dBm,-86 dBm,-86 dBm,-80 dBm
+G7,-72 dBm,-90 dBm,-74 dBm,-84 dBm,-74 dBm,-87 dBm,-85 dBm,-80 dBm
+G7,-72 dBm,-91 dBm,-79 dBm,-85 dBm,-73 dBm,-84 dBm,-91 dBm,-81 dBm
+G7,-71 dBm,-92 dBm,-75 dBm,-84 dBm,-75 dBm,-85 dBm,-87 dBm,-79 dBm
+G7,-73 dBm,-93 dBm,-77 dBm,-93 dBm,-76 dBm,-84 dBm,-83 dBm,-80 dBm
+G7,-74 dBm,-90 dBm,-75 dBm,-82 dBm,-71 dBm,-85 dBm,-83 dBm,-80 dBm
+G7,-75 dBm,-91 dBm,-76 dBm,-82 dBm,-74 dBm,-83 dBm,-86 dBm,-84 dBm
+G7,-73 dBm,-92 dBm,-75 dBm,-81 dBm,-73 dBm,-86 dBm,-83 dBm,-83 dBm
+G7,-76 dBm,-91 dBm,-76 dBm,-84 dBm,-72 dBm,-84 dBm,-85 dBm,-81 dBm
+G7,-73 dBm,-92 dBm,-74 dBm,-83 dBm,-72 dBm,-83 dBm,-83 dBm,-80 dBm
+G7,-78 dBm,-90 dBm,-75 dBm,-84 dBm,-74 dBm,-84 dBm,-80 dBm,-79 dBm
+G7,-72 dBm,-89 dBm,-75 dBm,-84 dBm,-72 dBm,-84 dBm,-84 dBm,-81 dBm
+G7,-76 dBm,0,-77 dBm,-83 dBm,-74 dBm,-84 dBm,-88 dBm,-81 dBm
+G7,-74 dBm,0,-77 dBm,-82 dBm,-72 dBm,-83 dBm,-85 dBm,-82 dBm
+,,,,,,,,
+G8,-68 dBm,-86 dBm,-84 dBm,-81 dBm,-73 dBm,-91 dBm,-90 dBm,-78 dBm
+G8,-67 dBm,-83 dBm,-86 dBm,-79 dBm,-75 dBm,-92 dBm,-83 dBm,-77 dBm
+G8,-66 dBm,-84 dBm,-91 dBm,-83 dBm,-71 dBm,-91 dBm,-85 dBm,-78 dBm
+G8,-64 dBm,-85 dBm,-82 dBm,-84 dBm,-82 dBm,-91 dBm,-89 dBm,-78 dBm
+G8,-68 dBm,-77 dBm,-86 dBm,-89 dBm,-74 dBm,-92 dBm,-90 dBm,-76 dBm
+G8,-65 dBm,-83 dBm,-85 dBm,-84 dBm,-74 dBm,-92 dBm,-94 dBm,-77 dBm
+G8,-72 dBm,-86 dBm,-86 dBm,-85 dBm,-73 dBm,-92 dBm,-89 dBm,-75 dBm
+G8,-68 dBm,-84 dBm,-89 dBm,-86 dBm,-81 dBm,-93 dBm,-86 dBm,-77 dBm
+G8,-66 dBm,-85 dBm,-83 dBm,-86 dBm,-74 dBm,-93 dBm,-79 dBm,-76 dBm
+G8,-65 dBm,-90 dBm,-84 dBm,-88 dBm,-75 dBm,-92 dBm,-91 dBm,-79 dBm
+G8,-70 dBm,-82 dBm,-82 dBm,-86 dBm,-75 dBm,-93 dBm,-85 dBm,-82 dBm
+G8,-68 dBm,-83 dBm,-84 dBm,-90 dBm,-71 dBm,-88 dBm,-87 dBm,-78 dBm
+G8,-68 dBm,-83 dBm,-83 dBm,-88 dBm,-75 dBm,-90 dBm,-88 dBm,-77 dBm
+G8,-69 dBm,-83 dBm,-85 dBm,-91 dBm,-77 dBm,-91 dBm,-83 dBm,-78 dBm
+G8,-70 dBm,-83 dBm,-79 dBm,-84 dBm,-76 dBm,-89 dBm,-89 dBm,-76 dBm
+G8,-71 dBm,-82 dBm,-80 dBm,-83 dBm,-79 dBm,-89 dBm,-91 dBm,-78 dBm
+G8,-69 dBm,-81 dBm,-79 dBm,-83 dBm,-81 dBm,-92 dBm,-90 dBm,-76 dBm
+G8,-65 dBm,-84 dBm,-82 dBm,-84 dBm,-73 dBm,-91 dBm,-88 dBm,-78 dBm
+G8,-65 dBm,-83 dBm,-84 dBm,-84 dBm,-73 dBm,-90 dBm,-84 dBm,-76 dBm
+G8,-63 dBm,-82 dBm,-85 dBm,-82 dBm,-73 dBm,0,-89 dBm,-78 dBm
+G8,-64 dBm,-81 dBm,-82 dBm,-85 dBm,-75 dBm,0,-88 dBm,-77 dBm
+G8,-66 dBm,-83 dBm,-84 dBm,-83 dBm,-73 dBm,0,-88 dBm,-75 dBm
+G8,-64 dBm,-83 dBm,-83 dBm,-86 dBm,-72 dBm,0,-86 dBm,-77 dBm
+G8,-67 dBm,-82 dBm,-81 dBm,-85 dBm,-82 dBm,0,0,-75 dBm
+G8,-66 dBm,-83 dBm,-82 dBm,-82 dBm,-80 dBm,0,0,-77 dBm
+G8,-65 dBm,-84 dBm,-80 dBm,-85 dBm,-74 dBm,0,0,-77 dBm
+G8,-73 dBm,-86 dBm,-83 dBm,-86 dBm,-76 dBm,0,0,-78 dBm
+G8,-71 dBm,-84 dBm,-83 dBm,-89 dBm,-81 dBm,0,0,-78 dBm
+G8,-68 dBm,-83 dBm,-81 dBm,-86 dBm,-76 dBm,0,0,-78 dBm
+G8,-72 dBm,-87 dBm,-81 dBm,-83 dBm,-80 dBm,0,0,-75 dBm
+G8,-71 dBm,-82 dBm,-83 dBm,-85 dBm,-75 dBm,0,0,-78 dBm
+G8,-68 dBm,-85 dBm,0,-85 dBm,-76 dBm,0,0,-76 dBm
+,,,,,,,,
+G9,-70 dBm,-83 dBm,-82 dBm,-85 dBm,-73 dBm,-94 dBm,-83 dBm,-86 dBm
+G9,-68 dBm,-80 dBm,-82 dBm,-88 dBm,-81 dBm,-92 dBm,-82 dBm,-89 dBm
+G9,-71 dBm,-79 dBm,-83 dBm,-87 dBm,-77 dBm,0,-82 dBm,-85 dBm
+G9,-70 dBm,-78 dBm,-83 dBm,-88 dBm,-77 dBm,0,-82 dBm,-83 dBm
+G9,-68 dBm,-78 dBm,-80 dBm,-85 dBm,-79 dBm,0,-80 dBm,-88 dBm
+G9,-69 dBm,-79 dBm,-81 dBm,-89 dBm,-81 dBm,0,-81 dBm,-81 dBm
+G9,-67 dBm,-80 dBm,-82 dBm,-87 dBm,-86 dBm,0,-79 dBm,-83 dBm
+G9,-69 dBm,-79 dBm,-81 dBm,-85 dBm,-82 dBm,0,-79 dBm,-83 dBm
+G9,-65 dBm,-78 dBm,-83 dBm,-86 dBm,-74 dBm,0,-80 dBm,-85 dBm
+G9,-67 dBm,-80 dBm,-82 dBm,-83 dBm,-73 dBm,0,-81 dBm,-82 dBm
+G9,-66 dBm,-79 dBm,-79 dBm,-85 dBm,-73 dBm,0,-79 dBm,-81 dBm
+G9,-72 dBm,-83 dBm,-77 dBm,-82 dBm,-74 dBm,0,-79 dBm,-84 dBm
+G9,-69 dBm,-76 dBm,-82 dBm,-86 dBm,-85 dBm,0,-83 dBm,-86 dBm
+G9,-68 dBm,-79 dBm,-79 dBm,-87 dBm,-80 dBm,0,-79 dBm,-84 dBm
+G9,-69 dBm,-75 dBm,-79 dBm,-87 dBm,-83 dBm,0,-82 dBm,-85 dBm
+G9,-68 dBm,-77 dBm,-79 dBm,-85 dBm,-79 dBm,0,-79 dBm,-83 dBm
+G9,-67 dBm,-79 dBm,-79 dBm,-85 dBm,-79 dBm,0,-81 dBm,-84 dBm
+G9,-68 dBm,-77 dBm,-81 dBm,-87 dBm,-81 dBm,0,-82 dBm,-81 dBm
+G9,-71 dBm,-79 dBm,-78 dBm,-82 dBm,-81 dBm,0,-81 dBm,-86 dBm
+G9,-70 dBm,-80 dBm,-82 dBm,-85 dBm,-82 dBm,0,-77 dBm,-87 dBm
+G9,-70 dBm,-78 dBm,-81 dBm,-87 dBm,-84 dBm,0,-81 dBm,-85 dBm
+G9,-71 dBm,-78 dBm,-80 dBm,-87 dBm,-80 dBm,0,-80 dBm,-79 dBm
+G9,-68 dBm,-77 dBm,-80 dBm,-87 dBm,-74 dBm,0,-82 dBm,-84 dBm
+G9,-67 dBm,-78 dBm,-82 dBm,0,-76 dBm,0,-80 dBm,-83 dBm
+G9,-69 dBm,-78 dBm,-81 dBm,0,-77 dBm,0,-83 dBm,-84 dBm
+G9,-69 dBm,-79 dBm,-81 dBm,0,-76 dBm,0,-81 dBm,-81 dBm
+G9,-68 dBm,-77 dBm,-83 dBm,0,-80 dBm,0,-81 dBm,-83 dBm
+G9,-69 dBm,-79 dBm,-82 dBm,0,-77 dBm,0,-83 dBm,-85 dBm
+G9,-68 dBm,-76 dBm,-81 dBm,0,-80 dBm,0,-82 dBm,-84 dBm
+G9,-69 dBm,-79 dBm,-82 dBm,0,-76 dBm,0,-84 dBm,-86 dBm
+G9,-71 dBm,-78 dBm,-80 dBm,0,-76 dBm,0,0,-85 dBm
+G9,-71 dBm,-79 dBm,-83 dBm,0,-75 dBm,0,0,-82 dBm
+,,,,,,,,
+H1,-92 dBm,-84 dBm,-79 dBm,-76 dBm,-70 dBm,-87 dBm,-80 dBm,-85 dBm
+H1,-91 dBm,-90 dBm,-82 dBm,-75 dBm,-69 dBm,-91 dBm,-85 dBm,-84 dBm
+H1,-89 dBm,-88 dBm,-83 dBm,-75 dBm,-70 dBm,-94 dBm,-90 dBm,-86 dBm
+H1,-90 dBm,-88 dBm,-83 dBm,-74 dBm,-70 dBm,-90 dBm,-83 dBm,-86 dBm
+H1,-93 dBm,-88 dBm,-84 dBm,-73 dBm,-71 dBm,-91 dBm,-87 dBm,-86 dBm
+H1,-92 dBm,-87 dBm,-83 dBm,-75 dBm,-69 dBm,-92 dBm,-87 dBm,-83 dBm
+H1,-93 dBm,-88 dBm,-83 dBm,-73 dBm,-70 dBm,-93 dBm,-86 dBm,-82 dBm
+H1,-89 dBm,-85 dBm,-82 dBm,-75 dBm,-70 dBm,-93 dBm,-83 dBm,-85 dBm
+H1,-88 dBm,-88 dBm,-83 dBm,-73 dBm,-69 dBm,-94 dBm,-84 dBm,-87 dBm
+H1,-91 dBm,-86 dBm,-82 dBm,-74 dBm,-74 dBm,-94 dBm,-85 dBm,-84 dBm
+H1,-92 dBm,-88 dBm,-83 dBm,-74 dBm,-69 dBm,-89 dBm,-90 dBm,-83 dBm
+H1,-91 dBm,-82 dBm,-83 dBm,-72 dBm,-71 dBm,-89 dBm,-84 dBm,-85 dBm
+H1,-93 dBm,-88 dBm,-86 dBm,-74 dBm,-69 dBm,0,-88 dBm,-84 dBm
+H1,-94 dBm,-88 dBm,-82 dBm,-75 dBm,-70 dBm,0,-83 dBm,-87 dBm
+H1,-89 dBm,-86 dBm,-83 dBm,-74 dBm,-70 dBm,0,-83 dBm,-84 dBm
+H1,-91 dBm,-88 dBm,-84 dBm,-74 dBm,-70 dBm,0,-83 dBm,-85 dBm
+H1,0,-87 dBm,-83 dBm,-75 dBm,-71 dBm,0,-81 dBm,-87 dBm
+H1,0,-87 dBm,-82 dBm,-76 dBm,-70 dBm,0,-86 dBm,-88 dBm
+H1,0,-91 dBm,-82 dBm,-75 dBm,-71 dBm,0,-89 dBm,-84 dBm
+H1,0,-85 dBm,-83 dBm,-74 dBm,-70 dBm,0,-87 dBm,-87 dBm
+H1,0,-87 dBm,-83 dBm,-73 dBm,-70 dBm,0,-86 dBm,-85 dBm
+H1,0,-88 dBm,-83 dBm,-75 dBm,-72 dBm,0,-84 dBm,-84 dBm
+H1,0,-89 dBm,-83 dBm,-74 dBm,-72 dBm,0,-81 dBm,-85 dBm
+H1,0,-88 dBm,-82 dBm,-73 dBm,-71 dBm,0,-83 dBm,-86 dBm
+H1,0,-90 dBm,-85 dBm,-74 dBm,-69 dBm,0,-83 dBm,-87 dBm
+H1,0,-89 dBm,-82 dBm,-73 dBm,-69 dBm,0,-82 dBm,-86 dBm
+H1,0,-89 dBm,-81 dBm,-74 dBm,-70 dBm,0,-83 dBm,-85 dBm
+H1,0,-87 dBm,-82 dBm,-73 dBm,-71 dBm,0,0,-84 dBm
+H1,0,-87 dBm,-83 dBm,-74 dBm,-71 dBm,0,0,-88 dBm
+H1,0,0,-80 dBm,-73 dBm,-70 dBm,0,0,-88 dBm
+H1,0,0,-81 dBm,-74 dBm,-70 dBm,0,0,-84 dBm
+H1,0,0,-81 dBm,-72 dBm,-70 dBm,0,0,-86 dBm
+H1,0,0,0,-73 dBm,-71 dBm,0,0,0
+,,,,,,,,
+H2,-80 dBm,-86 dBm,-77 dBm,-82 dBm,-73 dBm,-89 dBm,-91 dBm,-84 dBm
+H2,-87 dBm,-84 dBm,-80 dBm,-89 dBm,-75 dBm,-84 dBm,-89 dBm,-84 dBm
+H2,-83 dBm,-84 dBm,-83 dBm,-84 dBm,-75 dBm,-86 dBm,-87 dBm,-83 dBm
+H2,-77 dBm,-88 dBm,-82 dBm,-84 dBm,-76 dBm,-84 dBm,-83 dBm,-83 dBm
+H2,-81 dBm,-84 dBm,-82 dBm,-81 dBm,-73 dBm,-89 dBm,-85 dBm,-84 dBm
+H2,-82 dBm,-84 dBm,-82 dBm,-85 dBm,-72 dBm,-88 dBm,-81 dBm,-82 dBm
+H2,-85 dBm,-84 dBm,-83 dBm,-82 dBm,-71 dBm,-90 dBm,-81 dBm,-84 dBm
+H2,-83 dBm,-84 dBm,-83 dBm,-80 dBm,-73 dBm,-86 dBm,-82 dBm,-81 dBm
+H2,-79 dBm,-85 dBm,-80 dBm,-78 dBm,-76 dBm,-85 dBm,-83 dBm,-81 dBm
+H2,-77 dBm,-86 dBm,-86 dBm,-77 dBm,-76 dBm,-87 dBm,-83 dBm,-87 dBm
+H2,-81 dBm,-85 dBm,-85 dBm,-85 dBm,-82 dBm,-85 dBm,-88 dBm,-82 dBm
+H2,-82 dBm,-87 dBm,-85 dBm,-83 dBm,-77 dBm,-84 dBm,-84 dBm,-82 dBm
+H2,-87 dBm,-82 dBm,-83 dBm,-84 dBm,-78 dBm,-85 dBm,-82 dBm,-84 dBm
+H2,-78 dBm,-82 dBm,-83 dBm,-84 dBm,-74 dBm,-81 dBm,-86 dBm,-83 dBm
+H2,-79 dBm,-83 dBm,-82 dBm,-85 dBm,-75 dBm,-83 dBm,-84 dBm,-86 dBm
+H2,-82 dBm,-83 dBm,-82 dBm,-85 dBm,-76 dBm,-84 dBm,-85 dBm,-87 dBm
+H2,-87 dBm,-83 dBm,-83 dBm,-88 dBm,-76 dBm,-85 dBm,-83 dBm,-84 dBm
+H2,-80 dBm,-83 dBm,-84 dBm,-86 dBm,-75 dBm,-82 dBm,-83 dBm,-83 dBm
+H2,-78 dBm,-80 dBm,-83 dBm,-89 dBm,-75 dBm,-84 dBm,-84 dBm,-83 dBm
+H2,-79 dBm,-81 dBm,-82 dBm,-86 dBm,-73 dBm,-85 dBm,-86 dBm,-84 dBm
+H2,-78 dBm,-82 dBm,-81 dBm,-87 dBm,-74 dBm,-85 dBm,-84 dBm,-80 dBm
+H2,-81 dBm,-81 dBm,-83 dBm,-89 dBm,-77 dBm,-88 dBm,-85 dBm,-81 dBm
+H2,-77 dBm,-80 dBm,-84 dBm,-86 dBm,-76 dBm,-86 dBm,-86 dBm,-84 dBm
+H2,-83 dBm,-82 dBm,-86 dBm,-85 dBm,-76 dBm,-86 dBm,-83 dBm,-86 dBm
+H2,-79 dBm,-83 dBm,-82 dBm,-85 dBm,-78 dBm,-88 dBm,-84 dBm,-87 dBm
+H2,-81 dBm,-83 dBm,-86 dBm,-89 dBm,-73 dBm,-84 dBm,-79 dBm,-85 dBm
+H2,-79 dBm,-83 dBm,-83 dBm,0,-77 dBm,-84 dBm,-84 dBm,-85 dBm
+H2,-83 dBm,-83 dBm,-81 dBm,0,-75 dBm,0,-87 dBm,-86 dBm
+H2,-78 dBm,-79 dBm,-84 dBm,0,-75 dBm,0,0,-86 dBm
+H2,-79 dBm,-84 dBm,-82 dBm,0,-75 dBm,0,0,-86 dBm
+H2,-82 dBm,-81 dBm,-84 dBm,0,-75 dBm,0,0,-83 dBm
+H2,-83 dBm,-82 dBm,-85 dBm,0,-71 dBm,0,0,-84 dBm
+,,,,,,,,
+H3,-81 dBm,-89 dBm,-81 dBm,-85 dBm,-72 dBm,-76 dBm,-74 dBm,-91 dBm
+H3,-82 dBm,-87 dBm,-83 dBm,-83 dBm,-72 dBm,-75 dBm,-78 dBm,-88 dBm
+H3,-85 dBm,-86 dBm,-83 dBm,-81 dBm,-69 dBm,-78 dBm,-78 dBm,-90 dBm
+H3,-81 dBm,-85 dBm,-81 dBm,-81 dBm,-73 dBm,-77 dBm,-75 dBm,-89 dBm
+H3,-82 dBm,-86 dBm,-81 dBm,-81 dBm,-70 dBm,-77 dBm,-76 dBm,-89 dBm
+H3,-84 dBm,-85 dBm,-80 dBm,-78 dBm,-71 dBm,-75 dBm,-76 dBm,-90 dBm
+H3,-82 dBm,-88 dBm,-79 dBm,-78 dBm,-70 dBm,-77 dBm,-74 dBm,-88 dBm
+H3,-83 dBm,-84 dBm,-79 dBm,-79 dBm,-74 dBm,-73 dBm,-77 dBm,-90 dBm
+H3,-81 dBm,-87 dBm,-82 dBm,-80 dBm,-69 dBm,-78 dBm,-76 dBm,-91 dBm
+H3,-83 dBm,-86 dBm,-82 dBm,-81 dBm,-70 dBm,-77 dBm,-79 dBm,-91 dBm
+H3,-83 dBm,-88 dBm,-89 dBm,-77 dBm,-71 dBm,-77 dBm,-77 dBm,-89 dBm
+H3,-82 dBm,-85 dBm,-81 dBm,-77 dBm,-69 dBm,-78 dBm,-78 dBm,-91 dBm
+H3,-81 dBm,-85 dBm,-80 dBm,-81 dBm,-72 dBm,-77 dBm,-78 dBm,-88 dBm
+H3,-82 dBm,-86 dBm,-81 dBm,-81 dBm,-72 dBm,-78 dBm,-78 dBm,-89 dBm
+H3,-81 dBm,-88 dBm,-79 dBm,-77 dBm,-72 dBm,-75 dBm,-76 dBm,-87 dBm
+H3,-81 dBm,-85 dBm,-80 dBm,-82 dBm,-67 dBm,-77 dBm,-79 dBm,-87 dBm
+H3,-86 dBm,-85 dBm,-80 dBm,-76 dBm,-69 dBm,-77 dBm,-77 dBm,-88 dBm
+H3,-85 dBm,-88 dBm,-84 dBm,-81 dBm,-71 dBm,-78 dBm,-73 dBm,-89 dBm
+H3,-78 dBm,-93 dBm,-80 dBm,-79 dBm,-66 dBm,-79 dBm,-75 dBm,-89 dBm
+H3,-79 dBm,-90 dBm,-82 dBm,-81 dBm,-72 dBm,-74 dBm,-75 dBm,-90 dBm
+H3,-78 dBm,-91 dBm,-85 dBm,-81 dBm,-72 dBm,-85 dBm,-77 dBm,-86 dBm
+H3,-79 dBm,-91 dBm,-80 dBm,-83 dBm,-73 dBm,-80 dBm,-74 dBm,-89 dBm
+H3,-77 dBm,-90 dBm,-77 dBm,-84 dBm,-73 dBm,-79 dBm,-79 dBm,-89 dBm
+H3,-77 dBm,-92 dBm,-81 dBm,-83 dBm,-73 dBm,-79 dBm,-78 dBm,-88 dBm
+H3,-78 dBm,-94 dBm,-81 dBm,-84 dBm,-75 dBm,-75 dBm,-78 dBm,-87 dBm
+H3,-75 dBm,-93 dBm,-82 dBm,-86 dBm,-75 dBm,-77 dBm,-79 dBm,-88 dBm
+H3,-77 dBm,-91 dBm,-81 dBm,-83 dBm,-74 dBm,-77 dBm,-78 dBm,-86 dBm
+H3,-75 dBm,-92 dBm,-81 dBm,-83 dBm,-73 dBm,-74 dBm,-79 dBm,-87 dBm
+H3,-79 dBm,-93 dBm,-83 dBm,-83 dBm,-75 dBm,-77 dBm,-75 dBm,-87 dBm
+H3,-78 dBm,-92 dBm,-83 dBm,-83 dBm,-71 dBm,-77 dBm,-79 dBm,-87 dBm
+H3,-77 dBm,-92 dBm,-81 dBm,-82 dBm,-71 dBm,-78 dBm,-80 dBm,-86 dBm
+H3,-80 dBm,-91 dBm,-81 dBm,0,-71 dBm,-77 dBm,-79 dBm,-87 dBm
+,,,,,,,,
+H4,-84 dBm,-92 dBm,-81 dBm,-65 dBm,-67 dBm,-83 dBm,-78 dBm,-83 dBm
+H4,-86 dBm,-91 dBm,-82 dBm,-60 dBm,-69 dBm,-82 dBm,-77 dBm,-83 dBm
+H4,-83 dBm,-92 dBm,-85 dBm,-58 dBm,-63 dBm,-82 dBm,-77 dBm,-86 dBm
+H4,-83 dBm,-87 dBm,-89 dBm,-59 dBm,-64 dBm,-84 dBm,-77 dBm,-83 dBm
+H4,-85 dBm,-88 dBm,-89 dBm,-59 dBm,-65 dBm,-86 dBm,-85 dBm,-80 dBm
+H4,-84 dBm,-87 dBm,-89 dBm,-59 dBm,-65 dBm,-87 dBm,-79 dBm,-82 dBm
+H4,-84 dBm,-92 dBm,-93 dBm,-58 dBm,-65 dBm,-88 dBm,-82 dBm,-82 dBm
+H4,-84 dBm,-89 dBm,-94 dBm,-59 dBm,-63 dBm,-85 dBm,-81 dBm,-83 dBm
+H4,-86 dBm,-88 dBm,-92 dBm,-59 dBm,-65 dBm,-86 dBm,-81 dBm,-82 dBm
+H4,-83 dBm,-88 dBm,-90 dBm,-60 dBm,-66 dBm,-85 dBm,-79 dBm,-83 dBm
+H4,-86 dBm,-87 dBm,-91 dBm,-60 dBm,-65 dBm,-85 dBm,-79 dBm,-90 dBm
+H4,-85 dBm,-87 dBm,-91 dBm,-59 dBm,-63 dBm,-84 dBm,-80 dBm,-82 dBm
+H4,-87 dBm,-87 dBm,-91 dBm,-59 dBm,-65 dBm,-84 dBm,-81 dBm,-85 dBm
+H4,-86 dBm,-88 dBm,-89 dBm,-58 dBm,-66 dBm,-84 dBm,-81 dBm,-84 dBm
+H4,-85 dBm,-89 dBm,-90 dBm,-60 dBm,-64 dBm,-86 dBm,-84 dBm,-82 dBm
+H4,-84 dBm,-90 dBm,-94 dBm,-60 dBm,-63 dBm,-82 dBm,-85 dBm,-82 dBm
+H4,-86 dBm,-88 dBm,-92 dBm,-60 dBm,-63 dBm,-85 dBm,-90 dBm,-84 dBm
+H4,-91 dBm,-87 dBm,-89 dBm,-58 dBm,-64 dBm,-85 dBm,-81 dBm,-86 dBm
+H4,-87 dBm,-87 dBm,-90 dBm,-60 dBm,-65 dBm,-87 dBm,-82 dBm,-82 dBm
+H4,-90 dBm,-85 dBm,-86 dBm,-57 dBm,-64 dBm,-87 dBm,-82 dBm,-82 dBm
+H4,-87 dBm,-86 dBm,-88 dBm,-60 dBm,-66 dBm,-88 dBm,-82 dBm,-84 dBm
+H4,-85 dBm,-84 dBm,-87 dBm,-59 dBm,-63 dBm,-88 dBm,-81 dBm,-83 dBm
+H4,-87 dBm,-86 dBm,-89 dBm,-59 dBm,-64 dBm,-84 dBm,-84 dBm,-83 dBm
+H4,-86 dBm,-88 dBm,-89 dBm,-60 dBm,-65 dBm,-87 dBm,-86 dBm,-81 dBm
+H4,-86 dBm,-88 dBm,-85 dBm,-59 dBm,-66 dBm,-84 dBm,-84 dBm,-82 dBm
+H4,-80 dBm,-85 dBm,-92 dBm,-58 dBm,-65 dBm,-85 dBm,-83 dBm,-82 dBm
+H4,-84 dBm,-87 dBm,-87 dBm,-60 dBm,-64 dBm,-83 dBm,-82 dBm,-84 dBm
+H4,-87 dBm,-88 dBm,-84 dBm,-62 dBm,-65 dBm,-88 dBm,-89 dBm,-83 dBm
+H4,-87 dBm,-88 dBm,-82 dBm,-60 dBm,-73 dBm,-87 dBm,-88 dBm,-84 dBm
+H4,-80 dBm,-90 dBm,-85 dBm,-60 dBm,-74 dBm,-85 dBm,-87 dBm,-87 dBm
+H4,-85 dBm,-88 dBm,-87 dBm,-59 dBm,-73 dBm,-86 dBm,-87 dBm,-85 dBm
+H4,-81 dBm,-89 dBm,-82 dBm,-59 dBm,-71 dBm,-88 dBm,-87 dBm,-87 dBm
+H4,-84 dBm,-90 dBm,-86 dBm,-60 dBm,-72 dBm,-87 dBm,-85 dBm,-88 dBm
+,,,,,,,,
+H5,-80 dBm,-80 dBm,-76 dBm,-70 dBm,-72 dBm,-90 dBm,-83 dBm,-82 dBm
+H5,-71 dBm,-79 dBm,-73 dBm,-76 dBm,-65 dBm,-86 dBm,-81 dBm,-73 dBm
+H5,-70 dBm,-76 dBm,-74 dBm,-71 dBm,-63 dBm,-85 dBm,-74 dBm,-75 dBm
+H5,-68 dBm,-78 dBm,-73 dBm,-69 dBm,-63 dBm,-81 dBm,-85 dBm,-76 dBm
+H5,-71 dBm,-78 dBm,-74 dBm,-72 dBm,-65 dBm,-84 dBm,-78 dBm,-75 dBm
+H5,-66 dBm,-80 dBm,-75 dBm,-79 dBm,-66 dBm,-87 dBm,-82 dBm,-74 dBm
+H5,-73 dBm,-77 dBm,-79 dBm,-82 dBm,-75 dBm,-83 dBm,-84 dBm,-78 dBm
+H5,-68 dBm,-78 dBm,-75 dBm,-78 dBm,-75 dBm,-85 dBm,-80 dBm,-73 dBm
+H5,-69 dBm,-79 dBm,-74 dBm,-75 dBm,-69 dBm,-85 dBm,-79 dBm,-76 dBm
+H5,-72 dBm,-78 dBm,-73 dBm,-78 dBm,-65 dBm,-85 dBm,-85 dBm,-75 dBm
+H5,-70 dBm,-78 dBm,-74 dBm,-75 dBm,-67 dBm,-84 dBm,-80 dBm,-74 dBm
+H5,-69 dBm,-77 dBm,-74 dBm,-73 dBm,-66 dBm,-85 dBm,-81 dBm,-76 dBm
+H5,-69 dBm,-77 dBm,-73 dBm,-73 dBm,-66 dBm,-84 dBm,-80 dBm,-75 dBm
+H5,-69 dBm,-77 dBm,-72 dBm,-69 dBm,-62 dBm,-87 dBm,-80 dBm,-75 dBm
+H5,-71 dBm,-78 dBm,-72 dBm,-71 dBm,-62 dBm,-84 dBm,-85 dBm,-74 dBm
+H5,-70 dBm,-77 dBm,-72 dBm,-73 dBm,-65 dBm,-84 dBm,-82 dBm,-74 dBm
+H5,-68 dBm,-77 dBm,-72 dBm,-77 dBm,-70 dBm,-86 dBm,-81 dBm,-75 dBm
+H5,-68 dBm,-80 dBm,-72 dBm,-78 dBm,-67 dBm,-84 dBm,-79 dBm,-75 dBm
+H5,-70 dBm,-78 dBm,-72 dBm,-79 dBm,-67 dBm,-86 dBm,-80 dBm,-74 dBm
+H5,-70 dBm,-79 dBm,-73 dBm,-75 dBm,-69 dBm,-85 dBm,-78 dBm,-77 dBm
+H5,-64 dBm,-76 dBm,-74 dBm,-75 dBm,-68 dBm,-87 dBm,-78 dBm,-73 dBm
+H5,-66 dBm,-76 dBm,-75 dBm,-75 dBm,-70 dBm,-86 dBm,-80 dBm,-72 dBm
+H5,-70 dBm,-77 dBm,-71 dBm,-76 dBm,-70 dBm,-88 dBm,-81 dBm,-74 dBm
+H5,-68 dBm,-76 dBm,-74 dBm,-74 dBm,-66 dBm,-85 dBm,-80 dBm,-75 dBm
+H5,-69 dBm,-77 dBm,-74 dBm,-74 dBm,-69 dBm,-86 dBm,-80 dBm,-76 dBm
+H5,-69 dBm,-76 dBm,-73 dBm,-76 dBm,-69 dBm,-86 dBm,-80 dBm,-75 dBm
+H5,-69 dBm,-77 dBm,-74 dBm,-75 dBm,-67 dBm,-87 dBm,-78 dBm,-75 dBm
+H5,-69 dBm,-77 dBm,-74 dBm,-76 dBm,-70 dBm,-85 dBm,-80 dBm,-74 dBm
+H5,-69 dBm,-78 dBm,-72 dBm,-76 dBm,-69 dBm,-87 dBm,-79 dBm,-76 dBm
+H5,-64 dBm,-79 dBm,-73 dBm,-80 dBm,-69 dBm,-83 dBm,-83 dBm,-76 dBm
+H5,-71 dBm,-78 dBm,-73 dBm,-76 dBm,-70 dBm,-85 dBm,-81 dBm,-74 dBm
+H5,-68 dBm,-79 dBm,-74 dBm,-79 dBm,-72 dBm,-85 dBm,-79 dBm,-72 dBm
+,,,,,,,,
+H6,-73 dBm,-87 dBm,-83 dBm,-79 dBm,-66 dBm,-87 dBm,-79 dBm,-86 dBm
+H6,-74 dBm,-94 dBm,-80 dBm,-73 dBm,-62 dBm,-90 dBm,-84 dBm,-84 dBm
+H6,-76 dBm,-90 dBm,-75 dBm,-76 dBm,-64 dBm,-91 dBm,-83 dBm,-81 dBm
+H6,-75 dBm,-87 dBm,-74 dBm,-78 dBm,-64 dBm,-86 dBm,-78 dBm,-88 dBm
+H6,-77 dBm,-88 dBm,-76 dBm,-78 dBm,-67 dBm,-88 dBm,-79 dBm,-81 dBm
+H6,-69 dBm,-85 dBm,-75 dBm,-74 dBm,-64 dBm,-93 dBm,-78 dBm,-85 dBm
+H6,-73 dBm,-89 dBm,-81 dBm,-75 dBm,-63 dBm,-91 dBm,-77 dBm,-82 dBm
+H6,-69 dBm,-86 dBm,-77 dBm,-77 dBm,-64 dBm,-89 dBm,-78 dBm,-82 dBm
+H6,-74 dBm,-88 dBm,-78 dBm,-75 dBm,-65 dBm,-87 dBm,-77 dBm,-82 dBm
+H6,-76 dBm,-93 dBm,-78 dBm,-76 dBm,-65 dBm,-88 dBm,-84 dBm,-78 dBm
+H6,-72 dBm,-91 dBm,-77 dBm,-74 dBm,-65 dBm,-90 dBm,-74 dBm,-82 dBm
+H6,-74 dBm,-88 dBm,-76 dBm,-75 dBm,-64 dBm,-87 dBm,-75 dBm,-82 dBm
+H6,-83 dBm,-89 dBm,-77 dBm,-76 dBm,-64 dBm,-87 dBm,-84 dBm,-84 dBm
+H6,-76 dBm,-87 dBm,-73 dBm,-76 dBm,-66 dBm,-87 dBm,-78 dBm,-85 dBm
+H6,-80 dBm,-92 dBm,-78 dBm,-79 dBm,-64 dBm,-87 dBm,-83 dBm,-82 dBm
+H6,-76 dBm,-86 dBm,-76 dBm,-83 dBm,-69 dBm,-90 dBm,-79 dBm,-85 dBm
+H6,-72 dBm,-87 dBm,-76 dBm,-79 dBm,-62 dBm,-96 dBm,-81 dBm,-86 dBm
+H6,-72 dBm,-87 dBm,-79 dBm,-76 dBm,-75 dBm,-90 dBm,-81 dBm,-80 dBm
+H6,-79 dBm,-84 dBm,-79 dBm,-82 dBm,-71 dBm,-91 dBm,-81 dBm,-80 dBm
+H6,-74 dBm,-86 dBm,-78 dBm,-79 dBm,-67 dBm,-94 dBm,-78 dBm,-82 dBm
+H6,-79 dBm,-87 dBm,-79 dBm,-76 dBm,-70 dBm,-93 dBm,-77 dBm,-80 dBm
+H6,-79 dBm,-87 dBm,-80 dBm,-79 dBm,-68 dBm,-96 dBm,-77 dBm,-81 dBm
+H6,-78 dBm,-85 dBm,-80 dBm,-79 dBm,-67 dBm,-96 dBm,-75 dBm,-79 dBm
+H6,-75 dBm,-88 dBm,-77 dBm,-79 dBm,-72 dBm,-95 dBm,-79 dBm,-82 dBm
+H6,-77 dBm,-85 dBm,-81 dBm,-76 dBm,-70 dBm,-93 dBm,-79 dBm,-83 dBm
+H6,-76 dBm,-88 dBm,-77 dBm,-77 dBm,-71 dBm,-97 dBm,-78 dBm,-87 dBm
+H6,-76 dBm,-88 dBm,-78 dBm,-80 dBm,-70 dBm,-94 dBm,-77 dBm,-84 dBm
+H6,-73 dBm,-85 dBm,-78 dBm,-80 dBm,-71 dBm,-93 dBm,-78 dBm,-83 dBm
+H6,-75 dBm,-87 dBm,-78 dBm,-81 dBm,-70 dBm,-91 dBm,-79 dBm,-85 dBm
+H6,-70 dBm,-88 dBm,-77 dBm,-79 dBm,-68 dBm,0,-79 dBm,-86 dBm
+H6,-73 dBm,-85 dBm,-80 dBm,-85 dBm,-71 dBm,0,-80 dBm,-86 dBm
+H6,-71 dBm,-86 dBm,-80 dBm,-78 dBm,-67 dBm,0,-75 dBm,-82 dBm
+,,,,,,,,
+H7,-75 dBm,-88 dBm,-71 dBm,-81 dBm,-69 dBm,-90 dBm,-78 dBm,-90 dBm
+H7,-81 dBm,-86 dBm,-73 dBm,-79 dBm,-71 dBm,-88 dBm,-80 dBm,-85 dBm
+H7,-77 dBm,-88 dBm,-85 dBm,-89 dBm,-80 dBm,-92 dBm,-82 dBm,-88 dBm
+H7,-71 dBm,-90 dBm,-79 dBm,-90 dBm,-78 dBm,-90 dBm,-82 dBm,-87 dBm
+H7,-72 dBm,-87 dBm,-76 dBm,-82 dBm,-72 dBm,-92 dBm,-82 dBm,-79 dBm
+H7,-76 dBm,-86 dBm,-81 dBm,-80 dBm,-71 dBm,-92 dBm,-84 dBm,-80 dBm
+H7,-75 dBm,-88 dBm,-78 dBm,-80 dBm,-71 dBm,-93 dBm,-81 dBm,-82 dBm
+H7,-75 dBm,-89 dBm,-77 dBm,-83 dBm,-74 dBm,-92 dBm,-83 dBm,-81 dBm
+H7,-74 dBm,-89 dBm,-75 dBm,-80 dBm,-74 dBm,-91 dBm,-84 dBm,-82 dBm
+H7,-77 dBm,-87 dBm,-75 dBm,-80 dBm,-72 dBm,-92 dBm,-82 dBm,-84 dBm
+H7,-78 dBm,-90 dBm,-76 dBm,-80 dBm,-75 dBm,-91 dBm,-82 dBm,-86 dBm
+H7,-78 dBm,-89 dBm,-77 dBm,-82 dBm,-73 dBm,-92 dBm,-84 dBm,-83 dBm
+H7,-75 dBm,-85 dBm,-77 dBm,-81 dBm,-75 dBm,-92 dBm,-84 dBm,-85 dBm
+H7,-74 dBm,-83 dBm,-75 dBm,-82 dBm,-77 dBm,-92 dBm,-82 dBm,-83 dBm
+H7,-74 dBm,-85 dBm,-76 dBm,-81 dBm,-79 dBm,-91 dBm,-87 dBm,-82 dBm
+H7,-75 dBm,-92 dBm,-76 dBm,-83 dBm,-71 dBm,-88 dBm,-83 dBm,-83 dBm
+H7,-78 dBm,-93 dBm,-81 dBm,-84 dBm,-72 dBm,-91 dBm,-87 dBm,-84 dBm
+H7,-77 dBm,-93 dBm,-78 dBm,-83 dBm,-73 dBm,-93 dBm,-87 dBm,-83 dBm
+H7,-76 dBm,-90 dBm,-77 dBm,-81 dBm,-76 dBm,-93 dBm,-87 dBm,-88 dBm
+H7,-77 dBm,-92 dBm,-80 dBm,-84 dBm,-79 dBm,-93 dBm,-91 dBm,-94 dBm
+H7,-80 dBm,-93 dBm,-78 dBm,-84 dBm,-68 dBm,-93 dBm,-92 dBm,-79 dBm
+H7,-78 dBm,-95 dBm,-80 dBm,-82 dBm,-71 dBm,-96 dBm,-85 dBm,-80 dBm
+H7,-76 dBm,-95 dBm,-82 dBm,-85 dBm,-70 dBm,-93 dBm,-85 dBm,-81 dBm
+H7,-79 dBm,-95 dBm,-86 dBm,-81 dBm,-70 dBm,-92 dBm,-90 dBm,-79 dBm
+H7,-83 dBm,-91 dBm,-80 dBm,-83 dBm,-73 dBm,-92 dBm,-85 dBm,-80 dBm
+H7,-81 dBm,-86 dBm,-79 dBm,-82 dBm,-72 dBm,-95 dBm,-92 dBm,-78 dBm
+H7,-78 dBm,-86 dBm,-82 dBm,-84 dBm,-68 dBm,0,-92 dBm,-81 dBm
+H7,-77 dBm,-87 dBm,-80 dBm,-85 dBm,-71 dBm,0,-88 dBm,-81 dBm
+H7,-76 dBm,-83 dBm,-79 dBm,-89 dBm,-70 dBm,0,-85 dBm,-79 dBm
+H7,-75 dBm,-87 dBm,-81 dBm,-82 dBm,-71 dBm,0,-85 dBm,-81 dBm
+H7,-77 dBm,-89 dBm,-79 dBm,-79 dBm,-72 dBm,0,-84 dBm,-78 dBm
+H7,-76 dBm,0,-81 dBm,-84 dBm,-73 dBm,0,-81 dBm,-81 dBm
+,,,,,,,,
+H8,-77 dBm,-77 dBm,-87 dBm,-81 dBm,-74 dBm,-93 dBm,-86 dBm,-83 dBm
+H8,-77 dBm,-81 dBm,-91 dBm,-80 dBm,-82 dBm,-91 dBm,-95 dBm,-83 dBm
+H8,-83 dBm,-77 dBm,-86 dBm,-84 dBm,-82 dBm,-95 dBm,-93 dBm,-81 dBm
+H8,-79 dBm,-74 dBm,-84 dBm,-81 dBm,-83 dBm,-91 dBm,-90 dBm,-82 dBm
+H8,-81 dBm,-76 dBm,-85 dBm,-77 dBm,-82 dBm,-94 dBm,-85 dBm,-80 dBm
+H8,-80 dBm,-77 dBm,-83 dBm,-82 dBm,-89 dBm,-91 dBm,-93 dBm,-81 dBm
+H8,-79 dBm,-78 dBm,-86 dBm,-80 dBm,-78 dBm,-92 dBm,-91 dBm,-82 dBm
+H8,-77 dBm,-78 dBm,-86 dBm,-78 dBm,-84 dBm,-90 dBm,-88 dBm,-80 dBm
+H8,-77 dBm,-73 dBm,-85 dBm,-80 dBm,-89 dBm,-92 dBm,-88 dBm,-82 dBm
+H8,-78 dBm,-78 dBm,-86 dBm,-80 dBm,-88 dBm,-93 dBm,-93 dBm,-80 dBm
+H8,-79 dBm,-78 dBm,-86 dBm,-78 dBm,-82 dBm,-93 dBm,-94 dBm,-81 dBm
+H8,-78 dBm,-78 dBm,-88 dBm,-79 dBm,-83 dBm,-92 dBm,-90 dBm,-78 dBm
+H8,-81 dBm,-77 dBm,-83 dBm,-80 dBm,-86 dBm,-91 dBm,-92 dBm,-81 dBm
+H8,-79 dBm,-77 dBm,-88 dBm,-81 dBm,-90 dBm,-90 dBm,-90 dBm,-81 dBm
+H8,-82 dBm,-77 dBm,-85 dBm,-80 dBm,-89 dBm,-90 dBm,-89 dBm,-80 dBm
+H8,-81 dBm,-76 dBm,-84 dBm,-81 dBm,-90 dBm,-92 dBm,-88 dBm,-81 dBm
+H8,-81 dBm,-77 dBm,-84 dBm,-81 dBm,-86 dBm,-89 dBm,-91 dBm,-78 dBm
+H8,-86 dBm,-76 dBm,-83 dBm,-79 dBm,-84 dBm,-91 dBm,-94 dBm,-80 dBm
+H8,-84 dBm,-77 dBm,-84 dBm,-83 dBm,-87 dBm,-94 dBm,-91 dBm,-80 dBm
+H8,-79 dBm,-78 dBm,-86 dBm,-84 dBm,-87 dBm,-93 dBm,-92 dBm,-80 dBm
+H8,-79 dBm,-77 dBm,-83 dBm,-84 dBm,-84 dBm,-91 dBm,-93 dBm,-80 dBm
+H8,-79 dBm,-78 dBm,-85 dBm,-83 dBm,-83 dBm,-94 dBm,-94 dBm,-79 dBm
+H8,-80 dBm,-78 dBm,-85 dBm,-83 dBm,-83 dBm,-90 dBm,-93 dBm,-80 dBm
+H8,-79 dBm,-77 dBm,-86 dBm,-82 dBm,-83 dBm,-89 dBm,-92 dBm,-81 dBm
+H8,-80 dBm,-78 dBm,-83 dBm,-82 dBm,-91 dBm,-92 dBm,-89 dBm,-78 dBm
+H8,-79 dBm,-78 dBm,-85 dBm,-82 dBm,-90 dBm,-91 dBm,-97 dBm,-80 dBm
+H8,-74 dBm,-77 dBm,-86 dBm,-83 dBm,-86 dBm,-92 dBm,-93 dBm,-80 dBm
+H8,-77 dBm,-78 dBm,-83 dBm,-79 dBm,-82 dBm,-90 dBm,-93 dBm,-80 dBm
+H8,-75 dBm,-79 dBm,-85 dBm,-81 dBm,-83 dBm,-89 dBm,-91 dBm,-79 dBm
+H8,-76 dBm,-78 dBm,-84 dBm,-82 dBm,-86 dBm,-93 dBm,-92 dBm,-80 dBm
+H8,-75 dBm,-77 dBm,-87 dBm,-82 dBm,-83 dBm,-92 dBm,-92 dBm,-79 dBm
+H8,-77 dBm,-74 dBm,-85 dBm,-83 dBm,-93 dBm,0,0,-79 dBm
+H8,-77 dBm,-78 dBm,-86 dBm,-84 dBm,-90 dBm,0,0,-79 dBm
+,,,,,,,,
+H9,-66 dBm,-79 dBm,-86 dBm,-82 dBm,-69 dBm,-88 dBm,-85 dBm,-82 dBm
+H9,-67 dBm,-85 dBm,-84 dBm,-84 dBm,-65 dBm,-90 dBm,-91 dBm,-90 dBm
+H9,-64 dBm,-84 dBm,-87 dBm,-82 dBm,-71 dBm,-94 dBm,-92 dBm,-89 dBm
+H9,-66 dBm,-85 dBm,-86 dBm,-83 dBm,-68 dBm,-90 dBm,-93 dBm,-90 dBm
+H9,-64 dBm,-85 dBm,-87 dBm,-79 dBm,-67 dBm,-90 dBm,-86 dBm,-92 dBm
+H9,-65 dBm,-85 dBm,-83 dBm,-83 dBm,-64 dBm,-89 dBm,-88 dBm,-89 dBm
+H9,-64 dBm,-79 dBm,-85 dBm,-81 dBm,-65 dBm,-87 dBm,-91 dBm,-90 dBm
+H9,-66 dBm,-85 dBm,-87 dBm,-83 dBm,-65 dBm,-90 dBm,-93 dBm,-92 dBm
+H9,-65 dBm,-84 dBm,-87 dBm,-83 dBm,-66 dBm,-90 dBm,-89 dBm,-91 dBm
+H9,-65 dBm,-85 dBm,-86 dBm,-84 dBm,-66 dBm,-88 dBm,-89 dBm,-95 dBm
+H9,-65 dBm,-82 dBm,-88 dBm,-82 dBm,-66 dBm,-91 dBm,-92 dBm,-90 dBm
+H9,-64 dBm,-84 dBm,-89 dBm,-83 dBm,-65 dBm,-90 dBm,-90 dBm,-90 dBm
+H9,-65 dBm,-85 dBm,-88 dBm,-81 dBm,-67 dBm,-88 dBm,-89 dBm,-90 dBm
+H9,-64 dBm,-86 dBm,-90 dBm,-83 dBm,-65 dBm,-90 dBm,-90 dBm,-89 dBm
+H9,-63 dBm,-82 dBm,-85 dBm,-83 dBm,-66 dBm,-89 dBm,-93 dBm,-88 dBm
+H9,-67 dBm,-86 dBm,-85 dBm,-84 dBm,-64 dBm,-89 dBm,-91 dBm,-93 dBm
+H9,-65 dBm,-82 dBm,-85 dBm,-83 dBm,-63 dBm,-90 dBm,-91 dBm,-87 dBm
+H9,-65 dBm,-83 dBm,-84 dBm,-83 dBm,-65 dBm,-87 dBm,-89 dBm,-89 dBm
+H9,-65 dBm,-85 dBm,-87 dBm,-84 dBm,-65 dBm,-89 dBm,-91 dBm,-91 dBm
+H9,-67 dBm,-86 dBm,-86 dBm,-83 dBm,-66 dBm,-88 dBm,-94 dBm,-88 dBm
+H9,-64 dBm,-86 dBm,-88 dBm,-84 dBm,-66 dBm,-88 dBm,-85 dBm,-93 dBm
+H9,-66 dBm,-85 dBm,-90 dBm,-85 dBm,-65 dBm,-89 dBm,-83 dBm,-93 dBm
+H9,-66 dBm,-85 dBm,-86 dBm,-84 dBm,-64 dBm,-90 dBm,-83 dBm,-91 dBm
+H9,-64 dBm,-79 dBm,-85 dBm,-85 dBm,-61 dBm,-91 dBm,-85 dBm,-87 dBm
+H9,-65 dBm,-82 dBm,-82 dBm,-82 dBm,-64 dBm,-90 dBm,-87 dBm,-87 dBm
+H9,-65 dBm,-86 dBm,-85 dBm,-83 dBm,-59 dBm,-88 dBm,-88 dBm,-87 dBm
+H9,-65 dBm,-81 dBm,-84 dBm,-83 dBm,-65 dBm,-89 dBm,-87 dBm,-89 dBm
+H9,-64 dBm,-85 dBm,-83 dBm,-84 dBm,-65 dBm,-89 dBm,-89 dBm,-86 dBm
+H9,-63 dBm,-83 dBm,-84 dBm,-86 dBm,-64 dBm,-90 dBm,-84 dBm,-86 dBm
+H9,-64 dBm,-85 dBm,-85 dBm,-83 dBm,-64 dBm,-86 dBm,0,-87 dBm
+H9,-65 dBm,-86 dBm,-86 dBm,-85 dBm,-66 dBm,-89 dBm,0,-87 dBm
+H9,-64 dBm,-84 dBm,-85 dBm,-85 dBm,-65 dBm,-91 dBm,0,-85 dBm
+,,,,,,,,
+I1,-80 dBm,-93 dBm,-80 dBm,-92 dBm,-67 dBm,-83 dBm,-82 dBm,-86 dBm
+I1,-75 dBm,-92 dBm,-78 dBm,-87 dBm,-76 dBm,-85 dBm,-77 dBm,-91 dBm
+I1,-80 dBm,-86 dBm,-79 dBm,-77 dBm,-70 dBm,-83 dBm,-78 dBm,-92 dBm
+I1,-79 dBm,-93 dBm,-80 dBm,-82 dBm,-69 dBm,-88 dBm,-78 dBm,-87 dBm
+I1,-78 dBm,-90 dBm,-81 dBm,-89 dBm,-66 dBm,-80 dBm,-77 dBm,-86 dBm
+I1,-78 dBm,-91 dBm,-79 dBm,-89 dBm,-67 dBm,-82 dBm,-81 dBm,-86 dBm
+I1,-81 dBm,-90 dBm,-78 dBm,-88 dBm,-69 dBm,-82 dBm,-76 dBm,-85 dBm
+I1,-78 dBm,-93 dBm,-80 dBm,-87 dBm,-67 dBm,-80 dBm,-80 dBm,-89 dBm
+I1,-81 dBm,-91 dBm,-80 dBm,-88 dBm,-68 dBm,-82 dBm,-81 dBm,-87 dBm
+I1,-80 dBm,-89 dBm,-80 dBm,-87 dBm,-68 dBm,-87 dBm,-81 dBm,-87 dBm
+I1,-78 dBm,-90 dBm,-80 dBm,-89 dBm,-69 dBm,-87 dBm,-80 dBm,-87 dBm
+I1,-82 dBm,-94 dBm,-80 dBm,-86 dBm,-68 dBm,-87 dBm,-79 dBm,-89 dBm
+I1,-79 dBm,-92 dBm,-79 dBm,-85 dBm,-68 dBm,-88 dBm,-82 dBm,-86 dBm
+I1,-83 dBm,-90 dBm,-79 dBm,-86 dBm,-68 dBm,-83 dBm,-81 dBm,-88 dBm
+I1,-81 dBm,-89 dBm,-78 dBm,-83 dBm,-67 dBm,-84 dBm,-81 dBm,-89 dBm
+I1,-81 dBm,-91 dBm,-79 dBm,-81 dBm,-69 dBm,-83 dBm,-81 dBm,-89 dBm
+I1,-80 dBm,-89 dBm,-79 dBm,-85 dBm,-69 dBm,-82 dBm,-81 dBm,-88 dBm
+I1,-81 dBm,-91 dBm,-81 dBm,-85 dBm,-68 dBm,-84 dBm,-82 dBm,-88 dBm
+I1,-82 dBm,-90 dBm,-81 dBm,-87 dBm,-69 dBm,-83 dBm,-80 dBm,-87 dBm
+I1,-79 dBm,-90 dBm,-82 dBm,-87 dBm,-68 dBm,-83 dBm,-82 dBm,-89 dBm
+I1,-80 dBm,-90 dBm,-81 dBm,-88 dBm,-68 dBm,-86 dBm,-81 dBm,-88 dBm
+I1,-79 dBm,-93 dBm,-79 dBm,-83 dBm,-67 dBm,-84 dBm,-81 dBm,-87 dBm
+I1,-80 dBm,-91 dBm,-78 dBm,-86 dBm,-69 dBm,-84 dBm,-79 dBm,-86 dBm
+I1,-80 dBm,-92 dBm,-80 dBm,-82 dBm,-68 dBm,-88 dBm,-81 dBm,-87 dBm
+I1,-80 dBm,-93 dBm,-80 dBm,-87 dBm,-66 dBm,-83 dBm,-80 dBm,-87 dBm
+I1,-79 dBm,-92 dBm,-78 dBm,-84 dBm,-68 dBm,-82 dBm,-81 dBm,-88 dBm
+I1,-79 dBm,-90 dBm,-76 dBm,-88 dBm,-68 dBm,-81 dBm,-82 dBm,-88 dBm
+I1,-76 dBm,-95 dBm,-82 dBm,-85 dBm,-66 dBm,-82 dBm,-78 dBm,-86 dBm
+I1,-78 dBm,-91 dBm,-80 dBm,-84 dBm,-67 dBm,-83 dBm,-82 dBm,-88 dBm
+I1,-80 dBm,-92 dBm,-80 dBm,-85 dBm,-68 dBm,-82 dBm,-79 dBm,-86 dBm
+I1,-80 dBm,-92 dBm,-82 dBm,-84 dBm,-67 dBm,-80 dBm,-82 dBm,-85 dBm
+I1,-82 dBm,-93 dBm,-82 dBm,-84 dBm,-67 dBm,-83 dBm,-83 dBm,-93 dBm
+I1,-80 dBm,-92 dBm,-80 dBm,-87 dBm,-67 dBm,-82 dBm,-82 dBm,-87 dBm
+,,,,,,,,
+I2,-88 dBm,-90 dBm,-86 dBm,-76 dBm,-74 dBm,-92 dBm,-81 dBm,-93 dBm
+I2,-83 dBm,-92 dBm,-88 dBm,-75 dBm,-71 dBm,-89 dBm,-94 dBm,-92 dBm
+I2,-82 dBm,-92 dBm,-82 dBm,-77 dBm,-75 dBm,-88 dBm,-92 dBm,-91 dBm
+I2,-82 dBm,-87 dBm,-84 dBm,-79 dBm,-78 dBm,-90 dBm,-91 dBm,-91 dBm
+I2,-85 dBm,-92 dBm,-81 dBm,-76 dBm,-72 dBm,-91 dBm,-90 dBm,-90 dBm
+I2,-85 dBm,-94 dBm,-84 dBm,-78 dBm,-77 dBm,-92 dBm,-90 dBm,-91 dBm
+I2,-83 dBm,-91 dBm,-84 dBm,-79 dBm,-81 dBm,-95 dBm,-88 dBm,-88 dBm
+I2,-82 dBm,-91 dBm,-84 dBm,-78 dBm,-78 dBm,-87 dBm,-86 dBm,-92 dBm
+I2,-83 dBm,-91 dBm,-83 dBm,-74 dBm,-73 dBm,-88 dBm,-87 dBm,-90 dBm
+I2,-82 dBm,-92 dBm,-82 dBm,-78 dBm,-76 dBm,-91 dBm,-86 dBm,-93 dBm
+I2,-78 dBm,-94 dBm,-88 dBm,-78 dBm,-78 dBm,-89 dBm,-88 dBm,-90 dBm
+I2,-84 dBm,-92 dBm,-91 dBm,-75 dBm,-74 dBm,-91 dBm,-93 dBm,-92 dBm
+I2,-84 dBm,-92 dBm,-92 dBm,-76 dBm,-72 dBm,-91 dBm,-88 dBm,-92 dBm
+I2,-82 dBm,-93 dBm,-89 dBm,-78 dBm,-72 dBm,-91 dBm,-85 dBm,-87 dBm
+I2,-86 dBm,-88 dBm,-91 dBm,-77 dBm,-73 dBm,-90 dBm,-88 dBm,-87 dBm
+I2,-86 dBm,-93 dBm,-89 dBm,-77 dBm,-73 dBm,-88 dBm,-90 dBm,-89 dBm
+I2,-83 dBm,-95 dBm,-89 dBm,-75 dBm,-74 dBm,-92 dBm,-85 dBm,-91 dBm
+I2,-83 dBm,-92 dBm,-88 dBm,-76 dBm,-81 dBm,-92 dBm,-84 dBm,-89 dBm
+I2,-81 dBm,-94 dBm,-86 dBm,-74 dBm,-76 dBm,-87 dBm,-84 dBm,-89 dBm
+I2,-85 dBm,-93 dBm,-91 dBm,-77 dBm,-75 dBm,-87 dBm,-89 dBm,-86 dBm
+I2,-84 dBm,-92 dBm,-86 dBm,-73 dBm,-74 dBm,-94 dBm,-84 dBm,-88 dBm
+I2,-82 dBm,-92 dBm,-86 dBm,-78 dBm,-85 dBm,-87 dBm,-89 dBm,-90 dBm
+I2,-83 dBm,-92 dBm,-87 dBm,-75 dBm,-78 dBm,-92 dBm,-91 dBm,-87 dBm
+I2,-81 dBm,-93 dBm,-89 dBm,-74 dBm,-78 dBm,-93 dBm,-85 dBm,-88 dBm
+I2,-82 dBm,-91 dBm,-86 dBm,-76 dBm,-82 dBm,-92 dBm,-87 dBm,-88 dBm
+I2,-85 dBm,-94 dBm,-89 dBm,-76 dBm,-77 dBm,-87 dBm,-90 dBm,-90 dBm
+I2,-91 dBm,-89 dBm,-85 dBm,-76 dBm,-76 dBm,-90 dBm,-90 dBm,-88 dBm
+I2,-85 dBm,-89 dBm,-85 dBm,-77 dBm,-76 dBm,-90 dBm,-86 dBm,-84 dBm
+I2,-82 dBm,-92 dBm,-84 dBm,-77 dBm,-73 dBm,-92 dBm,-93 dBm,0
+I2,-84 dBm,-92 dBm,-88 dBm,-76 dBm,-74 dBm,-91 dBm,-86 dBm,0
+I2,-84 dBm,-91 dBm,-88 dBm,-74 dBm,-74 dBm,-88 dBm,-89 dBm,0
+I2,-84 dBm,0,-93 dBm,-75 dBm,-70 dBm,-91 dBm,-88 dBm,0
+I2,-86 dBm,0,-88 dBm,-72 dBm,-77 dBm,-89 dBm,0,0
+,,,,,,,,
+I3,-79 dBm,-93 dBm,-82 dBm,-76 dBm,-72 dBm,-78 dBm,-95 dBm,-85 dBm
+I3,-82 dBm,-93 dBm,-81 dBm,-76 dBm,-69 dBm,-81 dBm,-88 dBm,-86 dBm
+I3,-78 dBm,-92 dBm,-82 dBm,-77 dBm,-70 dBm,-80 dBm,-89 dBm,-85 dBm
+I3,-77 dBm,-91 dBm,-78 dBm,-77 dBm,-72 dBm,-82 dBm,-84 dBm,-85 dBm
+I3,-79 dBm,-92 dBm,-83 dBm,-75 dBm,-70 dBm,-80 dBm,-88 dBm,-86 dBm
+I3,-78 dBm,-93 dBm,-83 dBm,-77 dBm,-69 dBm,-85 dBm,-90 dBm,-86 dBm
+I3,-79 dBm,-94 dBm,-82 dBm,-73 dBm,-71 dBm,-80 dBm,-94 dBm,-85 dBm
+I3,-83 dBm,-93 dBm,-84 dBm,-75 dBm,-72 dBm,-84 dBm,-92 dBm,-85 dBm
+I3,-80 dBm,-94 dBm,-82 dBm,-77 dBm,-72 dBm,-81 dBm,-91 dBm,-86 dBm
+I3,-82 dBm,-93 dBm,-83 dBm,-77 dBm,-72 dBm,-81 dBm,-89 dBm,-85 dBm
+I3,-80 dBm,-93 dBm,-83 dBm,-77 dBm,-72 dBm,-80 dBm,-90 dBm,-85 dBm
+I3,-83 dBm,-91 dBm,-82 dBm,-80 dBm,-68 dBm,-82 dBm,-89 dBm,-86 dBm
+I3,-83 dBm,-95 dBm,-81 dBm,-78 dBm,-70 dBm,-82 dBm,-88 dBm,-87 dBm
+I3,-84 dBm,-92 dBm,-83 dBm,-77 dBm,-71 dBm,-82 dBm,-91 dBm,-85 dBm
+I3,-83 dBm,-92 dBm,-82 dBm,-76 dBm,-71 dBm,-83 dBm,-93 dBm,-85 dBm
+I3,-83 dBm,-95 dBm,-85 dBm,-76 dBm,-71 dBm,-81 dBm,-89 dBm,-85 dBm
+I3,-83 dBm,-94 dBm,-81 dBm,-76 dBm,-71 dBm,-81 dBm,-92 dBm,-85 dBm
+I3,-84 dBm,-91 dBm,-82 dBm,-76 dBm,-70 dBm,-85 dBm,-88 dBm,-86 dBm
+I3,-84 dBm,-95 dBm,-82 dBm,-77 dBm,-73 dBm,-83 dBm,-86 dBm,-85 dBm
+I3,-84 dBm,-92 dBm,-83 dBm,-77 dBm,-70 dBm,-82 dBm,-88 dBm,-86 dBm
+I3,-83 dBm,-95 dBm,-83 dBm,-75 dBm,-71 dBm,-81 dBm,-89 dBm,-86 dBm
+I3,-83 dBm,-93 dBm,-81 dBm,-75 dBm,-71 dBm,-82 dBm,-93 dBm,-85 dBm
+I3,-82 dBm,-97 dBm,-82 dBm,-77 dBm,-72 dBm,-82 dBm,-92 dBm,-86 dBm
+I3,-81 dBm,-93 dBm,-81 dBm,-77 dBm,-70 dBm,-80 dBm,-90 dBm,-87 dBm
+I3,-83 dBm,-94 dBm,-82 dBm,-77 dBm,-70 dBm,-81 dBm,-88 dBm,-86 dBm
+I3,-82 dBm,-90 dBm,-81 dBm,-72 dBm,-73 dBm,-82 dBm,-90 dBm,-85 dBm
+I3,-81 dBm,-92 dBm,-81 dBm,-77 dBm,-71 dBm,-82 dBm,-88 dBm,-84 dBm
+I3,-85 dBm,-94 dBm,-81 dBm,-79 dBm,-73 dBm,-82 dBm,-88 dBm,-83 dBm
+I3,-86 dBm,-94 dBm,-81 dBm,-74 dBm,-72 dBm,-83 dBm,-88 dBm,-85 dBm
+I3,-82 dBm,-93 dBm,-83 dBm,-75 dBm,-72 dBm,-80 dBm,-90 dBm,-85 dBm
+I3,-85 dBm,0,-83 dBm,-77 dBm,-73 dBm,-81 dBm,-89 dBm,-85 dBm
+I3,-83 dBm,0,-83 dBm,-75 dBm,-72 dBm,-81 dBm,0,-87 dBm
+,,,,,,,,
+I4,-79 dBm,-81 dBm,-85 dBm,-74 dBm,-75 dBm,-90 dBm,-80 dBm,-85 dBm
+I4,-82 dBm,-83 dBm,-86 dBm,-74 dBm,-73 dBm,-86 dBm,-77 dBm,-87 dBm
+I4,-80 dBm,-82 dBm,-84 dBm,-74 dBm,-72 dBm,-87 dBm,-81 dBm,-85 dBm
+I4,-80 dBm,-85 dBm,-84 dBm,-74 dBm,-73 dBm,-88 dBm,-83 dBm,-87 dBm
+I4,-78 dBm,-83 dBm,-82 dBm,-74 dBm,-74 dBm,-87 dBm,-82 dBm,-86 dBm
+I4,-76 dBm,-82 dBm,-85 dBm,-71 dBm,-75 dBm,-87 dBm,-82 dBm,-89 dBm
+I4,-78 dBm,-82 dBm,-88 dBm,-76 dBm,-71 dBm,-89 dBm,-80 dBm,-84 dBm
+I4,-76 dBm,-83 dBm,-81 dBm,-75 dBm,-75 dBm,-85 dBm,-78 dBm,-88 dBm
+I4,-81 dBm,-81 dBm,-84 dBm,-73 dBm,-73 dBm,-91 dBm,-80 dBm,-84 dBm
+I4,-80 dBm,-83 dBm,-84 dBm,-73 dBm,-74 dBm,-90 dBm,-84 dBm,-89 dBm
+I4,-81 dBm,-83 dBm,-84 dBm,-72 dBm,-73 dBm,-88 dBm,-81 dBm,-84 dBm
+I4,-79 dBm,-81 dBm,-84 dBm,-75 dBm,-75 dBm,-92 dBm,-82 dBm,-86 dBm
+I4,-75 dBm,-81 dBm,-83 dBm,-73 dBm,-73 dBm,-88 dBm,-83 dBm,-86 dBm
+I4,-79 dBm,-83 dBm,-84 dBm,-74 dBm,-73 dBm,-90 dBm,-84 dBm,-84 dBm
+I4,-80 dBm,-83 dBm,-84 dBm,-74 dBm,-74 dBm,-90 dBm,-83 dBm,-85 dBm
+I4,-79 dBm,-86 dBm,-88 dBm,-71 dBm,-74 dBm,-91 dBm,-80 dBm,-90 dBm
+I4,-79 dBm,-84 dBm,-85 dBm,-74 dBm,-76 dBm,-92 dBm,-82 dBm,-85 dBm
+I4,-78 dBm,-83 dBm,-84 dBm,-78 dBm,-73 dBm,-90 dBm,-82 dBm,-86 dBm
+I4,-78 dBm,-81 dBm,-85 dBm,-74 dBm,-74 dBm,-90 dBm,-83 dBm,-87 dBm
+I4,-80 dBm,-82 dBm,-84 dBm,-77 dBm,-74 dBm,-91 dBm,-82 dBm,-85 dBm
+I4,-82 dBm,-82 dBm,-82 dBm,-75 dBm,-75 dBm,-90 dBm,-80 dBm,-87 dBm
+I4,-80 dBm,-82 dBm,-81 dBm,-76 dBm,-70 dBm,-93 dBm,-85 dBm,-85 dBm
+I4,-79 dBm,-84 dBm,-85 dBm,-74 dBm,-72 dBm,-89 dBm,-80 dBm,-85 dBm
+I4,-81 dBm,-85 dBm,-87 dBm,-74 dBm,-73 dBm,-90 dBm,-84 dBm,-85 dBm
+I4,-80 dBm,-83 dBm,-84 dBm,-74 dBm,-74 dBm,-91 dBm,-82 dBm,-88 dBm
+I4,-83 dBm,-82 dBm,-85 dBm,-71 dBm,-75 dBm,-91 dBm,-80 dBm,-87 dBm
+I4,-77 dBm,-83 dBm,-84 dBm,-72 dBm,-73 dBm,-89 dBm,-79 dBm,-88 dBm
+I4,-80 dBm,-83 dBm,-86 dBm,-72 dBm,-72 dBm,-95 dBm,-82 dBm,-89 dBm
+I4,-81 dBm,-83 dBm,-86 dBm,-74 dBm,-74 dBm,-89 dBm,-78 dBm,-89 dBm
+I4,-82 dBm,-82 dBm,-88 dBm,-70 dBm,-72 dBm,-91 dBm,-82 dBm,-84 dBm
+I4,-81 dBm,-85 dBm,-82 dBm,-73 dBm,-73 dBm,-91 dBm,-81 dBm,-87 dBm
+I4,-81 dBm,-84 dBm,-83 dBm,-72 dBm,-74 dBm,-92 dBm,0,0
+,,,,,,,,
+I5,-76 dBm,-85 dBm,-76 dBm,-82 dBm,-66 dBm,-80 dBm,-76 dBm,-82 dBm
+I5,-76 dBm,-84 dBm,-78 dBm,-88 dBm,-67 dBm,-82 dBm,-77 dBm,-88 dBm
+I5,-78 dBm,-83 dBm,-81 dBm,-79 dBm,-68 dBm,-86 dBm,-74 dBm,-87 dBm
+I5,-80 dBm,-83 dBm,-74 dBm,-81 dBm,-67 dBm,-83 dBm,-72 dBm,-87 dBm
+I5,-76 dBm,-83 dBm,-77 dBm,-81 dBm,-66 dBm,-84 dBm,-74 dBm,-84 dBm
+I5,-79 dBm,-83 dBm,-76 dBm,-82 dBm,-67 dBm,-84 dBm,-74 dBm,-85 dBm
+I5,-82 dBm,-83 dBm,-79 dBm,-77 dBm,-65 dBm,-84 dBm,-75 dBm,-84 dBm
+I5,-85 dBm,-82 dBm,-80 dBm,-84 dBm,-63 dBm,-84 dBm,-74 dBm,-90 dBm
+I5,-76 dBm,-82 dBm,-76 dBm,-79 dBm,-66 dBm,-84 dBm,-73 dBm,-86 dBm
+I5,-80 dBm,-84 dBm,-76 dBm,-82 dBm,-65 dBm,-90 dBm,-73 dBm,-85 dBm
+I5,-76 dBm,-83 dBm,-77 dBm,-80 dBm,-65 dBm,-84 dBm,-73 dBm,-85 dBm
+I5,-78 dBm,-82 dBm,-75 dBm,-80 dBm,-65 dBm,-83 dBm,-75 dBm,-88 dBm
+I5,-78 dBm,-82 dBm,-75 dBm,-81 dBm,-67 dBm,-85 dBm,-76 dBm,-86 dBm
+I5,-76 dBm,-83 dBm,-77 dBm,-85 dBm,-66 dBm,-87 dBm,-75 dBm,-85 dBm
+I5,-80 dBm,-82 dBm,-76 dBm,-81 dBm,-67 dBm,-82 dBm,-73 dBm,-87 dBm
+I5,-78 dBm,-83 dBm,-76 dBm,-81 dBm,-66 dBm,-83 dBm,-76 dBm,-84 dBm
+I5,-79 dBm,-82 dBm,-76 dBm,-80 dBm,-67 dBm,-83 dBm,-76 dBm,-86 dBm
+I5,-78 dBm,-84 dBm,-75 dBm,-79 dBm,-66 dBm,-81 dBm,-74 dBm,-85 dBm
+I5,-80 dBm,-83 dBm,-77 dBm,-81 dBm,-65 dBm,-83 dBm,-75 dBm,-83 dBm
+I5,-80 dBm,-84 dBm,-74 dBm,-80 dBm,-65 dBm,-83 dBm,-76 dBm,-86 dBm
+I5,-79 dBm,-83 dBm,-75 dBm,-79 dBm,-66 dBm,-81 dBm,-75 dBm,-84 dBm
+I5,-79 dBm,-83 dBm,-77 dBm,-75 dBm,-66 dBm,-81 dBm,-72 dBm,-82 dBm
+I5,-77 dBm,-85 dBm,-75 dBm,-81 dBm,-66 dBm,-83 dBm,-74 dBm,-83 dBm
+I5,-81 dBm,-84 dBm,-77 dBm,-81 dBm,-67 dBm,-84 dBm,-72 dBm,-82 dBm
+I5,-79 dBm,-83 dBm,-77 dBm,-81 dBm,-66 dBm,-78 dBm,-72 dBm,-84 dBm
+I5,-77 dBm,-83 dBm,-75 dBm,-81 dBm,-66 dBm,-82 dBm,-71 dBm,-85 dBm
+I5,-79 dBm,-84 dBm,-76 dBm,-80 dBm,-67 dBm,-83 dBm,-72 dBm,-83 dBm
+I5,-77 dBm,-80 dBm,-77 dBm,-81 dBm,-67 dBm,-82 dBm,-73 dBm,-84 dBm
+I5,-79 dBm,-83 dBm,-74 dBm,-81 dBm,-70 dBm,-84 dBm,-72 dBm,-84 dBm
+I5,-78 dBm,-84 dBm,-77 dBm,-81 dBm,-67 dBm,-83 dBm,-72 dBm,0
+I5,-79 dBm,-84 dBm,-77 dBm,-82 dBm,-66 dBm,-83 dBm,-74 dBm,0
+I5,-80 dBm,-84 dBm,-78 dBm,-80 dBm,-68 dBm,-83 dBm,-71 dBm,0
+,,,,,,,,
+I6,-79 dBm,-92 dBm,-87 dBm,-71 dBm,-77 dBm,-87 dBm,-76 dBm,-83 dBm
+I6,-80 dBm,-92 dBm,-82 dBm,-73 dBm,-74 dBm,-87 dBm,-79 dBm,-81 dBm
+I6,-76 dBm,-90 dBm,-86 dBm,-74 dBm,-74 dBm,-88 dBm,-80 dBm,-80 dBm
+I6,-75 dBm,-93 dBm,-86 dBm,-74 dBm,-77 dBm,-90 dBm,-78 dBm,-81 dBm
+I6,-74 dBm,-93 dBm,-85 dBm,-81 dBm,-73 dBm,-91 dBm,-79 dBm,-82 dBm
+I6,-76 dBm,-94 dBm,-83 dBm,-71 dBm,-75 dBm,-86 dBm,-77 dBm,-80 dBm
+I6,-78 dBm,-91 dBm,-80 dBm,-76 dBm,-75 dBm,-90 dBm,-80 dBm,-88 dBm
+I6,-76 dBm,-93 dBm,-80 dBm,-76 dBm,-73 dBm,-89 dBm,-76 dBm,-82 dBm
+I6,-78 dBm,-91 dBm,-85 dBm,-76 dBm,-74 dBm,-89 dBm,-78 dBm,-82 dBm
+I6,-75 dBm,-93 dBm,-84 dBm,-75 dBm,-72 dBm,-90 dBm,-85 dBm,-82 dBm
+I6,-74 dBm,-91 dBm,-81 dBm,-75 dBm,-73 dBm,-88 dBm,-78 dBm,-80 dBm
+I6,-75 dBm,-93 dBm,-79 dBm,-76 dBm,-75 dBm,-89 dBm,-77 dBm,-81 dBm
+I6,-74 dBm,-93 dBm,-82 dBm,-74 dBm,-74 dBm,-88 dBm,-78 dBm,-81 dBm
+I6,-72 dBm,-92 dBm,-80 dBm,-81 dBm,-72 dBm,-88 dBm,-76 dBm,-79 dBm
+I6,-72 dBm,-95 dBm,-81 dBm,-74 dBm,-76 dBm,-84 dBm,-77 dBm,-78 dBm
+I6,-73 dBm,-95 dBm,-82 dBm,-75 dBm,-75 dBm,-87 dBm,-80 dBm,-75 dBm
+I6,-73 dBm,-91 dBm,-81 dBm,-76 dBm,-77 dBm,-88 dBm,-80 dBm,-81 dBm
+I6,-73 dBm,-95 dBm,-85 dBm,-75 dBm,-77 dBm,-89 dBm,-81 dBm,-83 dBm
+I6,-73 dBm,-93 dBm,-78 dBm,-74 dBm,-74 dBm,-91 dBm,-79 dBm,-81 dBm
+I6,-76 dBm,-92 dBm,-81 dBm,-72 dBm,-74 dBm,-88 dBm,-81 dBm,-82 dBm
+I6,-74 dBm,-95 dBm,-79 dBm,-76 dBm,-78 dBm,-89 dBm,-82 dBm,-83 dBm
+I6,-72 dBm,-90 dBm,-81 dBm,-75 dBm,-78 dBm,-85 dBm,-77 dBm,-82 dBm
+I6,-73 dBm,-92 dBm,-81 dBm,-74 dBm,-73 dBm,-89 dBm,-80 dBm,-88 dBm
+I6,-73 dBm,-94 dBm,-82 dBm,-81 dBm,-75 dBm,-88 dBm,-77 dBm,-81 dBm
+I6,-73 dBm,-92 dBm,-81 dBm,-73 dBm,-76 dBm,-88 dBm,-80 dBm,-81 dBm
+I6,-79 dBm,-93 dBm,-83 dBm,-76 dBm,-76 dBm,-88 dBm,-76 dBm,-81 dBm
+I6,-79 dBm,-92 dBm,-85 dBm,-74 dBm,-73 dBm,-85 dBm,-76 dBm,-83 dBm
+I6,-75 dBm,-93 dBm,-83 dBm,-77 dBm,-73 dBm,-87 dBm,-80 dBm,-81 dBm
+I6,-76 dBm,-95 dBm,-81 dBm,-76 dBm,-74 dBm,-86 dBm,-76 dBm,-82 dBm
+I6,-71 dBm,-91 dBm,-83 dBm,-76 dBm,-73 dBm,-87 dBm,-80 dBm,-83 dBm
+I6,-73 dBm,-91 dBm,-84 dBm,-77 dBm,-73 dBm,-85 dBm,-78 dBm,-85 dBm
+I6,-74 dBm,0,-84 dBm,-76 dBm,-75 dBm,-85 dBm,-79 dBm,-79 dBm
+I6,-73 dBm,0,-81 dBm,-75 dBm,-72 dBm,-84 dBm,-79 dBm,-82 dBm
+,,,,,,,,
+I7,-69 dBm,-90 dBm,-84 dBm,-79 dBm,-82 dBm,-92 dBm,-87 dBm,-83 dBm
+I7,-69 dBm,-90 dBm,-83 dBm,-75 dBm,-74 dBm,-89 dBm,-85 dBm,-84 dBm
+I7,-69 dBm,-89 dBm,-86 dBm,-75 dBm,-77 dBm,-89 dBm,-85 dBm,-83 dBm
+I7,-72 dBm,-90 dBm,-82 dBm,-76 dBm,-75 dBm,-91 dBm,-86 dBm,-82 dBm
+I7,-70 dBm,-94 dBm,-82 dBm,-78 dBm,-75 dBm,-90 dBm,-87 dBm,-81 dBm
+I7,-70 dBm,-89 dBm,-84 dBm,-76 dBm,-74 dBm,-82 dBm,-82 dBm,-82 dBm
+I7,-69 dBm,-89 dBm,-84 dBm,-77 dBm,-71 dBm,-89 dBm,-81 dBm,-82 dBm
+I7,-67 dBm,-89 dBm,-85 dBm,-78 dBm,-72 dBm,-90 dBm,-84 dBm,-81 dBm
+I7,-69 dBm,-91 dBm,-83 dBm,-78 dBm,-71 dBm,-89 dBm,-85 dBm,-81 dBm
+I7,-71 dBm,-94 dBm,-83 dBm,-75 dBm,-72 dBm,-87 dBm,-81 dBm,-83 dBm
+I7,-70 dBm,-92 dBm,-92 dBm,-81 dBm,-70 dBm,-90 dBm,-87 dBm,-82 dBm
+I7,-70 dBm,-87 dBm,-81 dBm,-80 dBm,-71 dBm,-90 dBm,-84 dBm,-83 dBm
+I7,-69 dBm,-89 dBm,-88 dBm,-77 dBm,-71 dBm,-90 dBm,-87 dBm,-81 dBm
+I7,-69 dBm,-90 dBm,-84 dBm,-79 dBm,-73 dBm,-88 dBm,-86 dBm,-81 dBm
+I7,-69 dBm,-89 dBm,-82 dBm,-78 dBm,-70 dBm,-85 dBm,-85 dBm,-81 dBm
+I7,-69 dBm,-92 dBm,-83 dBm,-78 dBm,-70 dBm,-89 dBm,-86 dBm,-81 dBm
+I7,-68 dBm,-91 dBm,-85 dBm,-79 dBm,-72 dBm,-91 dBm,-87 dBm,-87 dBm
+I7,-64 dBm,-90 dBm,-84 dBm,-80 dBm,-75 dBm,-88 dBm,-85 dBm,-85 dBm
+I7,-70 dBm,-88 dBm,-88 dBm,-81 dBm,-73 dBm,-91 dBm,-85 dBm,-83 dBm
+I7,-69 dBm,-92 dBm,-91 dBm,-81 dBm,-71 dBm,-89 dBm,-85 dBm,-80 dBm
+I7,-70 dBm,-89 dBm,-89 dBm,-78 dBm,-75 dBm,-87 dBm,-91 dBm,-82 dBm
+I7,-71 dBm,-90 dBm,-92 dBm,-83 dBm,-73 dBm,-89 dBm,-92 dBm,-83 dBm
+I7,-70 dBm,-93 dBm,-91 dBm,-80 dBm,-77 dBm,-91 dBm,-94 dBm,-80 dBm
+I7,-69 dBm,-89 dBm,-94 dBm,-79 dBm,-77 dBm,-90 dBm,-85 dBm,-82 dBm
+I7,-71 dBm,-90 dBm,-91 dBm,-81 dBm,-76 dBm,-92 dBm,-85 dBm,-81 dBm
+I7,-71 dBm,-92 dBm,-87 dBm,-79 dBm,-75 dBm,-92 dBm,-87 dBm,-83 dBm
+I7,-66 dBm,-89 dBm,-88 dBm,-80 dBm,-70 dBm,-89 dBm,-87 dBm,-88 dBm
+I7,-68 dBm,-89 dBm,-78 dBm,-75 dBm,-71 dBm,-87 dBm,-87 dBm,-78 dBm
+I7,-70 dBm,-92 dBm,-89 dBm,-79 dBm,-71 dBm,-87 dBm,-87 dBm,-82 dBm
+I7,-69 dBm,-92 dBm,-90 dBm,-79 dBm,-70 dBm,-90 dBm,-82 dBm,-82 dBm
+I7,-68 dBm,0,-93 dBm,-80 dBm,-72 dBm,-90 dBm,-83 dBm,-82 dBm
+I7,-68 dBm,0,-88 dBm,0,-72 dBm,0,-82 dBm,0
+,,,,,,,,
+I8,-72 dBm,-87 dBm,-83 dBm,-81 dBm,-70 dBm,-87 dBm,-81 dBm,-89 dBm
+I8,-69 dBm,-83 dBm,-84 dBm,-80 dBm,-70 dBm,-89 dBm,-83 dBm,-87 dBm
+I8,-70 dBm,-89 dBm,-77 dBm,-82 dBm,-70 dBm,-88 dBm,-82 dBm,-87 dBm
+I8,-73 dBm,-79 dBm,-83 dBm,-84 dBm,-73 dBm,-88 dBm,-88 dBm,-89 dBm
+I8,-70 dBm,-80 dBm,-86 dBm,-86 dBm,-70 dBm,-85 dBm,-81 dBm,-89 dBm
+I8,-72 dBm,-79 dBm,-82 dBm,-83 dBm,-71 dBm,-88 dBm,-86 dBm,-88 dBm
+I8,-73 dBm,-78 dBm,-84 dBm,-84 dBm,-71 dBm,-86 dBm,-79 dBm,-89 dBm
+I8,-71 dBm,-81 dBm,-83 dBm,-84 dBm,-68 dBm,-87 dBm,-86 dBm,-86 dBm
+I8,-73 dBm,-79 dBm,-82 dBm,-82 dBm,-73 dBm,-84 dBm,-84 dBm,-87 dBm
+I8,-69 dBm,-79 dBm,-84 dBm,-85 dBm,-71 dBm,-86 dBm,-78 dBm,-89 dBm
+I8,-71 dBm,-79 dBm,-86 dBm,-83 dBm,-72 dBm,-86 dBm,-84 dBm,-90 dBm
+I8,-69 dBm,-81 dBm,-88 dBm,-85 dBm,-72 dBm,-88 dBm,-82 dBm,-86 dBm
+I8,-73 dBm,-81 dBm,-84 dBm,-85 dBm,-72 dBm,-84 dBm,-90 dBm,-86 dBm
+I8,-72 dBm,-83 dBm,-85 dBm,-88 dBm,-71 dBm,-89 dBm,-82 dBm,-87 dBm
+I8,-72 dBm,-80 dBm,-85 dBm,-86 dBm,-71 dBm,-89 dBm,-87 dBm,-85 dBm
+I8,-72 dBm,-81 dBm,-84 dBm,-85 dBm,-70 dBm,-87 dBm,-87 dBm,-87 dBm
+I8,-73 dBm,-81 dBm,-82 dBm,-85 dBm,-72 dBm,-90 dBm,-86 dBm,-87 dBm
+I8,-73 dBm,-81 dBm,-85 dBm,-85 dBm,-70 dBm,-89 dBm,-84 dBm,-86 dBm
+I8,-71 dBm,-82 dBm,-81 dBm,-84 dBm,-71 dBm,-88 dBm,-86 dBm,-82 dBm
+I8,-73 dBm,-80 dBm,-85 dBm,-81 dBm,-70 dBm,-88 dBm,-86 dBm,-88 dBm
+I8,-70 dBm,-81 dBm,-81 dBm,-81 dBm,-70 dBm,-89 dBm,-86 dBm,-86 dBm
+I8,-73 dBm,-80 dBm,-80 dBm,-79 dBm,-70 dBm,-88 dBm,-87 dBm,-87 dBm
+I8,-70 dBm,-80 dBm,-88 dBm,-81 dBm,-73 dBm,-86 dBm,-87 dBm,-87 dBm
+I8,-67 dBm,-81 dBm,-83 dBm,-88 dBm,-72 dBm,-89 dBm,-85 dBm,-85 dBm
+I8,-72 dBm,-85 dBm,-86 dBm,-84 dBm,-70 dBm,-88 dBm,-83 dBm,-88 dBm
+I8,-71 dBm,-80 dBm,-82 dBm,-85 dBm,-72 dBm,-87 dBm,-84 dBm,-86 dBm
+I8,-71 dBm,-78 dBm,-82 dBm,-84 dBm,-71 dBm,-86 dBm,-87 dBm,-85 dBm
+I8,-70 dBm,-76 dBm,-83 dBm,-84 dBm,-72 dBm,-85 dBm,-90 dBm,-87 dBm
+I8,-71 dBm,-81 dBm,-80 dBm,-84 dBm,-73 dBm,-87 dBm,-82 dBm,-88 dBm
+I8,-70 dBm,-81 dBm,-85 dBm,-81 dBm,-72 dBm,-85 dBm,-85 dBm,-87 dBm
+I8,-72 dBm,-80 dBm,-88 dBm,-86 dBm,-72 dBm,-84 dBm,-85 dBm,-87 dBm
+I8,-70 dBm,-81 dBm,0,0,-69 dBm,-88 dBm,-84 dBm,0
+I8,-71 dBm,-79 dBm,0,0,-74 dBm,0,-81 dBm,0
+,,,,,,,,
+I9,-69 dBm,-80 dBm,-74 dBm,-77 dBm,-74 dBm,-89 dBm,-88 dBm,-83 dBm
+I9,-70 dBm,-87 dBm,-76 dBm,-75 dBm,-79 dBm,-91 dBm,-85 dBm,-83 dBm
+I9,-70 dBm,-86 dBm,-80 dBm,-76 dBm,-75 dBm,-92 dBm,-90 dBm,-81 dBm
+I9,-70 dBm,-85 dBm,-81 dBm,-76 dBm,-74 dBm,-93 dBm,-93 dBm,-84 dBm
+I9,-68 dBm,-84 dBm,-81 dBm,-76 dBm,-74 dBm,-94 dBm,-86 dBm,-84 dBm
+I9,-69 dBm,-84 dBm,-79 dBm,-76 dBm,-74 dBm,-90 dBm,-92 dBm,-83 dBm
+I9,-70 dBm,-84 dBm,-79 dBm,-77 dBm,-75 dBm,-89 dBm,-89 dBm,-83 dBm
+I9,-69 dBm,-85 dBm,-80 dBm,-72 dBm,-74 dBm,-91 dBm,-92 dBm,-82 dBm
+I9,-70 dBm,-86 dBm,-82 dBm,-75 dBm,-73 dBm,-91 dBm,-90 dBm,-83 dBm
+I9,-68 dBm,-85 dBm,-83 dBm,-77 dBm,-73 dBm,-90 dBm,-91 dBm,-84 dBm
+I9,-68 dBm,-86 dBm,-82 dBm,-76 dBm,-73 dBm,-91 dBm,-88 dBm,-82 dBm
+I9,-69 dBm,-85 dBm,-78 dBm,-75 dBm,-74 dBm,-92 dBm,-90 dBm,-83 dBm
+I9,-68 dBm,-83 dBm,-83 dBm,-79 dBm,-73 dBm,-90 dBm,-88 dBm,-84 dBm
+I9,-67 dBm,-85 dBm,-83 dBm,-77 dBm,-72 dBm,-91 dBm,-90 dBm,-84 dBm
+I9,-69 dBm,-85 dBm,-83 dBm,-76 dBm,-71 dBm,-89 dBm,-90 dBm,-83 dBm
+I9,-69 dBm,-85 dBm,-82 dBm,-77 dBm,-74 dBm,-91 dBm,-89 dBm,-83 dBm
+I9,-70 dBm,-84 dBm,-81 dBm,-82 dBm,-75 dBm,-92 dBm,-90 dBm,-84 dBm
+I9,-68 dBm,-84 dBm,-83 dBm,-77 dBm,-75 dBm,-91 dBm,-89 dBm,-81 dBm
+I9,-70 dBm,-85 dBm,-82 dBm,-76 dBm,-74 dBm,-93 dBm,-91 dBm,-81 dBm
+I9,-67 dBm,-86 dBm,-82 dBm,-77 dBm,-74 dBm,-93 dBm,-92 dBm,-81 dBm
+I9,-67 dBm,-84 dBm,-82 dBm,-76 dBm,-74 dBm,-92 dBm,-87 dBm,-81 dBm
+I9,-68 dBm,-83 dBm,-82 dBm,-76 dBm,-72 dBm,-92 dBm,-90 dBm,-85 dBm
+I9,-67 dBm,-84 dBm,-82 dBm,-76 dBm,-72 dBm,-88 dBm,-90 dBm,-83 dBm
+I9,-69 dBm,-83 dBm,-82 dBm,-77 dBm,-73 dBm,-91 dBm,-87 dBm,-84 dBm
+I9,-68 dBm,-83 dBm,-81 dBm,-76 dBm,-74 dBm,-91 dBm,-89 dBm,-83 dBm
+I9,-69 dBm,-84 dBm,-82 dBm,-76 dBm,-75 dBm,-91 dBm,-94 dBm,-82 dBm
+I9,-70 dBm,-87 dBm,-82 dBm,-78 dBm,-75 dBm,-88 dBm,-85 dBm,-83 dBm
+I9,-71 dBm,-80 dBm,-74 dBm,-81 dBm,-77 dBm,-89 dBm,-81 dBm,-81 dBm
+I9,-76 dBm,-79 dBm,-75 dBm,-81 dBm,-84 dBm,-92 dBm,-85 dBm,-82 dBm
+I9,-70 dBm,-78 dBm,-75 dBm,-79 dBm,-80 dBm,-92 dBm,-84 dBm,-83 dBm
+I9,-72 dBm,-79 dBm,-75 dBm,-79 dBm,-82 dBm,-91 dBm,-84 dBm,-82 dBm
+I9,-71 dBm,-80 dBm,-76 dBm,-80 dBm,-79 dBm,-93 dBm,-80 dBm,-83 dBm
+I9,-71 dBm,-80 dBm,-75 dBm,-79 dBm,-83 dBm,0,-84 dBm,-85 dBm
