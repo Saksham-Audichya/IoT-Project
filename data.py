@@ -2,8 +2,8 @@ import csv
 import re
 
 # File paths
-input_file_path = 'esp32_results.txt'  # Replace with the actual input file path
-output_file_path = 'SSID_grid.csv'  # Output CSV file
+input_file_path = 'esp32_results_1.txt'  # Replace with the actual input file path
+output_file_path = 'SSID_grid_1.csv'  # Output CSV file
 
 # Initialize the data structure to hold grid data
 grid_data = {}
